@@ -485,13 +485,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker-fout: locator.fill: Error: strict mode violation: getByRole('textbox', { name: 'Naam' }) resolved to 2 elements:\n    1) <input",
-    "updatedAt": "2026-07-28T10:54:16.439Z",
+    "message": "Worker online",
+    "updatedAt": "2026-07-28T10:54:20.324Z",
     "stage": "blocked",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T10:54:15.098Z",
+    "workerHeartbeatAt": "2026-07-28T10:54:20.099Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01"
   }
 }
