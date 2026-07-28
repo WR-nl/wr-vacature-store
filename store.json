@@ -448,7 +448,7 @@
       "meetsCriteria": true,
       "status": "entering_carerix",
       "createdAt": "2026-07-28T10:32:27.274Z",
-      "updatedAt": "2026-07-28T11:03:28.413Z"
+      "updatedAt": "2026-07-28T11:02:30.256Z"
     }
   ],
   "carerixLinks": [
@@ -486,12 +486,12 @@
     "enabled": true,
     "busy": true,
     "message": "Worker online",
-    "updatedAt": "2026-07-28T11:03:26.799Z",
+    "updatedAt": "2026-07-28T11:03:31.781Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T11:03:26.574Z",
+    "workerHeartbeatAt": "2026-07-28T11:03:31.575Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
     "currentIndex": 1
   }
