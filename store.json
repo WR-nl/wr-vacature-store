@@ -316,14 +316,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Worker online — wacht op werk",
-    "updatedAt": "2026-07-28T10:26:21.944Z",
-    "assignmentId": "b5684497-1301-4ecd-98aa-de9de4203099",
-    "stage": "done",
+    "busy": true,
+    "message": "Zoeken: test-runtime-cache-fix (0/1)",
+    "updatedAt": "2026-07-28T10:26:25.228Z",
+    "assignmentId": "8f3166f2-b5a5-4545-afa2-986483f88dff",
+    "stage": "searching",
     "targetCount": 1,
-    "etaSeconds": 0,
+    "etaSeconds": 450,
     "startedAt": "2026-07-28T09:16:15.095Z",
-    "workerHeartbeatAt": "2026-07-28T10:26:21.745Z"
+    "workerHeartbeatAt": "2026-07-28T10:26:21.745Z",
+    "currentIndex": 1
   }
 }
