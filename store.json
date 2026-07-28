@@ -472,9 +472,9 @@
       "roleSummary": "Middle office cash & settlement; admin/ops private bank.",
       "scoreNotes": "Eigen careers; middle office; EN; LU.",
       "meetsCriteria": true,
-      "status": "synced",
+      "status": "mail_ready",
       "createdAt": "2026-07-28T11:38:30.659Z",
-      "updatedAt": "2026-07-28T11:42:54.801Z"
+      "updatedAt": "2026-07-28T11:42:56.074Z"
     },
     {
       "id": "835ab6b5-1953-47a2-83a9-30319adff008",
@@ -668,6 +668,14 @@
     }
   ],
   "exports": [
+    {
+      "id": "5e7fc73c-5258-4a16-a406-a1c2ad49bacb",
+      "findingId": "d0906fb6-5dcf-4261-9c82-929d43c833c7",
+      "assignmentId": "635d4710-889a-4a6d-ba33-192d27f1b1e1",
+      "format": "markdown",
+      "content": "# Vacature-export — Middle Office Cash & Settlement Specialist\n\n## Opdracht\n- Titel: Bank employee\n- Regio: Luxemburg-stad (Luxemburg)\n- Sector: Internationale bank / private bank\n- Functies: Administratief, Client service, Middle office\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: Bank werknemer. Neem deze opdracht meteen op. Zet hem in carerix. \n\n## Gevonden vacature\n- Functie: Middle Office Cash & Settlement Specialist\n- Bedrijf: Quintet Private Bank (Europe) S.A.\n- Bron-URL: https://www.quintet.lu/en-lu/vacancies-list/job/middle-office-cash-&-settlement-specialist/3325\n- Host: quintet.lu\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Luxembourg City\n- Websitetaal: Engels\n- Omvang: European private bank; LU HQ — mid vs mega\n- Samenvatting: Middle office cash & settlement; admin/ops private bank.\n- Criteria-check: voldoet\n- Score-notities: Eigen careers; middle office; EN; LU.\n\n## Carerix\n- Opdrachtgever ID: 104161\n- Contactpersoon ID: 375196\n- Vacature ID: 248920\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Luxemburg-stad\",\n  \"country\": \"Luxemburg\",\n  \"functionTypes\": [\n    \"Administratief\",\n    \"Client service\",\n    \"Middle office\"\n  ],\n  \"sector\": \"Internationale bank / private bank\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Bank werknemer. Neem deze opdracht meteen op. Zet hem in carerix. \",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T11:42:56.073Z_",
+      "createdAt": "2026-07-28T11:42:56.074Z"
+    },
     {
       "id": "3cfeaaee-9931-4d6d-89cb-0e19f9ed5a9b",
       "findingId": "1acf8069-22eb-48cf-83f0-98ce0702629d",
