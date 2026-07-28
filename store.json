@@ -245,24 +245,6 @@
       "status": "mail_ready",
       "createdAt": "2026-07-28T09:00:41.279Z",
       "updatedAt": "2026-07-28T09:10:42.067Z"
-    },
-    {
-      "id": "b0ec60ad-a2a5-405e-9941-5618fe2c9587",
-      "assignmentId": "3209907d-3a46-400e-99ae-1e6639d63921",
-      "jobTitle": "Modeleur BIM (électricité / HVAC / sanitaire)",
-      "companyName": "Felgen & Associés Engineering",
-      "sourceUrl": "https://felgen-lu.eu/?page_id=91",
-      "uriHost": "felgen-lu.eu",
-      "locationText": "Luxembourg-Ville",
-      "websiteLanguage": "Frans",
-      "estimatedEmployees": 60,
-      "companySizeNote": "Bureau d'études techniques spéciales ~60 — SME",
-      "roleSummary": "Modeleur BIM Revit; HVAC/élec/sanitaire; FR/DE; Luxembourg.",
-      "scoreNotes": "Eigen recrutering-pagina; BIM/Revit; LU; SME; FR/DE.",
-      "meetsCriteria": true,
-      "status": "entering_carerix",
-      "createdAt": "2026-07-28T09:34:17.610Z",
-      "updatedAt": "2026-07-28T09:34:18.854Z"
     }
   ],
   "carerixLinks": [],
@@ -279,14 +261,14 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Gevonden: Modeleur BIM (électricité / HVAC / sanitaire) @ Felgen & Associés Engineering — klaar voor Carerix",
-    "updatedAt": "2026-07-28T09:34:20.004Z",
+    "message": "Opdracht klaar voor uitvoering: Tekenaar Bouw Luxemburg Stad",
+    "updatedAt": "2026-07-28T09:16:15.095Z",
     "assignmentId": "3209907d-3a46-400e-99ae-1e6639d63921",
-    "stage": "entering",
+    "stage": "queued",
     "targetCount": 1,
-    "etaSeconds": 330,
+    "etaSeconds": 450,
     "startedAt": "2026-07-28T09:16:15.095Z",
     "workerHeartbeatAt": "2026-07-28T09:10:00.000Z",
-    "currentIndex": 1
+    "currentIndex": 0
   }
 }
