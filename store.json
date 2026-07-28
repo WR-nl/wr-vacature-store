@@ -486,12 +486,12 @@
     "enabled": true,
     "busy": true,
     "message": "Carerix-invoer retry",
-    "updatedAt": "2026-07-28T10:53:58.458Z",
+    "updatedAt": "2026-07-28T10:54:00.667Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T10:52:04.163Z",
+    "workerHeartbeatAt": "2026-07-28T10:54:00.467Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
     "currentIndex": 1
   }
