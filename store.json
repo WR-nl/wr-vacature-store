@@ -504,13 +504,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar: vac 248916 / OG 104157 / CP 375191 — Hamer Servicemonteur HVAC",
-    "updatedAt": "2026-07-28T11:26:33.887Z",
+    "message": "Worker online — wacht op werk",
+    "updatedAt": "2026-07-28T11:27:14.309Z",
     "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T11:10:56.207Z",
-    "workerHeartbeatAt": "2026-07-28T11:03:39.157Z",
+    "workerHeartbeatAt": "2026-07-28T11:27:14.091Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01"
   }
 }
