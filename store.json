@@ -472,9 +472,9 @@
       "roleSummary": "Middle office cash & settlement; admin/ops private bank.",
       "scoreNotes": "Eigen careers; middle office; EN; LU.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-07-28T11:38:30.659Z",
-      "updatedAt": "2026-07-28T11:40:01.263Z"
+      "updatedAt": "2026-07-28T11:42:54.801Z"
     },
     {
       "id": "835ab6b5-1953-47a2-83a9-30319adff008",
@@ -654,6 +654,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-07-28T11:36:08.379Z"
+    },
+    {
+      "id": "ef76fe59-8e4f-4fb6-819b-19ea4c556a86",
+      "findingId": "d0906fb6-5dcf-4261-9c82-929d43c833c7",
+      "companyId": "104161",
+      "contactId": "375196",
+      "vacancyId": "248920",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-07-28T11:42:54.801Z"
     }
   ],
   "exports": [
