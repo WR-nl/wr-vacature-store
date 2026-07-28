@@ -486,12 +486,12 @@
     "enabled": true,
     "busy": true,
     "message": "Carerix-invoer combo-fix",
-    "updatedAt": "2026-07-28T11:03:37.231Z",
+    "updatedAt": "2026-07-28T11:03:39.319Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T11:03:31.575Z",
+    "workerHeartbeatAt": "2026-07-28T11:03:39.157Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01"
   }
 }
