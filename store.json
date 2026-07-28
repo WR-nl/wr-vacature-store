@@ -459,6 +459,24 @@
   ],
   "findings": [
     {
+      "id": "835ab6b5-1953-47a2-83a9-30319adff008",
+      "assignmentId": "635d4710-889a-4a6d-ba33-192d27f1b1e1",
+      "jobTitle": "Middle Office Cash & Settlement Specialist",
+      "companyName": "Quintet Private Bank (Europe) S.A.",
+      "sourceUrl": "https://www.quintet.lu/en-lu/vacancies-list/job/middle-office-cash-&-settlement-specialist/3325",
+      "uriHost": "quintet.lu",
+      "locationText": "Luxembourg City",
+      "websiteLanguage": "Engels",
+      "estimatedEmployees": 2000,
+      "companySizeNote": "European private bank; LU HQ — mid vs mega",
+      "roleSummary": "Middle office cash & settlement; admin/ops private bank.",
+      "scoreNotes": "Eigen careers; middle office; EN; LU.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-07-28T11:38:26.819Z",
+      "updatedAt": "2026-07-28T11:38:26.819Z"
+    },
+    {
       "id": "ea4cc867-b89c-446a-b3e9-8df50c3e9986",
       "assignmentId": "f88277a4-6513-4b6e-848d-ed339768c23b",
       "jobTitle": "Software Engineer",
