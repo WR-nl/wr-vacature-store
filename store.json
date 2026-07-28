@@ -484,15 +484,14 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Worker online",
-    "updatedAt": "2026-07-28T11:03:31.781Z",
-    "stage": "entering",
+    "busy": false,
+    "message": "Worker-fout: Carerix-shell niet klaar (geen knop Nieuw). URL=https://wr.carerix.net/#state=d13fd1a6-afd9-4045-95e2-137d05cd85b0&sessi",
+    "updatedAt": "2026-07-28T11:03:35.149Z",
+    "stage": "blocked",
     "targetCount": 1,
-    "etaSeconds": 330,
+    "etaSeconds": 0,
     "startedAt": "2026-07-28T10:32:30.000Z",
     "workerHeartbeatAt": "2026-07-28T11:03:31.575Z",
-    "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
-    "currentIndex": 1
+    "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01"
   }
 }
