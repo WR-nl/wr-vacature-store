@@ -485,13 +485,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker-fout: locator.waitFor: Timeout 20000ms exceeded.\nCall log:\n  - waiting for getByText('Invoeren opdrachtgever') to be visible\n",
-    "updatedAt": "2026-07-28T10:51:57.277Z",
+    "message": "Worker online",
+    "updatedAt": "2026-07-28T10:52:00.370Z",
     "stage": "blocked",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T10:51:56.161Z",
+    "workerHeartbeatAt": "2026-07-28T10:52:00.161Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01"
   }
 }
