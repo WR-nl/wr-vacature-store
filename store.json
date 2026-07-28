@@ -485,13 +485,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker-fout: locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('.x-combo-list-item').filter({ hasText: 'Nede",
-    "updatedAt": "2026-07-28T10:56:08.766Z",
+    "message": "Worker online",
+    "updatedAt": "2026-07-28T10:56:11.723Z",
     "stage": "blocked",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T10:56:06.452Z",
+    "workerHeartbeatAt": "2026-07-28T10:56:11.453Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01"
   }
 }
