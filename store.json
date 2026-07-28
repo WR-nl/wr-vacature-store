@@ -485,8 +485,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker online",
-    "updatedAt": "2026-07-28T11:03:16.794Z",
+    "message": "Worker-fout: locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('.x-combo-list-item').filter({ hasText: 'Nede",
+    "updatedAt": "2026-07-28T11:03:18.265Z",
     "stage": "blocked",
     "targetCount": 1,
     "etaSeconds": 0,
