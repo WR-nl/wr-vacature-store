@@ -486,12 +486,12 @@
     "enabled": true,
     "busy": false,
     "message": "Worker online",
-    "updatedAt": "2026-07-28T11:02:51.755Z",
+    "updatedAt": "2026-07-28T11:02:56.740Z",
     "stage": "blocked",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T11:02:51.563Z",
+    "workerHeartbeatAt": "2026-07-28T11:02:56.563Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01"
   }
 }
