@@ -1,6 +1,62 @@
 {
   "assignments": [
     {
+      "id": "f88277a4-6513-4b6e-848d-ed339768c23b",
+      "title": "Software Engineer",
+      "region": "Nederland",
+      "country": "Nederland",
+      "functionTypes": [
+        "Software"
+      ],
+      "sector": "Software",
+      "companySize": "klein-middelgroot",
+      "languagePreference": "Engels",
+      "requireOwnCareersSite": true,
+      "targetCount": 1,
+      "extraPrompt": "Vind een simpele software engineer vacature en zet de worker aan om deze in carerix te zetten.",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "Nederland",
+        "country": "Nederland",
+        "functionTypes": [
+          "Software"
+        ],
+        "sector": "Software",
+        "companySize": "klein-middelgroot",
+        "languagePreference": "Engels",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "Vind een simpele software engineer vacature en zet de worker aan om deze in carerix te zetten.",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-07-28T11:28:53.248Z",
+      "updatedAt": "2026-07-28T11:28:53.248Z"
+    },
+    {
       "id": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
       "title": "Service Monteur Nederland — demo worker",
       "region": "Nederland landelijk",
@@ -503,13 +559,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Worker online — geen open werk",
-    "updatedAt": "2026-07-28T11:27:18.981Z",
-    "stage": "done",
+    "busy": true,
+    "message": "Opdracht klaar voor uitvoering: Software Engineer",
+    "updatedAt": "2026-07-28T11:28:53.248Z",
+    "stage": "queued",
     "targetCount": 1,
-    "etaSeconds": 0,
-    "startedAt": "2026-07-28T11:10:56.207Z",
-    "workerHeartbeatAt": "2026-07-28T11:27:18.767Z"
+    "etaSeconds": 450,
+    "startedAt": "2026-07-28T11:28:53.248Z",
+    "workerHeartbeatAt": "2026-07-28T11:27:18.767Z",
+    "assignmentId": "f88277a4-6513-4b6e-848d-ed339768c23b",
+    "currentIndex": 0
   }
 }
