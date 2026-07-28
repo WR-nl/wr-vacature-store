@@ -299,6 +299,24 @@
       "status": "mail_ready",
       "createdAt": "2026-07-28T09:36:50.212Z",
       "updatedAt": "2026-07-28T10:18:56.982Z"
+    },
+    {
+      "id": "4cb4ef16-4a61-41fe-af9e-2a0af6823bff",
+      "assignmentId": "8f3166f2-b5a5-4545-afa2-986483f88dff",
+      "jobTitle": "Middle Office Cash & Settlement Specialist",
+      "companyName": "Quintet Private Bank (Europe) S.A.",
+      "sourceUrl": "https://www.quintet.lu/en-lu/vacancies-list/job/middle-office-cash-&-settlement-specialist/3325",
+      "uriHost": "quintet.lu",
+      "locationText": "Luxembourg City",
+      "websiteLanguage": "Engels",
+      "estimatedEmployees": 2000,
+      "companySizeNote": "European private bank; LU HQ — mid vs mega",
+      "roleSummary": "Middle office cash & settlement; admin/ops private bank.",
+      "scoreNotes": "Eigen careers; middle office; EN; LU.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-07-28T10:26:26.789Z",
+      "updatedAt": "2026-07-28T10:26:26.789Z"
     }
   ],
   "carerixLinks": [
@@ -334,15 +352,14 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Gevonden: Middle Office Cash & Settlement Specialist @ Quintet Private Bank (Europe) S.A. — klaar voor Carerix",
-    "updatedAt": "2026-07-28T10:26:31.290Z",
+    "busy": false,
+    "message": "Worker online",
+    "updatedAt": "2026-07-28T10:26:31.728Z",
     "assignmentId": "8f3166f2-b5a5-4545-afa2-986483f88dff",
-    "stage": "entering",
+    "stage": "blocked",
     "targetCount": 1,
-    "etaSeconds": 330,
+    "etaSeconds": 0,
     "startedAt": "2026-07-28T09:16:15.095Z",
-    "workerHeartbeatAt": "2026-07-28T10:26:21.745Z",
-    "currentIndex": 1
+    "workerHeartbeatAt": "2026-07-28T10:26:31.446Z"
   }
 }
