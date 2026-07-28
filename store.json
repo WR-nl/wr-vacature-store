@@ -578,8 +578,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Carerix: Software Engineer @ Urban Mobility Systems",
-    "updatedAt": "2026-07-28T11:33:04.426Z",
+    "message": "Wacht op Carerix-worker: Software Engineer",
+    "updatedAt": "2026-07-28T11:33:25.816Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
