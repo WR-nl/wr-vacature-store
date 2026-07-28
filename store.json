@@ -485,8 +485,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Carerix: Servicemonteur HVAC @ Hamer",
-    "updatedAt": "2026-07-28T11:10:56.455Z",
+    "message": "Wacht op Carerix-worker: Servicemonteur HVAC en klimaattechniek",
+    "updatedAt": "2026-07-28T11:11:25.906Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
