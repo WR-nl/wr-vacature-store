@@ -485,14 +485,14 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Opdracht gestart: Service Monteur NL demo",
-    "updatedAt": "2026-07-28T10:32:30.777Z",
-    "stage": "queued",
+    "message": "Wacht op Carerix-worker: Servicemonteur HVAC en klimaattechniek",
+    "updatedAt": "2026-07-28T10:32:29.927Z",
+    "stage": "entering",
     "targetCount": 1,
-    "etaSeconds": 450,
-    "startedAt": "2026-07-28T10:32:30.000Z",
+    "etaSeconds": 330,
+    "startedAt": "2026-07-28T10:32:24.854Z",
     "workerHeartbeatAt": "2026-07-28T10:31:47.868Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
-    "currentIndex": 0
+    "currentIndex": 1
   }
 }
