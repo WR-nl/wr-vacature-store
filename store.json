@@ -448,7 +448,7 @@
       "meetsCriteria": true,
       "status": "entering_carerix",
       "createdAt": "2026-07-28T10:32:27.274Z",
-      "updatedAt": "2026-07-28T10:54:03.946Z"
+      "updatedAt": "2026-07-28T10:54:25.935Z"
     }
   ],
   "carerixLinks": [
@@ -485,13 +485,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Wacht op Carerix-worker: Servicemonteur HVAC en klimaattechniek",
-    "updatedAt": "2026-07-28T10:54:25.926Z",
+    "message": "Worker online",
+    "updatedAt": "2026-07-28T10:54:30.327Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T10:54:22.571Z",
+    "workerHeartbeatAt": "2026-07-28T10:54:30.101Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
     "currentIndex": 1
   }
