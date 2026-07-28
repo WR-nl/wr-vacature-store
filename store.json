@@ -72,7 +72,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "",
-      "status": "cancelled",
+      "status": "archived",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -242,7 +242,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "probe",
-      "status": "cancelled",
+      "status": "archived",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -298,7 +298,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "",
-      "status": "cancelled",
+      "status": "archived",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -486,12 +486,12 @@
     "enabled": true,
     "busy": true,
     "message": "Wacht op Carerix-worker: Servicemonteur HVAC en klimaattechniek",
-    "updatedAt": "2026-07-28T10:33:25.654Z",
+    "updatedAt": "2026-07-28T10:33:30.658Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T10:31:47.868Z",
+    "workerHeartbeatAt": "2026-07-28T10:33:30.460Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
     "currentIndex": 1
   }
