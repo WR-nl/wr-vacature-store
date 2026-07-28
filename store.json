@@ -446,9 +446,9 @@
       "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
       "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-07-28T10:32:27.274Z",
-      "updatedAt": "2026-07-28T11:03:42.488Z"
+      "updatedAt": "2026-07-28T11:26:31.299Z"
     }
   ],
   "carerixLinks": [
@@ -462,6 +462,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-07-28T10:18:55.727Z"
+    },
+    {
+      "id": "d7eaa533-7bd3-4c92-b807-2b8d744f6aa2",
+      "findingId": "41edc1c3-ed4e-4290-85f3-854c90597296",
+      "companyId": "104157",
+      "contactId": "375191",
+      "vacancyId": "248916",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-07-28T11:26:31.299Z"
     }
   ],
   "exports": [
