@@ -229,24 +229,6 @@
   ],
   "findings": [
     {
-      "id": "79df1708-1e7c-4eb7-a1cb-36cf99195850",
-      "assignmentId": "3209907d-3a46-400e-99ae-1e6639d63921",
-      "jobTitle": "Modeleur BIM (électricité / HVAC / sanitaire)",
-      "companyName": "Felgen & Associés Engineering",
-      "sourceUrl": "https://felgen-lu.eu/?page_id=91",
-      "uriHost": "felgen-lu.eu",
-      "locationText": "Luxembourg-Ville",
-      "websiteLanguage": "Frans",
-      "estimatedEmployees": 60,
-      "companySizeNote": "Bureau d'études techniques spéciales ~60 — SME",
-      "roleSummary": "Modeleur BIM Revit; HVAC/élec/sanitaire; FR/DE; Luxembourg.",
-      "scoreNotes": "Eigen recrutering-pagina; BIM/Revit; LU; SME; FR/DE.",
-      "meetsCriteria": true,
-      "status": "found",
-      "createdAt": "2026-07-28T09:36:50.212Z",
-      "updatedAt": "2026-07-28T09:36:50.212Z"
-    },
-    {
       "id": "1acf8069-22eb-48cf-83f0-98ce0702629d",
       "assignmentId": "b00b5904-c185-43b5-8583-1657175146a7",
       "jobTitle": "Bouwkundig Tekenaar",
@@ -263,6 +245,24 @@
       "status": "mail_ready",
       "createdAt": "2026-07-28T09:00:41.279Z",
       "updatedAt": "2026-07-28T09:10:42.067Z"
+    },
+    {
+      "id": "79df1708-1e7c-4eb7-a1cb-36cf99195850",
+      "assignmentId": "3209907d-3a46-400e-99ae-1e6639d63921",
+      "jobTitle": "Modeleur BIM (électricité / HVAC / sanitaire)",
+      "companyName": "Felgen & Associés Engineering",
+      "sourceUrl": "https://felgen-lu.eu/?page_id=91",
+      "uriHost": "felgen-lu.eu",
+      "locationText": "Luxembourg-Ville",
+      "websiteLanguage": "Frans",
+      "estimatedEmployees": 60,
+      "companySizeNote": "Bureau d'études techniques spéciales ~60 — SME",
+      "roleSummary": "Modeleur BIM Revit; HVAC/élec/sanitaire; FR/DE; Luxembourg.",
+      "scoreNotes": "Eigen recrutering-pagina; BIM/Revit; LU; SME; FR/DE.",
+      "meetsCriteria": true,
+      "status": "entering_carerix",
+      "createdAt": "2026-07-28T09:36:50.212Z",
+      "updatedAt": "2026-07-28T09:36:51.347Z"
     }
   ],
   "carerixLinks": [],
