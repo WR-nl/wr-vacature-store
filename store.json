@@ -1,6 +1,62 @@
 {
   "assignments": [
     {
+      "id": "f6d795d3-1c7e-4ea8-8882-5dcc6b4caca2",
+      "title": "Electricien",
+      "region": "Luxemburg-stad",
+      "country": "Luxemburg",
+      "functionTypes": [
+        "electricien"
+      ],
+      "sector": "electricien",
+      "companySize": "klein-middelgroot",
+      "languagePreference": "Engels",
+      "requireOwnCareersSite": true,
+      "targetCount": 1,
+      "extraPrompt": "",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "Luxemburg-stad",
+        "country": "Luxemburg",
+        "functionTypes": [
+          "electricien"
+        ],
+        "sector": "electricien",
+        "companySize": "klein-middelgroot",
+        "languagePreference": "Engels",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-07-28T10:29:51.946Z",
+      "updatedAt": "2026-07-28T10:29:51.946Z"
+    },
+    {
       "id": "3209907d-3a46-400e-99ae-1e6639d63921",
       "title": "Tekenaar Bouw Luxemburg Stad",
       "region": "Luxemburg-stad",
@@ -352,13 +408,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Worker online",
-    "updatedAt": "2026-07-28T10:28:13.207Z",
-    "stage": "done",
+    "busy": true,
+    "message": "Opdracht klaar voor uitvoering: Electricien",
+    "updatedAt": "2026-07-28T10:29:51.946Z",
+    "stage": "queued",
     "targetCount": 1,
-    "etaSeconds": 0,
-    "startedAt": "2026-07-28T09:16:15.095Z",
-    "workerHeartbeatAt": "2026-07-28T10:28:13.005Z"
+    "etaSeconds": 450,
+    "startedAt": "2026-07-28T10:29:51.946Z",
+    "workerHeartbeatAt": "2026-07-28T10:28:13.005Z",
+    "assignmentId": "f6d795d3-1c7e-4ea8-8882-5dcc6b4caca2",
+    "currentIndex": 0
   }
 }
