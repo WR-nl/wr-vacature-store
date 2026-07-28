@@ -467,14 +467,14 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Opdracht klaar voor uitvoering: Service Monteur Nederland — demo worker",
-    "updatedAt": "2026-07-28T10:32:24.854Z",
-    "stage": "queued",
+    "message": "Zoeken: Service Monteur Nederland — demo worker",
+    "updatedAt": "2026-07-28T10:32:26.131Z",
+    "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 450,
     "startedAt": "2026-07-28T10:32:24.854Z",
     "workerHeartbeatAt": "2026-07-28T10:31:47.868Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
-    "currentIndex": 0
+    "currentIndex": 1
   }
 }
