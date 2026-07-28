@@ -353,9 +353,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker online — wacht op werk",
-    "updatedAt": "2026-07-28T10:27:58.475Z",
-    "assignmentId": "8f3166f2-b5a5-4545-afa2-986483f88dff",
+    "message": "Worker online — geen open werk",
+    "updatedAt": "2026-07-28T10:28:00.798Z",
     "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
