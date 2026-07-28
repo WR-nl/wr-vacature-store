@@ -353,12 +353,12 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker online — geen open werk",
-    "updatedAt": "2026-07-28T10:28:00.798Z",
+    "message": "Worker online",
+    "updatedAt": "2026-07-28T10:28:03.228Z",
     "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T09:16:15.095Z",
-    "workerHeartbeatAt": "2026-07-28T10:27:58.281Z"
+    "workerHeartbeatAt": "2026-07-28T10:28:03.004Z"
   }
 }
