@@ -484,15 +484,14 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Worker online",
-    "updatedAt": "2026-07-28T10:58:41.673Z",
-    "stage": "entering",
+    "busy": false,
+    "message": "Worker-fout: locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('.x-combo-list-item').filter({ hasText: 'Nede",
+    "updatedAt": "2026-07-28T10:58:45.128Z",
+    "stage": "blocked",
     "targetCount": 1,
-    "etaSeconds": 330,
+    "etaSeconds": 0,
     "startedAt": "2026-07-28T10:32:30.000Z",
     "workerHeartbeatAt": "2026-07-28T10:58:41.487Z",
-    "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
-    "currentIndex": 1
+    "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01"
   }
 }
