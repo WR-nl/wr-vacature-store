@@ -1,0 +1,274 @@
+{
+  "assignments": [
+    {
+      "id": "3209907d-3a46-400e-99ae-1e6639d63921",
+      "title": "Tekenaar Bouw Luxemburg Stad",
+      "region": "Luxemburg-stad",
+      "country": "Luxemburg",
+      "functionTypes": [
+        "Tekenaar",
+        "Bouw"
+      ],
+      "sector": "Bouw",
+      "companySize": "klein-middelgroot",
+      "languagePreference": "Engels",
+      "requireOwnCareersSite": true,
+      "targetCount": 1,
+      "extraPrompt": "De Taalvoorkeur mag ook Duits zijn. Zorg dat deze vacature in carerix komt. ",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "Luxemburg-stad",
+        "country": "Luxemburg",
+        "functionTypes": [
+          "Tekenaar",
+          "Bouw"
+        ],
+        "sector": "Bouw",
+        "companySize": "klein-middelgroot",
+        "languagePreference": "Engels",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "De Taalvoorkeur mag ook Duits zijn. Zorg dat deze vacature in carerix komt. ",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-07-28T09:16:15.095Z",
+      "updatedAt": "2026-07-28T09:16:15.095Z"
+    },
+    {
+      "id": "b00b5904-c185-43b5-8583-1657175146a7",
+      "title": "bouw tekenaar Nederland",
+      "region": "Nederland",
+      "country": "Nederland",
+      "functionTypes": [
+        "Tekenen Revit autocad"
+      ],
+      "sector": "bouw",
+      "companySize": "klein-middelgroot",
+      "languagePreference": "Nederlands",
+      "requireOwnCareersSite": true,
+      "targetCount": 1,
+      "extraPrompt": "",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "Nederland",
+        "country": "Nederland",
+        "functionTypes": [
+          "Tekenen Revit autocad"
+        ],
+        "sector": "bouw",
+        "companySize": "klein-middelgroot",
+        "languagePreference": "Nederlands",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-07-28T08:54:58.817Z",
+      "updatedAt": "2026-07-28T08:54:58.817Z"
+    },
+    {
+      "id": "b5684497-1301-4ecd-98aa-de9de4203099",
+      "title": "verify-no-404-visible",
+      "region": "Luxembourg City",
+      "country": "Luxembourg",
+      "functionTypes": [
+        "assistant"
+      ],
+      "sector": "banking",
+      "companySize": "SME",
+      "languagePreference": "Engels",
+      "requireOwnCareersSite": true,
+      "targetCount": 1,
+      "extraPrompt": "probe",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "Luxembourg City",
+        "country": "Luxembourg",
+        "functionTypes": [
+          "assistant"
+        ],
+        "sector": "banking",
+        "companySize": "SME",
+        "languagePreference": "Engels",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "probe",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-07-28T08:52:44.577Z",
+      "updatedAt": "2026-07-28T08:52:44.577Z"
+    },
+    {
+      "id": "8f3166f2-b5a5-4545-afa2-986483f88dff",
+      "title": "test-runtime-cache-fix",
+      "region": "Luxembourg City",
+      "country": "Luxembourg",
+      "functionTypes": [
+        "assistant"
+      ],
+      "sector": "banking",
+      "companySize": "SME",
+      "languagePreference": "Engels",
+      "requireOwnCareersSite": true,
+      "targetCount": 1,
+      "extraPrompt": "",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "Luxembourg City",
+        "country": "Luxembourg",
+        "functionTypes": [
+          "assistant"
+        ],
+        "sector": "banking",
+        "companySize": "SME",
+        "languagePreference": "Engels",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-07-28T08:52:17.194Z",
+      "updatedAt": "2026-07-28T08:52:17.194Z"
+    }
+  ],
+  "findings": [
+    {
+      "id": "1acf8069-22eb-48cf-83f0-98ce0702629d",
+      "assignmentId": "b00b5904-c185-43b5-8583-1657175146a7",
+      "jobTitle": "Bouwkundig Tekenaar",
+      "companyName": "Van Mierlo",
+      "sourceUrl": "https://www.vmierlo.nl/nl/bouwkundig-tekenaar",
+      "uriHost": "vmierlo.nl",
+      "locationText": "Maasdijk / Westland",
+      "websiteLanguage": "Nederlands",
+      "estimatedEmployees": 100,
+      "companySizeNote": "Westlands familiebedrijf ~100 vakmensen \u2014 SME",
+      "roleSummary": "Bouwkundig tekenaar BIM/Revit; opwerken BIM-modellen; woningconfigurator.",
+      "scoreNotes": "Eigen site; Revit; familie/SME; NL.",
+      "meetsCriteria": true,
+      "status": "mail_ready",
+      "createdAt": "2026-07-28T09:00:41.279Z",
+      "updatedAt": "2026-07-28T09:10:42.067Z"
+    }
+  ],
+  "carerixLinks": [],
+  "exports": [
+    {
+      "id": "3cfeaaee-9931-4d6d-89cb-0e19f9ed5a9b",
+      "findingId": "1acf8069-22eb-48cf-83f0-98ce0702629d",
+      "assignmentId": "b00b5904-c185-43b5-8583-1657175146a7",
+      "format": "markdown",
+      "content": "# Vacature-export \u2014 Bouwkundig Tekenaar\n\n## Opdracht\n- Titel: bouw tekenaar Nederland\n- Regio: Nederland (Nederland)\n- Sector: bouw\n- Functies: Tekenen Revit autocad\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Bouwkundig Tekenaar\n- Bedrijf: Van Mierlo\n- Bron-URL: https://www.vmierlo.nl/nl/bouwkundig-tekenaar\n- Host: vmierlo.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Maasdijk / Westland\n- Websitetaal: Nederlands\n- Omvang: Westlands familiebedrijf ~100 vakmensen \u2014 SME\n- Samenvatting: Bouwkundig tekenaar BIM/Revit; opwerken BIM-modellen; woningconfigurator.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; Revit; familie/SME; NL.\n\n## Carerix\n- Opdrachtgever ID: 104155\n- Contactpersoon ID: 375185\n- Vacature ID: 248914\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Tekenen Revit autocad\"\n  ],\n  \"sector\": \"bouw\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T09:10:42.067Z_",
+      "createdAt": "2026-07-28T09:10:42.067Z"
+    }
+  ],
+  "agentStatus": {
+    "enabled": true,
+    "busy": true,
+    "message": "Opdracht klaar voor uitvoering: Tekenaar Bouw Luxemburg Stad",
+    "updatedAt": "2026-07-28T09:16:15.095Z",
+    "assignmentId": "3209907d-3a46-400e-99ae-1e6639d63921",
+    "stage": "queued",
+    "targetCount": 1,
+    "etaSeconds": 450,
+    "startedAt": "2026-07-28T09:16:15.095Z",
+    "workerHeartbeatAt": "2026-07-28T09:10:00.000Z",
+    "currentIndex": 0
+  }
+}
