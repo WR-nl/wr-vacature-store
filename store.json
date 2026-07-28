@@ -712,13 +712,12 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker online — wacht op werk",
-    "updatedAt": "2026-07-28T11:44:04.724Z",
+    "message": "Worker online — geen open werk",
+    "updatedAt": "2026-07-28T11:44:05.052Z",
     "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T11:38:24.695Z",
-    "workerHeartbeatAt": "2026-07-28T11:44:04.496Z",
-    "assignmentId": "635d4710-889a-4a6d-ba33-192d27f1b1e1"
+    "workerHeartbeatAt": "2026-07-28T11:44:04.496Z"
   }
 }
