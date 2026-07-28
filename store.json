@@ -408,15 +408,14 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Zoeken: Electricien",
-    "updatedAt": "2026-07-28T10:29:53.921Z",
-    "stage": "searching",
+    "busy": false,
+    "message": "Geen nieuwe kandidaten voor “Electricien”",
+    "updatedAt": "2026-07-28T10:29:54.620Z",
+    "stage": "blocked",
     "targetCount": 1,
-    "etaSeconds": 450,
+    "etaSeconds": 0,
     "startedAt": "2026-07-28T10:29:51.946Z",
     "workerHeartbeatAt": "2026-07-28T10:28:13.005Z",
-    "assignmentId": "f6d795d3-1c7e-4ea8-8882-5dcc6b4caca2",
-    "currentIndex": 1
+    "assignmentId": "f6d795d3-1c7e-4ea8-8882-5dcc6b4caca2"
   }
 }
