@@ -317,8 +317,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Carerix: Middle Office Cash & Settlement Specialist @ Quintet Private Bank (Europe) S.A.",
-    "updatedAt": "2026-07-28T10:24:16.016Z",
+    "message": "Wacht op Carerix-worker: Middle Office Cash & Settlement Specialist",
+    "updatedAt": "2026-07-28T10:25:08.975Z",
     "assignmentId": "b5684497-1301-4ecd-98aa-de9de4203099",
     "stage": "entering",
     "targetCount": 1,
