@@ -515,6 +515,24 @@
   ],
   "findings": [
     {
+      "id": "1891ebe5-ca4b-4431-a27f-d7c580db7f10",
+      "assignmentId": "9c2feefd-8a55-4390-bafd-5e78231180a7",
+      "jobTitle": "Servicemonteur HVAC en klimaattechniek",
+      "companyName": "Hamer (FOJA Groep)",
+      "sourceUrl": "https://werkenbijfoja.nl/vacatures/servicemonteur-hvac-en-klimaattechniek/",
+      "uriHost": "werkenbijfoja.nl",
+      "locationText": "Apeldoorn / landelijk",
+      "websiteLanguage": "Nederlands",
+      "estimatedEmployees": 350,
+      "companySizeNote": "Familiebedrijf Hamer ~350; SME/mid",
+      "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
+      "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-07-28T11:46:51.547Z",
+      "updatedAt": "2026-07-28T11:46:51.547Z"
+    },
+    {
       "id": "d0906fb6-5dcf-4261-9c82-929d43c833c7",
       "assignmentId": "635d4710-889a-4a6d-ba33-192d27f1b1e1",
       "jobTitle": "Middle Office Cash & Settlement Specialist",
@@ -675,24 +693,6 @@
       "status": "mail_ready",
       "createdAt": "2026-07-28T10:32:27.274Z",
       "updatedAt": "2026-07-28T11:26:32.716Z"
-    },
-    {
-      "id": "1891ebe5-ca4b-4431-a27f-d7c580db7f10",
-      "assignmentId": "9c2feefd-8a55-4390-bafd-5e78231180a7",
-      "jobTitle": "Servicemonteur HVAC en klimaattechniek",
-      "companyName": "Hamer (FOJA Groep)",
-      "sourceUrl": "https://werkenbijfoja.nl/vacatures/servicemonteur-hvac-en-klimaattechniek/",
-      "uriHost": "werkenbijfoja.nl",
-      "locationText": "Apeldoorn / landelijk",
-      "websiteLanguage": "Nederlands",
-      "estimatedEmployees": 350,
-      "companySizeNote": "Familiebedrijf Hamer ~350; SME/mid",
-      "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
-      "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
-      "meetsCriteria": true,
-      "status": "found",
-      "createdAt": "2026-07-28T11:46:51.547Z",
-      "updatedAt": "2026-07-28T11:46:51.547Z"
     }
   ],
   "carerixLinks": [
@@ -786,11 +786,11 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Wacht op Carerix-worker: Servicemonteur HVAC en klimaattechniek",
-    "updatedAt": "2026-07-28T11:46:52.355Z",
-    "stage": "entering",
+    "message": "Zoeken: servicemonteur",
+    "updatedAt": "2026-07-28T11:46:50.082Z",
+    "stage": "searching",
     "targetCount": 1,
-    "etaSeconds": 330,
+    "etaSeconds": 450,
     "startedAt": "2026-07-28T11:46:47.809Z",
     "workerHeartbeatAt": "2026-07-28T11:44:08.496Z",
     "assignmentId": "9c2feefd-8a55-4390-bafd-5e78231180a7",
