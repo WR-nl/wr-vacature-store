@@ -712,13 +712,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar: Quintet Middle Office — vac 248920 / OG 104161 / CP 375196",
-    "updatedAt": "2026-07-28T11:42:57.212Z",
+    "message": "Worker online — wacht op werk",
+    "updatedAt": "2026-07-28T11:44:01.009Z",
     "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T11:38:24.695Z",
-    "workerHeartbeatAt": "2026-07-28T11:42:56.000Z",
+    "workerHeartbeatAt": "2026-07-28T11:44:00.776Z",
     "assignmentId": "635d4710-889a-4a6d-ba33-192d27f1b1e1"
   }
 }
