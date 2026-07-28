@@ -316,15 +316,14 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Wacht op Carerix-worker: Middle Office Cash & Settlement Specialist",
-    "updatedAt": "2026-07-28T10:26:08.828Z",
+    "busy": false,
+    "message": "Worker online — wacht op werk",
+    "updatedAt": "2026-07-28T10:26:21.944Z",
     "assignmentId": "b5684497-1301-4ecd-98aa-de9de4203099",
-    "stage": "entering",
+    "stage": "done",
     "targetCount": 1,
-    "etaSeconds": 330,
+    "etaSeconds": 0,
     "startedAt": "2026-07-28T09:16:15.095Z",
-    "workerHeartbeatAt": "2026-07-28T10:24:13.005Z",
-    "currentIndex": 1
+    "workerHeartbeatAt": "2026-07-28T10:26:21.745Z"
   }
 }
