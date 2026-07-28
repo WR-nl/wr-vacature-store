@@ -768,8 +768,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken gestart: servicemonteur",
-    "updatedAt": "2026-07-28T11:46:47.809Z",
+    "message": "Zoeken: servicemonteur",
+    "updatedAt": "2026-07-28T11:46:49.174Z",
     "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 450,
