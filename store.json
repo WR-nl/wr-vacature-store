@@ -260,12 +260,24 @@
       "roleSummary": "Modeleur BIM Revit; HVAC/élec/sanitaire; FR/DE; Luxembourg.",
       "scoreNotes": "Eigen recrutering-pagina; BIM/Revit; LU; SME; FR/DE.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-07-28T09:36:50.212Z",
-      "updatedAt": "2026-07-28T09:36:51.347Z"
+      "updatedAt": "2026-07-28T10:18:55.727Z"
     }
   ],
-  "carerixLinks": [],
+  "carerixLinks": [
+    {
+      "id": "d5fb3354-6618-418e-80f5-13ca69f238b2",
+      "findingId": "79df1708-1e7c-4eb7-a1cb-36cf99195850",
+      "companyId": "104156",
+      "contactId": "375188",
+      "vacancyId": "248915",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-07-28T10:18:55.727Z"
+    }
+  ],
   "exports": [
     {
       "id": "3cfeaaee-9931-4d6d-89cb-0e19f9ed5a9b",
