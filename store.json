@@ -559,14 +559,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Geen nieuwe kandidaten voor “Software Engineer”",
-    "updatedAt": "2026-07-28T11:28:56.317Z",
-    "stage": "blocked",
+    "busy": true,
+    "message": "Zoeken: Software Engineer",
+    "updatedAt": "2026-07-28T11:29:25.655Z",
+    "stage": "searching",
     "targetCount": 1,
-    "etaSeconds": 0,
+    "etaSeconds": 450,
     "startedAt": "2026-07-28T11:28:53.248Z",
     "workerHeartbeatAt": "2026-07-28T11:27:18.767Z",
-    "assignmentId": "f88277a4-6513-4b6e-848d-ed339768c23b"
+    "assignmentId": "f88277a4-6513-4b6e-848d-ed339768c23b",
+    "currentIndex": 1
   }
 }
