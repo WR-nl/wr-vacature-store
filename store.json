@@ -657,14 +657,14 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Opdracht klaar voor uitvoering: Bank employee",
-    "updatedAt": "2026-07-28T11:38:24.695Z",
-    "stage": "queued",
+    "message": "Zoeken: Bank employee",
+    "updatedAt": "2026-07-28T11:38:25.919Z",
+    "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 450,
     "startedAt": "2026-07-28T11:38:24.695Z",
     "workerHeartbeatAt": "2026-07-28T11:33:04.207Z",
     "assignmentId": "635d4710-889a-4a6d-ba33-192d27f1b1e1",
-    "currentIndex": 0
+    "currentIndex": 1
   }
 }
