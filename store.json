@@ -485,13 +485,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker-fout: locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for getByRole('textbox').filter({ hasNot: locator('[type=",
-    "updatedAt": "2026-07-28T10:49:16.298Z",
+    "message": "Worker online",
+    "updatedAt": "2026-07-28T10:49:20.167Z",
     "stage": "blocked",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T10:49:15.987Z",
+    "workerHeartbeatAt": "2026-07-28T10:49:19.989Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01"
   }
 }
