@@ -485,13 +485,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker online",
-    "updatedAt": "2026-07-28T11:01:26.750Z",
+    "message": "Worker online — wacht op werk",
+    "updatedAt": "2026-07-28T11:01:30.754Z",
     "stage": "blocked",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T11:01:26.530Z",
+    "workerHeartbeatAt": "2026-07-28T11:01:30.503Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01"
   }
 }
