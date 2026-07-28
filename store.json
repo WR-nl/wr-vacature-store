@@ -408,14 +408,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Worker online",
-    "updatedAt": "2026-07-28T10:31:48.094Z",
-    "stage": "blocked",
+    "busy": true,
+    "message": "Zoeken: Electricien",
+    "updatedAt": "2026-07-28T10:31:56.983Z",
+    "stage": "searching",
     "targetCount": 1,
-    "etaSeconds": 0,
+    "etaSeconds": 450,
     "startedAt": "2026-07-28T10:29:51.946Z",
     "workerHeartbeatAt": "2026-07-28T10:31:47.868Z",
-    "assignmentId": "f6d795d3-1c7e-4ea8-8882-5dcc6b4caca2"
+    "assignmentId": "f6d795d3-1c7e-4ea8-8882-5dcc6b4caca2",
+    "currentIndex": 1
   }
 }
