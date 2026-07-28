@@ -694,7 +694,7 @@
     "enabled": true,
     "busy": true,
     "message": "Wacht op Carerix-worker: Middle Office Cash & Settlement Specialist",
-    "updatedAt": "2026-07-28T11:41:25.745Z",
+    "updatedAt": "2026-07-28T11:42:26.019Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
