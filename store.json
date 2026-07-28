@@ -353,8 +353,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker online — wacht op werk",
-    "updatedAt": "2026-07-28T10:28:07.650Z",
+    "message": "Worker online — geen open werk",
+    "updatedAt": "2026-07-28T10:28:09.956Z",
     "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
