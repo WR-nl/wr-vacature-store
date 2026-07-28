@@ -803,15 +803,13 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Zoeken: servicemonteur Luxemburg (NL-match verworpen)",
-    "updatedAt": "2026-07-28T11:48:44.737Z",
-    "stage": "searching",
+    "busy": false,
+    "message": "Klaar — geen open werk",
+    "updatedAt": "2026-07-28T11:48:47.860Z",
+    "stage": "done",
     "targetCount": 1,
-    "etaSeconds": 300,
+    "etaSeconds": 0,
     "startedAt": "2026-07-28T11:46:47.809Z",
-    "workerHeartbeatAt": "2026-07-28T11:48:24.229Z",
-    "assignmentId": "9c2feefd-8a55-4390-bafd-5e78231180a7",
-    "currentIndex": 1
+    "workerHeartbeatAt": "2026-07-28T11:48:24.229Z"
   }
 }
