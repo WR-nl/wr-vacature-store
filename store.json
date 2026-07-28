@@ -260,9 +260,9 @@
       "roleSummary": "Modeleur BIM Revit; HVAC/élec/sanitaire; FR/DE; Luxembourg.",
       "scoreNotes": "Eigen recrutering-pagina; BIM/Revit; LU; SME; FR/DE.",
       "meetsCriteria": true,
-      "status": "synced",
+      "status": "mail_ready",
       "createdAt": "2026-07-28T09:36:50.212Z",
-      "updatedAt": "2026-07-28T10:18:55.727Z"
+      "updatedAt": "2026-07-28T10:18:56.982Z"
     }
   ],
   "carerixLinks": [
@@ -279,6 +279,14 @@
     }
   ],
   "exports": [
+    {
+      "id": "fb468e16-94da-4118-b392-acf81f079ffa",
+      "findingId": "79df1708-1e7c-4eb7-a1cb-36cf99195850",
+      "assignmentId": "3209907d-3a46-400e-99ae-1e6639d63921",
+      "format": "markdown",
+      "content": "# Vacature-export — Modeleur BIM (électricité / HVAC / sanitaire)\n\n## Opdracht\n- Titel: Tekenaar Bouw Luxemburg Stad\n- Regio: Luxemburg-stad (Luxemburg)\n- Sector: Bouw\n- Functies: Tekenaar, Bouw\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: De Taalvoorkeur mag ook Duits zijn. Zorg dat deze vacature in carerix komt. \n\n## Gevonden vacature\n- Functie: Modeleur BIM (électricité / HVAC / sanitaire)\n- Bedrijf: Felgen & Associés Engineering\n- Bron-URL: https://felgen-lu.eu/?page_id=91\n- Host: felgen-lu.eu\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Luxembourg-Ville\n- Websitetaal: Frans\n- Omvang: Bureau d'études techniques spéciales ~60 — SME\n- Samenvatting: Modeleur BIM Revit; HVAC/élec/sanitaire; FR/DE; Luxembourg.\n- Criteria-check: voldoet\n- Score-notities: Eigen recrutering-pagina; BIM/Revit; LU; SME; FR/DE.\n\n## Carerix\n- Opdrachtgever ID: 104156\n- Contactpersoon ID: 375188\n- Vacature ID: 248915\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Luxemburg-stad\",\n  \"country\": \"Luxemburg\",\n  \"functionTypes\": [\n    \"Tekenaar\",\n    \"Bouw\"\n  ],\n  \"sector\": \"Bouw\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"De Taalvoorkeur mag ook Duits zijn. Zorg dat deze vacature in carerix komt. \",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T10:18:56.982Z_",
+      "createdAt": "2026-07-28T10:18:56.982Z"
+    },
     {
       "id": "3cfeaaee-9931-4d6d-89cb-0e19f9ed5a9b",
       "findingId": "1acf8069-22eb-48cf-83f0-98ce0702629d",
