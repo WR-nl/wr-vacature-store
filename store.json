@@ -409,13 +409,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Geen nieuwe kandidaten voor “Electricien”",
-    "updatedAt": "2026-07-28T10:31:43.660Z",
+    "message": "Worker online",
+    "updatedAt": "2026-07-28T10:31:44.076Z",
     "stage": "blocked",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T10:29:51.946Z",
-    "workerHeartbeatAt": "2026-07-28T10:31:40.190Z",
+    "workerHeartbeatAt": "2026-07-28T10:31:43.867Z",
     "assignmentId": "f6d795d3-1c7e-4ea8-8882-5dcc6b4caca2"
   }
 }
