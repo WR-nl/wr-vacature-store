@@ -409,9 +409,9 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Geen nieuwe kandidaten voor “Electricien”",
-    "updatedAt": "2026-07-28T10:31:18.026Z",
-    "stage": "blocked",
+    "message": "Agent aan — worker start",
+    "updatedAt": "2026-07-28T10:31:38.495Z",
+    "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T10:29:51.946Z",
