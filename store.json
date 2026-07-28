@@ -343,24 +343,6 @@
   ],
   "findings": [
     {
-      "id": "41edc1c3-ed4e-4290-85f3-854c90597296",
-      "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
-      "jobTitle": "Servicemonteur HVAC en klimaattechniek",
-      "companyName": "Hamer (FOJA Groep)",
-      "sourceUrl": "https://werkenbijfoja.nl/vacatures/servicemonteur-hvac-en-klimaattechniek/",
-      "uriHost": "werkenbijfoja.nl",
-      "locationText": "Apeldoorn / landelijk",
-      "websiteLanguage": "Nederlands",
-      "estimatedEmployees": 350,
-      "companySizeNote": "Familiebedrijf Hamer ~350; SME/mid",
-      "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
-      "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
-      "meetsCriteria": true,
-      "status": "entering_carerix",
-      "createdAt": "2026-07-28T10:32:27.274Z",
-      "updatedAt": "2026-07-28T10:32:28.136Z"
-    },
-    {
       "id": "eae265f0-3c6f-454a-8966-2b8590a2e7f1",
       "assignmentId": "8f3166f2-b5a5-4545-afa2-986483f88dff",
       "jobTitle": "Middle Office Cash & Settlement Specialist",
@@ -449,6 +431,24 @@
       "status": "found",
       "createdAt": "2026-07-28T10:26:26.789Z",
       "updatedAt": "2026-07-28T10:26:26.789Z"
+    },
+    {
+      "id": "41edc1c3-ed4e-4290-85f3-854c90597296",
+      "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
+      "jobTitle": "Servicemonteur HVAC en klimaattechniek",
+      "companyName": "Hamer (FOJA Groep)",
+      "sourceUrl": "https://werkenbijfoja.nl/vacatures/servicemonteur-hvac-en-klimaattechniek/",
+      "uriHost": "werkenbijfoja.nl",
+      "locationText": "Apeldoorn / landelijk",
+      "websiteLanguage": "Nederlands",
+      "estimatedEmployees": 350,
+      "companySizeNote": "Familiebedrijf Hamer ~350; SME/mid",
+      "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
+      "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
+      "meetsCriteria": true,
+      "status": "entering_carerix",
+      "createdAt": "2026-07-28T10:32:27.274Z",
+      "updatedAt": "2026-07-28T10:32:28.136Z"
     }
   ],
   "carerixLinks": [
@@ -485,14 +485,14 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Gevonden: Servicemonteur HVAC en klimaattechniek @ Hamer (FOJA Groep) — klaar voor Carerix",
-    "updatedAt": "2026-07-28T10:32:29.520Z",
-    "stage": "entering",
+    "message": "Opdracht gestart: Service Monteur NL demo",
+    "updatedAt": "2026-07-28T10:32:30.777Z",
+    "stage": "queued",
     "targetCount": 1,
-    "etaSeconds": 330,
-    "startedAt": "2026-07-28T10:32:24.854Z",
+    "etaSeconds": 450,
+    "startedAt": "2026-07-28T10:32:30.000Z",
     "workerHeartbeatAt": "2026-07-28T10:31:47.868Z",
     "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
-    "currentIndex": 1
+    "currentIndex": 0
   }
 }
