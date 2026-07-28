@@ -505,11 +505,11 @@
     "enabled": true,
     "busy": false,
     "message": "Worker online — geen open werk",
-    "updatedAt": "2026-07-28T11:27:17.053Z",
+    "updatedAt": "2026-07-28T11:27:18.981Z",
     "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-07-28T11:10:56.207Z",
-    "workerHeartbeatAt": "2026-07-28T11:27:14.091Z"
+    "workerHeartbeatAt": "2026-07-28T11:27:18.767Z"
   }
 }
