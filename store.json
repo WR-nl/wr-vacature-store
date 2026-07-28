@@ -484,14 +484,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Worker online — wacht op werk",
-    "updatedAt": "2026-07-28T11:01:30.754Z",
-    "stage": "blocked",
+    "busy": true,
+    "message": "Carerix: Servicemonteur HVAC en klimaattechniek @ Hamer (FOJA Groep)",
+    "updatedAt": "2026-07-28T11:01:32.727Z",
+    "stage": "entering",
     "targetCount": 1,
-    "etaSeconds": 0,
+    "etaSeconds": 330,
     "startedAt": "2026-07-28T10:32:30.000Z",
-    "workerHeartbeatAt": "2026-07-28T11:01:30.503Z",
-    "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01"
+    "workerHeartbeatAt": "2026-07-28T11:01:31.532Z",
+    "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
+    "currentIndex": 1
   }
 }
