@@ -261,14 +261,14 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Opdracht klaar voor uitvoering: Tekenaar Bouw Luxemburg Stad",
-    "updatedAt": "2026-07-28T09:16:15.095Z",
+    "message": "Zoeken: Tekenaar Bouw Luxemburg Stad",
+    "updatedAt": "2026-07-28T09:34:16.536Z",
     "assignmentId": "3209907d-3a46-400e-99ae-1e6639d63921",
-    "stage": "queued",
+    "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 450,
     "startedAt": "2026-07-28T09:16:15.095Z",
     "workerHeartbeatAt": "2026-07-28T09:10:00.000Z",
-    "currentIndex": 0
+    "currentIndex": 1
   }
 }
