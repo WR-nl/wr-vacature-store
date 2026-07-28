@@ -485,8 +485,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Wacht op Carerix-worker: Servicemonteur HVAC en klimaattechniek",
-    "updatedAt": "2026-07-28T10:41:25.911Z",
+    "message": "Carerix: Servicemonteur HVAC @ Hamer (FOJA) — worker herstart",
+    "updatedAt": "2026-07-28T10:42:25.210Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
