@@ -690,9 +690,27 @@
       "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
       "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
       "meetsCriteria": true,
-      "status": "found",
+      "status": "entering_carerix",
       "createdAt": "2026-07-28T11:46:51.547Z",
-      "updatedAt": "2026-07-28T11:46:51.547Z"
+      "updatedAt": "2026-07-28T11:46:54.833Z"
+    },
+    {
+      "id": "87ca1ab4-b958-469c-b097-12eeb24aacaa",
+      "assignmentId": "9c2feefd-8a55-4390-bafd-5e78231180a7",
+      "jobTitle": "Servicemonteur HVAC en klimaattechniek",
+      "companyName": "Hamer (FOJA Groep)",
+      "sourceUrl": "https://werkenbijfoja.nl/vacatures/servicemonteur-hvac-en-klimaattechniek/",
+      "uriHost": "werkenbijfoja.nl",
+      "locationText": "Apeldoorn / landelijk",
+      "websiteLanguage": "Nederlands",
+      "estimatedEmployees": 350,
+      "companySizeNote": "Familiebedrijf Hamer ~350; SME/mid",
+      "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
+      "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-07-28T11:46:50.193Z",
+      "updatedAt": "2026-07-28T11:46:50.193Z"
     }
   ],
   "carerixLinks": [
@@ -786,13 +804,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Wacht op Carerix-worker: Servicemonteur HVAC en klimaattechniek",
-    "updatedAt": "2026-07-28T11:48:05.677Z",
+    "message": "Carerix: Servicemonteur — live invoer gestart",
+    "updatedAt": "2026-07-28T11:48:17.883Z",
     "stage": "entering",
     "targetCount": 1,
-    "etaSeconds": 330,
+    "etaSeconds": 240,
     "startedAt": "2026-07-28T11:46:47.809Z",
-    "workerHeartbeatAt": "2026-07-28T11:44:08.496Z",
+    "workerHeartbeatAt": "2026-07-28T11:48:17.000Z",
     "assignmentId": "9c2feefd-8a55-4390-bafd-5e78231180a7",
     "currentIndex": 1
   }
