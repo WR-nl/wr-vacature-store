@@ -860,8 +860,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken gestart: koffiemonteurs",
-    "updatedAt": "2026-08-05T19:58:22.073Z",
+    "message": "Zoeken: koffiemonteurs",
+    "updatedAt": "2026-08-05T19:58:23.675Z",
     "stage": "searching",
     "targetCount": 10,
     "etaSeconds": 4500,
