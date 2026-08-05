@@ -571,6 +571,24 @@
   ],
   "findings": [
     {
+      "id": "82842d42-c698-4657-b913-1cd1e809bc21",
+      "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
+      "jobTitle": "Software Engineer",
+      "companyName": "Urban Mobility Systems",
+      "sourceUrl": "https://careers.urbanmobilitysystems.nl/vacatures/software-engineer/",
+      "uriHost": "urbanmobilitysystems.nl",
+      "locationText": "Oss, Netherlands",
+      "websiteLanguage": "Engels",
+      "estimatedEmployees": 80,
+      "companySizeNote": "SME mid-size EV/powertrain engineering company Oss",
+      "roleSummary": "Design, develop and maintain software for electric powertrain and battery systems; CAN, C/C++, Matlab.",
+      "scoreNotes": "Own careers site; Software Engineer; NL; English required; SME.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-08-05T19:58:24.695Z",
+      "updatedAt": "2026-08-05T19:58:24.695Z"
+    },
+    {
       "id": "d0906fb6-5dcf-4261-9c82-929d43c833c7",
       "assignmentId": "635d4710-889a-4a6d-ba33-192d27f1b1e1",
       "jobTitle": "Middle Office Cash & Settlement Specialist",
