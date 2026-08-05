@@ -1,6 +1,62 @@
 {
   "assignments": [
     {
+      "id": "14e2d509-c18d-4509-ae16-f49a373018de",
+      "title": "koffiemonteurs",
+      "region": "heel nederland",
+      "country": "Nederland",
+      "functionTypes": [
+        "koffiemachine monteur"
+      ],
+      "sector": "engineer",
+      "companySize": "klein-middelgroot",
+      "languagePreference": "Nederlands",
+      "requireOwnCareersSite": true,
+      "targetCount": 10,
+      "extraPrompt": "",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "heel nederland",
+        "country": "Nederland",
+        "functionTypes": [
+          "koffiemachine monteur"
+        ],
+        "sector": "engineer",
+        "companySize": "klein-middelgroot",
+        "languagePreference": "Nederlands",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-08-05T19:58:22.073Z",
+      "updatedAt": "2026-08-05T19:58:22.073Z"
+    },
+    {
       "id": "9c2feefd-8a55-4390-bafd-5e78231180a7",
       "title": "servicemonteur",
       "region": "Luxemburg-stad",
@@ -803,13 +859,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Klaar — geen open werk",
-    "updatedAt": "2026-07-28T11:48:47.860Z",
-    "stage": "done",
-    "targetCount": 1,
-    "etaSeconds": 0,
-    "startedAt": "2026-07-28T11:46:47.809Z",
-    "workerHeartbeatAt": "2026-07-28T11:48:24.229Z"
+    "busy": true,
+    "message": "Zoeken gestart: koffiemonteurs",
+    "updatedAt": "2026-08-05T19:58:22.073Z",
+    "stage": "searching",
+    "targetCount": 10,
+    "etaSeconds": 4500,
+    "startedAt": "2026-08-05T19:58:22.073Z",
+    "workerHeartbeatAt": "2026-07-28T11:48:24.229Z",
+    "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
+    "currentIndex": 1
   }
 }
