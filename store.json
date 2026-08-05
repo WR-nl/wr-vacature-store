@@ -878,8 +878,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Gevonden: Software Engineer @ Urban Mobility Systems — klaar voor Carerix",
-    "updatedAt": "2026-08-05T19:58:26.600Z",
+    "message": "Wacht op Carerix-worker: Software Engineer",
+    "updatedAt": "2026-08-05T19:58:27.056Z",
     "stage": "entering",
     "targetCount": 10,
     "etaSeconds": 4380,
