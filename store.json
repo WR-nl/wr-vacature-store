@@ -1008,15 +1008,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Klaar: Liftmonteur Van Deelen vac 248950 / OG 104529 / CP 376960 — Cursor Marketing OG✓ CP✓ Vac✓",
-    "updatedAt": "2026-08-17T19:55:43.149Z",
-    "stage": "done",
-    "targetCount": 1,
-    "etaSeconds": 0,
+    "busy": true,
+    "message": "Wacht op Carerix-worker: Embedded Software Engineer",
+    "updatedAt": "2026-08-17T19:56:14.116Z",
+    "stage": "entering",
+    "targetCount": 10,
+    "etaSeconds": 4380,
     "startedAt": "2026-08-17T19:50:29.000Z",
     "workerHeartbeatAt": "2026-08-17T19:41:31.618Z",
-    "assignmentId": "41589a1f-7b96-4a11-96aa-2a730694a39c",
+    "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
     "currentIndex": 1
   }
 }
