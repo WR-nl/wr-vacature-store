@@ -642,9 +642,9 @@
       "roleSummary": "Monteur liftrenovatie: moderniseren van liften, aandrijvingen, besturing, deuren en veiligheidssystemen.",
       "scoreNotes": "Eigen werken-bij pagina; liftmonteur; SME familiebedrijf; NL.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-17T19:50:43.671Z",
-      "updatedAt": "2026-08-17T19:50:46.238Z"
+      "updatedAt": "2026-08-17T19:55:39.417Z"
     },
     {
       "id": "834b2b56-c0f1-43be-a9e7-491eafb88456",
@@ -943,6 +943,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-07-28T11:42:54.801Z"
+    },
+    {
+      "id": "11d7a1f0-bf88-4525-a523-8d456161dc0f",
+      "findingId": "ece8f1ce-bc6d-42d9-8ef8-2a1bde1b5ed9",
+      "companyId": "104529",
+      "contactId": "376960",
+      "vacancyId": "248950",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-17T19:55:39.417Z"
     }
   ],
   "exports": [
