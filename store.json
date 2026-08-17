@@ -629,7 +629,7 @@
   ],
   "findings": [
     {
-      "id": "3bb18b66-0c09-4b97-b413-ba90ae2a6848",
+      "id": "834b2b56-c0f1-43be-a9e7-491eafb88456",
       "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
       "jobTitle": "Embedded Software Engineer",
       "companyName": "Vention",
@@ -642,9 +642,9 @@
       "roleSummary": "Embedded software lifecycle on microcontroller platforms (nRF/STM32); C/C++.",
       "scoreNotes": "Own careers page; Software Engineer; EN; SME; NL.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
-      "createdAt": "2026-08-17T19:50:34.405Z",
-      "updatedAt": "2026-08-17T19:50:35.374Z"
+      "status": "found",
+      "createdAt": "2026-08-17T19:50:37.969Z",
+      "updatedAt": "2026-08-17T19:50:37.969Z"
     },
     {
       "id": "82842d42-c698-4657-b913-1cd1e809bc21",
@@ -861,6 +861,24 @@
       "status": "rejected",
       "createdAt": "2026-07-28T11:46:50.193Z",
       "updatedAt": "2026-07-28T11:48:42.756Z"
+    },
+    {
+      "id": "3bb18b66-0c09-4b97-b413-ba90ae2a6848",
+      "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
+      "jobTitle": "Embedded Software Engineer",
+      "companyName": "Vention",
+      "sourceUrl": "https://www.vention.nl/careers/embedded-software-engineer",
+      "uriHost": "vention.nl",
+      "locationText": "Eindhoven",
+      "websiteLanguage": "Engels",
+      "estimatedEmployees": 50,
+      "companySizeNote": "SME connected products / embedded engineering Eindhoven",
+      "roleSummary": "Embedded software lifecycle on microcontroller platforms (nRF/STM32); C/C++.",
+      "scoreNotes": "Own careers page; Software Engineer; EN; SME; NL.",
+      "meetsCriteria": true,
+      "status": "entering_carerix",
+      "createdAt": "2026-08-17T19:50:34.405Z",
+      "updatedAt": "2026-08-17T19:50:35.374Z"
     }
   ],
   "carerixLinks": [
@@ -954,14 +972,14 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Wacht op Carerix-worker: Embedded Software Engineer",
-    "updatedAt": "2026-08-17T19:50:37.608Z",
-    "stage": "entering",
-    "targetCount": 10,
-    "etaSeconds": 4380,
+    "message": "Zoeken: Liftmonteur Nederland",
+    "updatedAt": "2026-08-17T19:50:34.534Z",
+    "stage": "searching",
+    "targetCount": 1,
+    "etaSeconds": 450,
     "startedAt": "2026-08-17T19:50:30.867Z",
     "workerHeartbeatAt": "2026-08-17T19:41:31.618Z",
-    "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
+    "assignmentId": "41589a1f-7b96-4a11-96aa-2a730694a39c",
     "currentIndex": 1
   }
 }
