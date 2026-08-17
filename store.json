@@ -878,8 +878,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Carerix-sessie verlopen — eenmalig inloggen nodig (npm run worker:login)",
-    "updatedAt": "2026-08-17T19:41:32.412Z",
+    "message": "Worker-fout: Carerix-shell niet klaar (geen knop Nieuw). URL=https://id-s6.carerix.io/auth/realms/wr/protocol/openid-connect/auth?cli",
+    "updatedAt": "2026-08-17T19:41:31.966Z",
     "stage": "blocked",
     "targetCount": 10,
     "etaSeconds": 0,
