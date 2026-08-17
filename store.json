@@ -1293,8 +1293,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken gestart: Servicemonteur ventilatie",
-    "updatedAt": "2026-08-17T20:21:12.555Z",
+    "message": "Zoeken: Servicemonteur ventilatie",
+    "updatedAt": "2026-08-17T20:21:13.536Z",
     "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 450,
