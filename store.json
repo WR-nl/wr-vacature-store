@@ -990,9 +990,9 @@
       "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
       "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
       "meetsCriteria": true,
-      "status": "found",
+      "status": "rejected",
       "createdAt": "2026-08-17T20:06:19.585Z",
-      "updatedAt": "2026-08-17T20:06:19.585Z"
+      "updatedAt": "2026-08-17T20:06:46.716Z"
     },
     {
       "id": "437cd616-0a03-4af5-a7db-2f84011e5248",
@@ -1008,9 +1008,9 @@
       "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
       "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
       "meetsCriteria": true,
-      "status": "found",
+      "status": "rejected",
       "createdAt": "2026-08-17T20:06:18.590Z",
-      "updatedAt": "2026-08-17T20:06:18.590Z"
+      "updatedAt": "2026-08-17T20:06:47.832Z"
     },
     {
       "id": "f9466ca1-1c58-4a4c-a132-1cb23c661e2e",
@@ -1142,12 +1142,12 @@
     "enabled": true,
     "busy": true,
     "message": "Wacht op Carerix-worker: Servicemonteur HVAC en klimaattechniek",
-    "updatedAt": "2026-08-17T20:06:46.755Z",
+    "updatedAt": "2026-08-17T20:06:51.435Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
     "startedAt": "2026-08-17T20:06:31.000Z",
-    "workerHeartbeatAt": "2026-08-17T20:06:46.197Z",
+    "workerHeartbeatAt": "2026-08-17T20:06:51.198Z",
     "assignmentId": "b29cff03-0d86-439a-a50c-c15672451224",
     "currentIndex": 1
   }
