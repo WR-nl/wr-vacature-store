@@ -1,6 +1,66 @@
 {
   "assignments": [
     {
+      "id": "b29cff03-0d86-439a-a50c-c15672451224",
+      "title": "Verwarmingsmonteur",
+      "region": "Nederland",
+      "country": "Nederland",
+      "functionTypes": [
+        "Verwarmingsmonteur",
+        "servicetechnicus",
+        "CV-techniek"
+      ],
+      "sector": "CV-techniek",
+      "companySize": "klein tot middelgroot",
+      "languagePreference": "Nederlands",
+      "requireOwnCareersSite": true,
+      "targetCount": 1,
+      "extraPrompt": "",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "Nederland",
+        "country": "Nederland",
+        "functionTypes": [
+          "Verwarmingsmonteur",
+          "servicetechnicus",
+          "CV-techniek"
+        ],
+        "sector": "CV-techniek",
+        "companySize": "klein tot middelgroot",
+        "languagePreference": "Nederlands",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-08-17T20:06:14.590Z",
+      "updatedAt": "2026-08-17T20:06:14.590Z"
+    },
+    {
       "id": "41589a1f-7b96-4a11-96aa-2a730694a39c",
       "title": "Liftmonteur Nederland",
       "region": "Nederland landelijk",
@@ -1008,13 +1068,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Worker online — geen open werk",
-    "updatedAt": "2026-08-17T20:06:14.437Z",
-    "stage": "done",
-    "targetCount": 10,
-    "etaSeconds": 0,
-    "startedAt": "2026-08-17T19:50:29.000Z",
-    "workerHeartbeatAt": "2026-08-17T20:06:12.406Z"
+    "busy": true,
+    "message": "Zoeken gestart: Verwarmingsmonteur",
+    "updatedAt": "2026-08-17T20:06:14.590Z",
+    "stage": "searching",
+    "targetCount": 1,
+    "etaSeconds": 450,
+    "startedAt": "2026-08-17T20:06:14.590Z",
+    "workerHeartbeatAt": "2026-08-17T20:06:12.406Z",
+    "assignmentId": "b29cff03-0d86-439a-a50c-c15672451224",
+    "currentIndex": 1
   }
 }
