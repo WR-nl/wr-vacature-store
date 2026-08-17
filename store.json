@@ -1,6 +1,64 @@
 {
   "assignments": [
     {
+      "id": "41589a1f-7b96-4a11-96aa-2a730694a39c",
+      "title": "Liftmonteur Nederland",
+      "region": "Nederland landelijk",
+      "country": "Nederland",
+      "functionTypes": [
+        "Liftmonteur",
+        "Liften"
+      ],
+      "sector": "Lifttechniek",
+      "companySize": "klein-middelgroot",
+      "languagePreference": "Nederlands",
+      "requireOwnCareersSite": true,
+      "targetCount": 1,
+      "extraPrompt": "Eigen careers-site; SME; automatisch zoeken + Carerix invullen.",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "Nederland landelijk",
+        "country": "Nederland",
+        "functionTypes": [
+          "Liftmonteur",
+          "Liften"
+        ],
+        "sector": "Lifttechniek",
+        "companySize": "klein-middelgroot",
+        "languagePreference": "Nederlands",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "Eigen careers-site; SME; automatisch zoeken + Carerix invullen.",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-08-17T19:50:30.867Z",
+      "updatedAt": "2026-08-17T19:50:30.867Z"
+    },
+    {
       "id": "14e2d509-c18d-4509-ae16-f49a373018de",
       "title": "koffiemonteurs",
       "region": "heel nederland",
@@ -878,14 +936,14 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Wacht op Carerix-worker: Software Engineer",
-    "updatedAt": "2026-08-17T19:50:14.034Z",
-    "stage": "entering",
-    "targetCount": 10,
-    "etaSeconds": 4380,
-    "startedAt": "2026-08-05T19:58:22.073Z",
+    "message": "Zoeken gestart: Liftmonteur Nederland",
+    "updatedAt": "2026-08-17T19:50:30.867Z",
+    "stage": "searching",
+    "targetCount": 1,
+    "etaSeconds": 450,
+    "startedAt": "2026-08-17T19:50:30.867Z",
     "workerHeartbeatAt": "2026-08-17T19:41:31.618Z",
-    "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
+    "assignmentId": "41589a1f-7b96-4a11-96aa-2a730694a39c",
     "currentIndex": 1
   }
 }
