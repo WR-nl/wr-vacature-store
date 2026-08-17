@@ -1009,12 +1009,12 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar voor nieuwe opdracht",
-    "updatedAt": "2026-08-17T20:02:21.901Z",
+    "message": "Worker online — wacht op werk",
+    "updatedAt": "2026-08-17T20:02:31.706Z",
     "stage": "queued",
     "targetCount": 10,
     "etaSeconds": 0,
     "startedAt": "2026-08-17T19:50:29.000Z",
-    "workerHeartbeatAt": "2026-08-17T19:41:31.618Z"
+    "workerHeartbeatAt": "2026-08-17T20:02:31.435Z"
   }
 }
