@@ -878,13 +878,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker-fout: Carerix-shell niet klaar (geen knop Nieuw). URL=https://id-s6.carerix.io/auth/realms/wr/protocol/openid-connect/auth?cli",
-    "updatedAt": "2026-08-17T19:41:31.423Z",
+    "message": "Carerix-sessie verlopen — eenmalig inloggen nodig (npm run worker:login)",
+    "updatedAt": "2026-08-17T19:41:32.412Z",
     "stage": "blocked",
     "targetCount": 10,
     "etaSeconds": 0,
     "startedAt": "2026-08-05T19:58:22.073Z",
-    "workerHeartbeatAt": "2026-08-17T19:41:26.618Z",
+    "workerHeartbeatAt": "2026-08-17T19:41:31.618Z",
     "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de"
   }
 }
