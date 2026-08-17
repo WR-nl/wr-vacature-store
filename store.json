@@ -1070,12 +1070,12 @@
     "enabled": true,
     "busy": true,
     "message": "Zoeken gestart: Verwarmingsmonteur",
-    "updatedAt": "2026-08-17T20:06:14.590Z",
+    "updatedAt": "2026-08-17T20:06:16.508Z",
     "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 450,
     "startedAt": "2026-08-17T20:06:14.590Z",
-    "workerHeartbeatAt": "2026-08-17T20:06:12.406Z",
+    "workerHeartbeatAt": "2026-08-17T20:06:16.193Z",
     "assignmentId": "b29cff03-0d86-439a-a50c-c15672451224",
     "currentIndex": 1
   }
