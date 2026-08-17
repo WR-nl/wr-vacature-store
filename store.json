@@ -1294,12 +1294,12 @@
     "enabled": true,
     "busy": true,
     "message": "Zoeken gestart: Servicemonteur ventilatie",
-    "updatedAt": "2026-08-17T20:21:11.662Z",
+    "updatedAt": "2026-08-17T20:21:12.555Z",
     "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 450,
     "startedAt": "2026-08-17T20:21:11.662Z",
-    "workerHeartbeatAt": "2026-08-17T20:20:18.717Z",
+    "workerHeartbeatAt": "2026-08-17T20:20:05.263Z",
     "assignmentId": "0b78cae6-9be8-4318-9b06-76bb31e9da7e",
     "currentIndex": 1
   }
