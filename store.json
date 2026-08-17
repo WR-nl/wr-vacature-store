@@ -877,14 +877,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Worker online — wacht op werk",
-    "updatedAt": "2026-08-17T19:37:59.521Z",
-    "stage": "blocked",
+    "busy": true,
+    "message": "Carerix: Software Engineer @ Urban Mobility Systems",
+    "updatedAt": "2026-08-17T19:38:01.618Z",
+    "stage": "entering",
     "targetCount": 10,
-    "etaSeconds": 0,
+    "etaSeconds": 4380,
     "startedAt": "2026-08-05T19:58:22.073Z",
     "workerHeartbeatAt": "2026-08-17T19:37:59.273Z",
-    "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de"
+    "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
+    "currentIndex": 1
   }
 }
