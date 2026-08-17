@@ -879,12 +879,12 @@
     "enabled": true,
     "busy": true,
     "message": "Carerix: Software Engineer @ Urban Mobility Systems",
-    "updatedAt": "2026-08-17T19:38:51.884Z",
+    "updatedAt": "2026-08-17T19:38:56.870Z",
     "stage": "entering",
     "targetCount": 10,
     "etaSeconds": 4380,
     "startedAt": "2026-08-05T19:58:22.073Z",
-    "workerHeartbeatAt": "2026-08-17T19:38:51.585Z",
+    "workerHeartbeatAt": "2026-08-17T19:38:56.586Z",
     "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
     "currentIndex": 1
   }
