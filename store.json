@@ -702,9 +702,9 @@
       "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
       "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
       "meetsCriteria": true,
-      "status": "found",
+      "status": "entering_carerix",
       "createdAt": "2026-08-17T20:06:20.265Z",
-      "updatedAt": "2026-08-17T20:06:20.265Z"
+      "updatedAt": "2026-08-17T20:06:21.324Z"
     },
     {
       "id": "ece8f1ce-bc6d-42d9-8ef8-2a1bde1b5ed9",
@@ -993,24 +993,6 @@
       "status": "found",
       "createdAt": "2026-08-17T20:06:19.585Z",
       "updatedAt": "2026-08-17T20:06:19.585Z"
-    },
-    {
-      "id": "437cd616-0a03-4af5-a7db-2f84011e5248",
-      "assignmentId": "b29cff03-0d86-439a-a50c-c15672451224",
-      "jobTitle": "Servicemonteur HVAC en klimaattechniek",
-      "companyName": "Hamer (FOJA Groep)",
-      "sourceUrl": "https://werkenbijfoja.nl/vacatures/servicemonteur-hvac-en-klimaattechniek/",
-      "uriHost": "werkenbijfoja.nl",
-      "locationText": "Apeldoorn / landelijk",
-      "websiteLanguage": "Nederlands",
-      "estimatedEmployees": 350,
-      "companySizeNote": "Familiebedrijf Hamer ~350; SME/mid",
-      "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
-      "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
-      "meetsCriteria": true,
-      "status": "found",
-      "createdAt": "2026-08-17T20:06:18.590Z",
-      "updatedAt": "2026-08-17T20:06:18.590Z"
     }
   ],
   "carerixLinks": [
@@ -1123,13 +1105,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken: Verwarmingsmonteur",
-    "updatedAt": "2026-08-17T20:06:21.456Z",
-    "stage": "searching",
+    "message": "Wacht op Carerix-worker: Servicemonteur HVAC en klimaattechniek",
+    "updatedAt": "2026-08-17T20:06:21.872Z",
+    "stage": "entering",
     "targetCount": 1,
-    "etaSeconds": 450,
+    "etaSeconds": 330,
     "startedAt": "2026-08-17T20:06:14.590Z",
-    "workerHeartbeatAt": "2026-08-17T20:06:21.193Z",
+    "workerHeartbeatAt": "2026-08-17T20:06:12.406Z",
     "assignmentId": "b29cff03-0d86-439a-a50c-c15672451224",
     "currentIndex": 1
   }
