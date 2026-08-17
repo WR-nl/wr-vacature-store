@@ -936,8 +936,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken gestart: Liftmonteur Nederland",
-    "updatedAt": "2026-08-17T19:50:30.867Z",
+    "message": "Zoeken: Liftmonteur Nederland",
+    "updatedAt": "2026-08-17T19:50:32.264Z",
     "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 450,
