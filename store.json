@@ -878,13 +878,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Worker-fout: browserType.launch: Executable doesn't exist at /Users/florisderuiter/Library/Caches/ms-playwright/chromium_headless_she",
-    "updatedAt": "2026-08-17T19:38:21.833Z",
+    "message": "Worker online — wacht op werk",
+    "updatedAt": "2026-08-17T19:38:24.352Z",
     "stage": "blocked",
     "targetCount": 10,
     "etaSeconds": 0,
     "startedAt": "2026-08-05T19:58:22.073Z",
-    "workerHeartbeatAt": "2026-08-17T19:38:21.579Z",
+    "workerHeartbeatAt": "2026-08-17T19:38:24.120Z",
     "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de"
   }
 }
