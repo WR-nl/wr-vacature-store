@@ -879,12 +879,12 @@
     "enabled": true,
     "busy": true,
     "message": "Wacht op Carerix-worker: Software Engineer",
-    "updatedAt": "2026-08-17T19:39:31.830Z",
+    "updatedAt": "2026-08-17T19:39:36.891Z",
     "stage": "entering",
     "targetCount": 10,
     "etaSeconds": 4380,
     "startedAt": "2026-08-05T19:58:22.073Z",
-    "workerHeartbeatAt": "2026-08-17T19:39:31.594Z",
+    "workerHeartbeatAt": "2026-08-17T19:39:36.596Z",
     "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
     "currentIndex": 1
   }
