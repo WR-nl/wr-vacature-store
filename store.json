@@ -1122,14 +1122,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Worker-fout: PATCH /api/agent-status → 400: {\"error\":\"Gedeelde store-schrijven mislukt. Zet STORE_GITHUB_TOKEN op Vercel (repo WR-nl/",
-    "updatedAt": "2026-08-17T20:06:31.457Z",
-    "stage": "blocked",
+    "busy": true,
+    "message": "Zoeken gestart: Verwarmingsmonteur (1/1)",
+    "updatedAt": "2026-08-17T20:06:32.065Z",
+    "stage": "searching",
     "targetCount": 1,
-    "etaSeconds": 0,
-    "startedAt": "2026-08-17T20:06:14.590Z",
+    "etaSeconds": 450,
+    "startedAt": "2026-08-17T20:06:31.000Z",
     "workerHeartbeatAt": "2026-08-17T20:06:31.195Z",
-    "assignmentId": "b29cff03-0d86-439a-a50c-c15672451224"
+    "assignmentId": "b29cff03-0d86-439a-a50c-c15672451224",
+    "currentIndex": 1
   }
 }
