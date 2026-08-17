@@ -1105,6 +1105,24 @@
       "status": "rejected",
       "createdAt": "2026-08-17T20:06:24.011Z",
       "updatedAt": "2026-08-17T20:10:53.000Z"
+    },
+    {
+      "id": "947bc4c7-ce59-49c1-af26-f589d1842fba",
+      "assignmentId": "b044945c-1307-4a9b-9100-24002ca13d40",
+      "jobTitle": "Installatiemonteur Woningbouw",
+      "companyName": "Van Losser Groep",
+      "sourceUrl": "https://werkenbijvanlosser.nl/vacatures/installatiemonteur-woningbouw/",
+      "uriHost": "vanlosser.nl",
+      "locationText": "Hengelo (Gld)",
+      "websiteLanguage": "Nederlands",
+      "estimatedEmployees": 80,
+      "companySizeNote": "Groeiend familiebedrijf installatietechniek — SME",
+      "roleSummary": "Installatiemonteur woningbouw: CV-installaties, warmtepompen, vloerverwarming, sanitair.",
+      "scoreNotes": "Eigen werken-bij site; CV/verwarming; familiebedrijf SME; NL.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-08-17T20:17:08.786Z",
+      "updatedAt": "2026-08-17T20:17:08.786Z"
     }
   ],
   "carerixLinks": [
