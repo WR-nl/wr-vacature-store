@@ -642,9 +642,9 @@
       "roleSummary": "Embedded software lifecycle on microcontroller platforms (nRF/STM32); C/C++.",
       "scoreNotes": "Own careers page; Software Engineer; EN; SME; NL.",
       "meetsCriteria": true,
-      "status": "found",
+      "status": "entering_carerix",
       "createdAt": "2026-08-17T19:50:34.405Z",
-      "updatedAt": "2026-08-17T19:50:34.405Z"
+      "updatedAt": "2026-08-17T19:50:35.374Z"
     },
     {
       "id": "82842d42-c698-4657-b913-1cd1e809bc21",
@@ -955,7 +955,7 @@
     "enabled": true,
     "busy": true,
     "message": "Zoeken: Liftmonteur Nederland",
-    "updatedAt": "2026-08-17T19:50:32.264Z",
+    "updatedAt": "2026-08-17T19:50:34.534Z",
     "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 450,
