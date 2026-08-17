@@ -1236,12 +1236,12 @@
     "enabled": true,
     "busy": true,
     "message": "Zoeken: CV ketel monteur",
-    "updatedAt": "2026-08-17T20:17:20.509Z",
+    "updatedAt": "2026-08-17T20:17:22.415Z",
     "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 450,
     "startedAt": "2026-08-17T20:13:23.566Z",
-    "workerHeartbeatAt": "2026-08-17T20:17:02.112Z",
+    "workerHeartbeatAt": "2026-08-17T20:17:22.172Z",
     "assignmentId": "b044945c-1307-4a9b-9100-24002ca13d40",
     "currentIndex": 1
   }
