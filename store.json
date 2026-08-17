@@ -877,15 +877,14 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Carerix: Software Engineer @ Urban Mobility Systems",
-    "updatedAt": "2026-08-17T19:37:51.873Z",
-    "stage": "entering",
+    "busy": false,
+    "message": "Worker-fout: browserType.launch: Executable doesn't exist at /Users/florisderuiter/Library/Caches/ms-playwright/chromium_headless_she",
+    "updatedAt": "2026-08-17T19:37:52.272Z",
+    "stage": "blocked",
     "targetCount": 10,
-    "etaSeconds": 4380,
+    "etaSeconds": 0,
     "startedAt": "2026-08-05T19:58:22.073Z",
     "workerHeartbeatAt": "2026-08-17T19:37:51.574Z",
-    "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
-    "currentIndex": 1
+    "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de"
   }
 }
