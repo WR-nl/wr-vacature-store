@@ -1236,12 +1236,12 @@
     "enabled": true,
     "busy": true,
     "message": "Wacht op Carerix-worker: Installatiemonteur Woningbouw",
-    "updatedAt": "2026-08-17T20:20:14.679Z",
+    "updatedAt": "2026-08-17T20:20:18.976Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
     "startedAt": "2026-08-17T20:13:23.566Z",
-    "workerHeartbeatAt": "2026-08-17T20:20:05.263Z",
+    "workerHeartbeatAt": "2026-08-17T20:20:18.717Z",
     "assignmentId": "b044945c-1307-4a9b-9100-24002ca13d40",
     "currentIndex": 1
   }
