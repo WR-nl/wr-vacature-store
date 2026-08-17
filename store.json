@@ -1007,16 +1007,14 @@
     }
   ],
   "agentStatus": {
-    "enabled": true,
-    "busy": true,
-    "message": "Wacht op Carerix-worker: Embedded Software Engineer",
-    "updatedAt": "2026-08-17T19:59:13.690Z",
-    "stage": "entering",
+    "enabled": false,
+    "busy": false,
+    "message": "Gestopt op verzoek",
+    "updatedAt": "2026-08-17T20:00:11.181Z",
+    "stage": "blocked",
     "targetCount": 10,
-    "etaSeconds": 4380,
+    "etaSeconds": 0,
     "startedAt": "2026-08-17T19:50:29.000Z",
-    "workerHeartbeatAt": "2026-08-17T19:41:31.618Z",
-    "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
-    "currentIndex": 1
+    "workerHeartbeatAt": "2026-08-17T19:41:31.618Z"
   }
 }
