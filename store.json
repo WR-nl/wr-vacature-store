@@ -644,7 +644,7 @@
       "meetsCriteria": true,
       "status": "mail_ready",
       "createdAt": "2026-08-17T19:50:43.671Z",
-      "updatedAt": "2026-08-17T19:55:40.773Z"
+      "updatedAt": "2026-08-17T19:55:41.982Z"
     },
     {
       "id": "834b2b56-c0f1-43be-a9e7-491eafb88456",
@@ -957,6 +957,14 @@
     }
   ],
   "exports": [
+    {
+      "id": "e655db62-884a-4bbf-a591-b8eabd84b615",
+      "findingId": "ece8f1ce-bc6d-42d9-8ef8-2a1bde1b5ed9",
+      "assignmentId": "41589a1f-7b96-4a11-96aa-2a730694a39c",
+      "format": "markdown",
+      "content": "# Vacature-export — Monteur Liftrenovatie\n\n## Opdracht\n- Titel: Liftmonteur Nederland\n- Regio: Nederland landelijk (Nederland)\n- Sector: Lifttechniek\n- Functies: Liftmonteur, Liften\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: Eigen careers-site; SME; automatisch zoeken + Carerix invullen.\n\n## Gevonden vacature\n- Functie: Monteur Liftrenovatie\n- Bedrijf: Van Deelen Liften\n- Bron-URL: https://www.vandeelenliften.nl/werken-bij/monteur-liftrenovatie\n- Host: vandeelenliften.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Regio Rotterdam / Den Haag\n- Websitetaal: Nederlands\n- Omvang: Familiebedrijf sinds 1991; liftonderhoud/renovatie — SME\n- Samenvatting: Monteur liftrenovatie: moderniseren van liften, aandrijvingen, besturing, deuren en veiligheidssystemen.\n- Criteria-check: voldoet\n- Score-notities: Eigen werken-bij pagina; liftmonteur; SME familiebedrijf; NL.\n\n## Carerix\n- Opdrachtgever ID: 104529\n- Contactpersoon ID: 376960\n- Vacature ID: 248950\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland landelijk\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Liftmonteur\",\n    \"Liften\"\n  ],\n  \"sector\": \"Lifttechniek\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Eigen careers-site; SME; automatisch zoeken + Carerix invullen.\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-17T19:55:41.982Z_",
+      "createdAt": "2026-08-17T19:55:41.982Z"
+    },
     {
       "id": "5e7fc73c-5258-4a16-a406-a1c2ad49bacb",
       "findingId": "d0906fb6-5dcf-4261-9c82-929d43c833c7",
