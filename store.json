@@ -1010,11 +1010,11 @@
     "enabled": true,
     "busy": false,
     "message": "Worker online — wacht op werk",
-    "updatedAt": "2026-08-17T20:03:05.005Z",
+    "updatedAt": "2026-08-17T20:03:06.454Z",
     "stage": "done",
     "targetCount": 10,
     "etaSeconds": 0,
     "startedAt": "2026-08-17T19:50:29.000Z",
-    "workerHeartbeatAt": "2026-08-17T20:03:04.761Z"
+    "workerHeartbeatAt": "2026-08-17T20:03:06.153Z"
   }
 }
