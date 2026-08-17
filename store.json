@@ -972,14 +972,14 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Gevonden: Embedded Software Engineer @ Vention — klaar voor Carerix",
-    "updatedAt": "2026-08-17T19:50:41.248Z",
-    "stage": "entering",
-    "targetCount": 10,
-    "etaSeconds": 4380,
-    "startedAt": "2026-08-17T19:50:30.867Z",
+    "message": "Zoeken gestart: Liftmonteur Nederland (1/1)",
+    "updatedAt": "2026-08-17T19:50:42.412Z",
+    "stage": "searching",
+    "targetCount": 1,
+    "etaSeconds": 450,
+    "startedAt": "2026-08-17T19:50:29.000Z",
     "workerHeartbeatAt": "2026-08-17T19:41:31.618Z",
-    "assignmentId": "14e2d509-c18d-4509-ae16-f49a373018de",
+    "assignmentId": "41589a1f-7b96-4a11-96aa-2a730694a39c",
     "currentIndex": 1
   }
 }
