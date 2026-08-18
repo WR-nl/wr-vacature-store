@@ -1330,11 +1330,11 @@
     "enabled": true,
     "busy": false,
     "message": "Worker online — geen open werk",
-    "updatedAt": "2026-08-18T17:20:15.418Z",
+    "updatedAt": "2026-08-18T17:20:22.302Z",
     "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-08-17T20:21:11.662Z",
-    "workerHeartbeatAt": "2026-08-18T17:20:13.467Z"
+    "workerHeartbeatAt": "2026-08-18T17:20:22.099Z"
   }
 }
