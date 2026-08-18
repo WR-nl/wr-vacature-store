@@ -1423,8 +1423,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar — geen open werk",
-    "updatedAt": "2026-08-18T17:24:14.646Z",
+    "message": "Aan — Vercel-cron voert Carerix in via API (geen lokale worker)",
+    "updatedAt": "2026-08-18T17:53:14.454Z",
     "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
