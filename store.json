@@ -1327,14 +1327,15 @@
     }
   ],
   "agentStatus": {
-    "enabled": false,
+    "enabled": true,
     "busy": false,
-    "message": "Gestopt — opdracht afgekapt",
-    "updatedAt": "2026-08-18T17:17:34.484Z",
-    "stage": "blocked",
+    "message": "Klaar — worker online, wacht op opdracht",
+    "updatedAt": "2026-08-18T17:17:35.962Z",
+    "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-08-17T20:21:11.662Z",
-    "workerHeartbeatAt": "2026-08-18T17:17:34.256Z"
+    "workerHeartbeatAt": "2026-08-18T17:17:34.256Z",
+    "currentIndex": 0
   }
 }
