@@ -1330,7 +1330,7 @@
     "enabled": true,
     "busy": true,
     "message": "Wacht op Carerix-worker: Servicemonteur HVAC en klimaattechniek",
-    "updatedAt": "2026-08-18T00:45:14.671Z",
+    "updatedAt": "2026-08-18T00:46:14.741Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
