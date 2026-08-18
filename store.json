@@ -1388,12 +1388,12 @@
     "enabled": true,
     "busy": true,
     "message": "Zoeken gestart: Servicemonteur verwarming",
-    "updatedAt": "2026-08-18T17:20:47.709Z",
+    "updatedAt": "2026-08-18T17:20:48.352Z",
     "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 450,
     "startedAt": "2026-08-18T17:20:47.709Z",
-    "workerHeartbeatAt": "2026-08-18T17:20:41.939Z",
+    "workerHeartbeatAt": "2026-08-18T17:20:48.186Z",
     "assignmentId": "00185c85-866d-4bc8-a222-55d817e52afa",
     "currentIndex": 1
   }
