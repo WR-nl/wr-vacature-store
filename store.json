@@ -1424,11 +1424,11 @@
     "enabled": true,
     "busy": false,
     "message": "Aan — Vercel-cron voert Carerix in via API (geen lokale worker)",
-    "updatedAt": "2026-08-18T22:06:26.271Z",
+    "updatedAt": "2026-08-18T22:07:25.428Z",
     "stage": "done",
     "targetCount": 1,
     "etaSeconds": 0,
     "startedAt": "2026-08-18T17:20:47.709Z",
-    "workerHeartbeatAt": "2026-08-18T22:06:26.150Z"
+    "workerHeartbeatAt": "2026-08-18T22:07:25.302Z"
   }
 }
