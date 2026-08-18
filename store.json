@@ -1424,12 +1424,12 @@
     "enabled": true,
     "busy": true,
     "message": "Carerix: Installatiemonteur Woningbouw @ Van Losser Groep",
-    "updatedAt": "2026-08-18T17:23:10.174Z",
+    "updatedAt": "2026-08-18T17:23:12.135Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
     "startedAt": "2026-08-18T17:20:47.709Z",
-    "workerHeartbeatAt": "2026-08-18T17:22:41.942Z",
+    "workerHeartbeatAt": "2026-08-18T17:23:11.944Z",
     "assignmentId": "00185c85-866d-4bc8-a222-55d817e52afa",
     "currentIndex": 1
   }
