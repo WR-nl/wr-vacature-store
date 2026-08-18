@@ -1423,8 +1423,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Wacht op Carerix-worker: Installatiemonteur Woningbouw",
-    "updatedAt": "2026-08-18T17:23:16.548Z",
+    "message": "Carerix: Installatiemonteur Woningbouw @ Van Losser Groep",
+    "updatedAt": "2026-08-18T17:23:18.825Z",
     "stage": "entering",
     "targetCount": 1,
     "etaSeconds": 330,
