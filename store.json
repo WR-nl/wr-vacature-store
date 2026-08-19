@@ -1,6 +1,62 @@
 {
   "assignments": [
     {
+      "id": "e2951a4e-f055-414f-ac42-44548510b6fa",
+      "title": "Servicemonteur Elektricitietsinstallatie",
+      "region": "Nederland",
+      "country": "Nederland",
+      "functionTypes": [
+        "Servicemonteur"
+      ],
+      "sector": "Elektriciteit",
+      "companySize": "klein-middelgroot",
+      "languagePreference": "Nederlands",
+      "requireOwnCareersSite": true,
+      "targetCount": 1,
+      "extraPrompt": "",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "Nederland",
+        "country": "Nederland",
+        "functionTypes": [
+          "Servicemonteur"
+        ],
+        "sector": "Elektriciteit",
+        "companySize": "klein-middelgroot",
+        "languagePreference": "Nederlands",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-08-19T09:02:13.116Z",
+      "updatedAt": "2026-08-19T09:02:13.116Z"
+    },
+    {
       "id": "00185c85-866d-4bc8-a222-55d817e52afa",
       "title": "Servicemonteur verwarming",
       "region": "Nedelrnad",
@@ -1422,13 +1478,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Aan — Vercel-cron voert Carerix in via API (geen lokale worker)",
-    "updatedAt": "2026-08-19T08:59:25.579Z",
-    "stage": "done",
+    "busy": true,
+    "message": "Zoeken gestart: Servicemonteur Elektricitietsinstallatie",
+    "updatedAt": "2026-08-19T09:02:13.116Z",
+    "stage": "searching",
     "targetCount": 1,
-    "etaSeconds": 0,
-    "startedAt": "2026-08-18T17:20:47.709Z",
-    "workerHeartbeatAt": "2026-08-19T08:59:25.439Z"
+    "etaSeconds": 160,
+    "startedAt": "2026-08-19T09:02:13.116Z",
+    "workerHeartbeatAt": "2026-08-19T08:59:25.439Z",
+    "assignmentId": "e2951a4e-f055-414f-ac42-44548510b6fa",
+    "currentIndex": 1
   }
 }
