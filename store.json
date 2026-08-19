@@ -1942,9 +1942,9 @@
       "roleSummary": "Data analyst/data scientist gericht op strategic supply chains, productie-, import- en exportanalyses.",
       "scoreNotes": "Eigen careers site; data analyst; strategic supply chains; NL.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-19T10:01:45.014Z",
-      "updatedAt": "2026-08-19T10:01:48.406Z"
+      "updatedAt": "2026-08-19T10:02:04.541Z"
     }
   ],
   "carerixLinks": [
@@ -2068,6 +2068,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-19T10:00:49.324Z"
+    },
+    {
+      "id": "d10ed370-41e3-4731-a4bb-e519222dbc29",
+      "findingId": "31ad465f-c56b-41d4-af4c-339d977b3646",
+      "companyId": "2899",
+      "contactId": "377017",
+      "vacancyId": "248960",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-19T10:02:04.541Z"
     }
   ],
   "exports": [
