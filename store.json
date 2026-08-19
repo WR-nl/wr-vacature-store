@@ -2811,7 +2811,7 @@
     "enabled": true,
     "busy": true,
     "message": "Internet zoeken (ronde 1): Gas en waterleiding monteur",
-    "updatedAt": "2026-08-19T12:07:32.418Z",
+    "updatedAt": "2026-08-19T12:07:46.934Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-19T12:07:31.296Z",
