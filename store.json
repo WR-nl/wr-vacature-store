@@ -1586,9 +1586,9 @@
       "roleSummary": "Servicemonteur WTB utiliteit Den Bosch.",
       "scoreNotes": "Eigen site; service monteur; NL.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-19T09:33:49.772Z",
-      "updatedAt": "2026-08-19T09:33:52.993Z"
+      "updatedAt": "2026-08-19T09:34:08.246Z"
     }
   ],
   "carerixLinks": [
@@ -1668,6 +1668,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-19T09:22:53.742Z"
+    },
+    {
+      "id": "f1e3c6a6-bf37-4659-a946-13f7b5c0b49c",
+      "findingId": "8ce2aa68-13f2-4df2-9fbe-bde5d9700388",
+      "companyId": "7030",
+      "contactId": "377012",
+      "vacancyId": "110767",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-19T09:34:08.245Z"
     }
   ],
   "exports": [
