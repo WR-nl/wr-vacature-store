@@ -1851,10 +1851,11 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar — Servicemonteur Koelsysteem 1/1",
-    "updatedAt": "2026-08-19T09:42:27.996Z",
-    "stage": "done",
+    "message": "Carerix-API fout: Gedeelde store-schrijven mislukt: GitHub store conflict 409 {\"message\":\"is at 1899f0231bf8bc697c2a72166fead318c1a14a76 but expected 23449d1fcbdd371434489567212b",
+    "updatedAt": "2026-08-19T09:42:30.437Z",
+    "stage": "blocked",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T09:42:23.497Z"
+    "workerHeartbeatAt": "2026-08-19T09:42:23.497Z",
+    "assignmentId": "76914c12-9c42-4cef-9f15-ffe30cf0c2bf"
   }
 }
