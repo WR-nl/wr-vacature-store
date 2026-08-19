@@ -2473,9 +2473,9 @@
     "enabled": true,
     "busy": false,
     "message": "Opdracht gestopt — geen passende vacatures gevonden op het internet (12 zoekrondes)",
-    "updatedAt": "2026-08-19T11:28:39.714Z",
+    "updatedAt": "2026-08-19T11:29:39.478Z",
     "stage": "blocked",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T11:28:39.611Z"
+    "workerHeartbeatAt": "2026-08-19T11:29:39.357Z"
   }
 }
