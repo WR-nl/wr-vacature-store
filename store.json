@@ -1441,6 +1441,24 @@
       "status": "mail_ready",
       "createdAt": "2026-08-19T09:02:16.431Z",
       "updatedAt": "2026-08-19T09:02:32.841Z"
+    },
+    {
+      "id": "5f8c7ef0-cf9c-464a-a13d-2f0d1b94f57b",
+      "assignmentId": "f6b530ed-c7c3-4a87-adfd-0e0bd5278b4c",
+      "jobTitle": "Software Engineer",
+      "companyName": "Urban Mobility Systems",
+      "sourceUrl": "https://careers.urbanmobilitysystems.nl/vacatures/software-engineer/",
+      "uriHost": "urbanmobilitysystems.nl",
+      "locationText": "Oss, Netherlands",
+      "websiteLanguage": "Engels",
+      "estimatedEmployees": 80,
+      "companySizeNote": "SME mid-size EV/powertrain engineering company Oss",
+      "roleSummary": "Design, develop and maintain software for electric powertrain and battery systems; CAN, C/C++, Matlab.",
+      "scoreNotes": "Own careers site; Software Engineer; NL; English required; SME.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-08-19T09:22:38.257Z",
+      "updatedAt": "2026-08-19T09:22:38.257Z"
     }
   ],
   "carerixLinks": [
