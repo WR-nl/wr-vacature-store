@@ -2472,9 +2472,9 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Opdracht gestopt — geen passende vacatures gevonden op het internet (12 zoekrondes)",
-    "updatedAt": "2026-08-19T11:32:39.558Z",
-    "stage": "blocked",
+    "message": "Klaar",
+    "updatedAt": "2026-08-19T11:32:50.065Z",
+    "stage": "done",
     "etaSeconds": 0,
     "workerHeartbeatAt": "2026-08-19T11:32:39.435Z"
   }
