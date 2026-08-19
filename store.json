@@ -2622,8 +2622,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken: Onderhoudsmonteur",
-    "updatedAt": "2026-08-19T11:36:45.765Z",
+    "message": "Internet zoeken (ronde 1): Onderhoudsmonteur",
+    "updatedAt": "2026-08-19T11:36:47.048Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-19T11:36:45.654Z",
