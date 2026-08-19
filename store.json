@@ -2471,16 +2471,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Internet zoeken (ronde 12): Data-analyst",
-    "updatedAt": "2026-08-19T11:25:21.058Z",
-    "stage": "searching",
-    "etaSeconds": 160,
-    "workerHeartbeatAt": "2026-08-19T11:25:19.863Z",
-    "assignmentId": "0d0b29e2-062a-4569-854d-73506401836b",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-19T11:10:43.990Z",
-    "searchRound": 11
+    "busy": false,
+    "message": "Opdracht gestopt — geen passende vacatures gevonden op het internet (12 zoekrondes)",
+    "updatedAt": "2026-08-19T11:25:24.234Z",
+    "stage": "blocked",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-19T11:25:19.863Z"
   }
 }
