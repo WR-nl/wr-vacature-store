@@ -1517,7 +1517,7 @@
     "enabled": true,
     "busy": true,
     "message": "Sync/export: Servicemonteur HVAC en klimaattechniek",
-    "updatedAt": "2026-08-19T09:04:56.532Z",
+    "updatedAt": "2026-08-19T09:04:58.164Z",
     "stage": "syncing",
     "targetCount": 1,
     "etaSeconds": 15,
