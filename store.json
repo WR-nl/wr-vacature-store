@@ -2445,9 +2445,9 @@
       "roleSummary": "Vakman van de 21 eeuw. Bij Arco ben jij als allround houtbewerker van unieke duurzame houten tafels een belangrijke schakel voor een perfect eindresultaat.",
       "scoreNotes": "Internet SERP: Vacature Houtbewerker Opwerkerij | Werken bij Arco",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-19T11:39:51.508Z",
-      "updatedAt": "2026-08-19T11:39:54.959Z"
+      "updatedAt": "2026-08-19T11:40:11.253Z"
     }
   ],
   "carerixLinks": [
@@ -2604,6 +2604,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-19T11:37:16.120Z"
+    },
+    {
+      "id": "65a447ee-0c4b-4dc9-8f99-6b1e4caa084f",
+      "findingId": "972953cf-7453-4c8d-b02e-f30c70a3df6d",
+      "companyId": "2156",
+      "contactId": "377028",
+      "vacancyId": "248963",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-19T11:40:11.253Z"
     }
   ],
   "exports": [
