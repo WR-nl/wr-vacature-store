@@ -2472,15 +2472,15 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Internet zoeken (ronde 6): Data-analyst",
-    "updatedAt": "2026-08-19T11:17:43.789Z",
+    "message": "Zoeken vervolg (ronde 7/12): Data-analyst",
+    "updatedAt": "2026-08-19T11:17:45.172Z",
     "stage": "searching",
     "etaSeconds": 160,
-    "workerHeartbeatAt": "2026-08-19T11:17:42.704Z",
+    "workerHeartbeatAt": "2026-08-19T11:17:45.005Z",
     "assignmentId": "0d0b29e2-062a-4569-854d-73506401836b",
     "currentIndex": 1,
     "targetCount": 1,
     "startedAt": "2026-08-19T11:10:43.990Z",
-    "searchRound": 5
+    "searchRound": 6
   }
 }
