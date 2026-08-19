@@ -2529,7 +2529,7 @@
     "enabled": true,
     "busy": true,
     "message": "Internet zoeken (ronde 1): Data-analyst",
-    "updatedAt": "2026-08-19T11:32:56.528Z",
+    "updatedAt": "2026-08-19T11:33:01.486Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-19T11:32:55.317Z",
