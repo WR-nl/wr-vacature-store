@@ -14,7 +14,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "",
-      "status": "active",
+      "status": "completed",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -54,7 +54,7 @@
         "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-19T10:00:27.478Z",
-      "updatedAt": "2026-08-19T10:00:27.478Z"
+      "updatedAt": "2026-08-19T10:00:49.536Z"
     },
     {
       "id": "215c0151-7cb3-49bb-99d6-7b4811b39381",
@@ -1866,9 +1866,9 @@
       "roleSummary": "Data Analyst binnen Operations Office met nauwe samenwerking met Purchasing, Customer Service en Supply Chain Planning.",
       "scoreNotes": "Eigen careers site; data analyst; supply chain planning; NL.",
       "meetsCriteria": true,
-      "status": "synced",
+      "status": "mail_ready",
       "createdAt": "2026-08-19T10:00:31.411Z",
-      "updatedAt": "2026-08-19T10:00:49.324Z"
+      "updatedAt": "2026-08-19T10:00:50.418Z"
     }
   ],
   "carerixLinks": [
@@ -2082,6 +2082,14 @@
       "format": "markdown",
       "content": "# Vacature-export — Servicemonteur Elektrotechniek\n\n## Opdracht\n- Titel: servicemontuer IT Elektriciteit\n- Regio: Nederland (Nederland)\n- Sector: Servicemonteur\n- Functies: Servicemonteur IT, Elektriciteit\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Servicemonteur Elektrotechniek\n- Bedrijf: De Wit Elektrotechniek\n- Bron-URL: https://dewitelektro.nl/vacature/servicemonteur-elektrotechniek-drunen/\n- Host: dewitelektro.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Drunen / regio Noord-Brabant\n- Websitetaal: Nederlands\n- Omvang: Regionaal elektrotechnisch familiebedrijf / SME\n- Samenvatting: Servicemonteur elektrotechniek voor service, onderhoud en kleine uitbreidingen aan elektrische installaties bij bedrijven en particulieren.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; servicemonteur elektrotechniek; familiebedrijf; NL; SME.\n\n## Carerix\n- Opdrachtgever ID: 89137\n- Contactpersoon ID: 377015\n- Vacature ID: 248958\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Servicemonteur IT\",\n    \"Elektriciteit\"\n  ],\n  \"sector\": \"Servicemonteur\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T09:53:44.045Z_",
       "createdAt": "2026-08-19T09:53:44.045Z"
+    },
+    {
+      "id": "e0d61911-db67-4fa2-866f-28888173944f",
+      "findingId": "1b71e49b-5f89-4fee-aeda-7f6dfaebf3a8",
+      "assignmentId": "4a14399e-b3eb-4f63-b921-42c51cebe008",
+      "format": "markdown",
+      "content": "# Vacature-export — Data Analyst\n\n## Opdracht\n- Titel: Data-analyst\n- Regio: Nederland (Nederland)\n- Sector: Data-analyst, supply chain\n- Functies: Data-analyst\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Data Analyst\n- Bedrijf: Tiofarma\n- Bron-URL: https://careers.tiofarma.nl/vacatures/data-analyst-1319369/\n- Host: tiofarma.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Oud-Beijerland\n- Websitetaal: Nederlands\n- Omvang: Groeiende familieonderneming farmaceutische productie / mid-size\n- Samenvatting: Data Analyst binnen Operations Office met nauwe samenwerking met Purchasing, Customer Service en Supply Chain Planning.\n- Criteria-check: voldoet\n- Score-notities: Eigen careers site; data analyst; supply chain planning; NL.\n\n## Carerix\n- Opdrachtgever ID: 95371\n- Contactpersoon ID: 377016\n- Vacature ID: 248959\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Data-analyst\"\n  ],\n  \"sector\": \"Data-analyst, supply chain\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T10:00:50.418Z_",
+      "createdAt": "2026-08-19T10:00:50.418Z"
     }
   ],
   "agentStatus": {
