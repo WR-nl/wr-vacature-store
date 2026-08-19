@@ -14,7 +14,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "",
-      "status": "active",
+      "status": "completed",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -51,10 +51,10 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-19T09:02:13.116Z",
-      "updatedAt": "2026-08-19T09:02:13.116Z"
+      "updatedAt": "2026-08-19T09:07:43Z"
     },
     {
       "id": "00185c85-866d-4bc8-a222-55d817e52afa",
@@ -109,7 +109,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-18T17:20:47.709Z",
       "updatedAt": "2026-08-18T17:24:06.000Z"
@@ -167,7 +167,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-17T20:21:11.662Z",
       "updatedAt": "2026-08-18T17:06:00.000Z"
@@ -225,7 +225,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-17T20:13:23.566Z",
       "updatedAt": "2026-08-17T20:20:35.000Z"
@@ -285,7 +285,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-17T20:06:14.590Z",
       "updatedAt": "2026-08-17T20:10:53.000Z"
@@ -343,7 +343,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-17T19:50:30.867Z",
       "updatedAt": "2026-08-17T20:02:18.000Z"
@@ -399,7 +399,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-05T19:58:22.073Z",
       "updatedAt": "2026-08-17T20:02:18.000Z"
@@ -455,7 +455,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-07-28T11:46:47.809Z",
       "updatedAt": "2026-08-17T20:02:18.000Z"
@@ -515,7 +515,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-07-28T11:38:24.695Z",
       "updatedAt": "2026-08-17T20:02:18.000Z"
@@ -571,14 +571,14 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-07-28T11:28:53.248Z",
       "updatedAt": "2026-08-17T20:02:18.000Z"
     },
     {
       "id": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
-      "title": "Service Monteur Nederland — demo worker",
+      "title": "Service Monteur Nederland \u2014 demo worker",
       "region": "Nederland landelijk",
       "country": "Nederland",
       "functionTypes": [
@@ -629,7 +629,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-07-28T10:32:24.854Z",
       "updatedAt": "2026-08-17T20:02:18.000Z"
@@ -685,7 +685,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-07-28T10:29:51.946Z",
       "updatedAt": "2026-07-28T10:32:09.612Z"
@@ -743,7 +743,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-07-28T09:16:15.095Z",
       "updatedAt": "2026-08-17T20:02:18.000Z"
@@ -799,7 +799,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-07-28T08:54:58.817Z",
       "updatedAt": "2026-08-17T20:02:18.000Z"
@@ -855,7 +855,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-07-28T08:52:44.577Z",
       "updatedAt": "2026-07-28T10:26:59.895Z"
@@ -911,7 +911,7 @@
             "label": "Cursor Marketing"
           }
         },
-        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-07-28T08:52:17.194Z",
       "updatedAt": "2026-07-28T10:26:59.895Z"
@@ -928,7 +928,7 @@
       "locationText": "Hengelo (Gld)",
       "websiteLanguage": "Nederlands",
       "estimatedEmployees": 80,
-      "companySizeNote": "Groeiend familiebedrijf installatietechniek — SME",
+      "companySizeNote": "Groeiend familiebedrijf installatietechniek \u2014 SME",
       "roleSummary": "Installatiemonteur woningbouw: plaatsen/aansluiten CV-installaties, warmtepompen, vloerverwarming, sanitair.",
       "scoreNotes": "Eigen werken-bij site; CV/verwarming; familiebedrijf SME; NL.",
       "meetsCriteria": true,
@@ -964,7 +964,7 @@
       "locationText": "Regio Rotterdam / Den Haag",
       "websiteLanguage": "Nederlands",
       "estimatedEmployees": 80,
-      "companySizeNote": "Familiebedrijf sinds 1991; liftonderhoud/renovatie — SME",
+      "companySizeNote": "Familiebedrijf sinds 1991; liftonderhoud/renovatie \u2014 SME",
       "roleSummary": "Monteur liftrenovatie: moderniseren van liften, aandrijvingen, besturing, deuren en veiligheidssystemen.",
       "scoreNotes": "Eigen werken-bij pagina; liftmonteur; SME familiebedrijf; NL.",
       "meetsCriteria": true,
@@ -1018,7 +1018,7 @@
       "locationText": "Luxembourg City",
       "websiteLanguage": "Engels",
       "estimatedEmployees": 2000,
-      "companySizeNote": "European private bank; LU HQ — mid vs mega",
+      "companySizeNote": "European private bank; LU HQ \u2014 mid vs mega",
       "roleSummary": "Middle office cash & settlement; admin/ops private bank.",
       "scoreNotes": "Eigen careers; middle office; EN; LU.",
       "meetsCriteria": true,
@@ -1036,7 +1036,7 @@
       "locationText": "Luxembourg City",
       "websiteLanguage": "Engels",
       "estimatedEmployees": 2000,
-      "companySizeNote": "European private bank; LU HQ — mid vs mega",
+      "companySizeNote": "European private bank; LU HQ \u2014 mid vs mega",
       "roleSummary": "Middle office cash & settlement; admin/ops private bank.",
       "scoreNotes": "Eigen careers; middle office; EN; LU.",
       "meetsCriteria": true,
@@ -1072,7 +1072,7 @@
       "locationText": "Luxembourg City",
       "websiteLanguage": "Engels",
       "estimatedEmployees": 2000,
-      "companySizeNote": "European private bank; LU HQ — mid vs mega",
+      "companySizeNote": "European private bank; LU HQ \u2014 mid vs mega",
       "roleSummary": "Middle office cash & settlement; admin/ops private bank.",
       "scoreNotes": "Eigen careers; middle office; EN; LU.",
       "meetsCriteria": true,
@@ -1090,7 +1090,7 @@
       "locationText": "Luxembourg City",
       "websiteLanguage": "Engels",
       "estimatedEmployees": 2000,
-      "companySizeNote": "European private bank; LU HQ — mid vs mega",
+      "companySizeNote": "European private bank; LU HQ \u2014 mid vs mega",
       "roleSummary": "Middle office cash & settlement; admin/ops private bank.",
       "scoreNotes": "Eigen careers; middle office; EN; LU.",
       "meetsCriteria": true,
@@ -1108,7 +1108,7 @@
       "locationText": "Maasdijk / Westland",
       "websiteLanguage": "Nederlands",
       "estimatedEmployees": 100,
-      "companySizeNote": "Westlands familiebedrijf ~100 vakmensen — SME",
+      "companySizeNote": "Westlands familiebedrijf ~100 vakmensen \u2014 SME",
       "roleSummary": "Bouwkundig tekenaar BIM/Revit; opwerken BIM-modellen; woningconfigurator.",
       "scoreNotes": "Eigen site; Revit; familie/SME; NL.",
       "meetsCriteria": true,
@@ -1119,15 +1119,15 @@
     {
       "id": "79df1708-1e7c-4eb7-a1cb-36cf99195850",
       "assignmentId": "3209907d-3a46-400e-99ae-1e6639d63921",
-      "jobTitle": "Modeleur BIM (électricité / HVAC / sanitaire)",
-      "companyName": "Felgen & Associés Engineering",
+      "jobTitle": "Modeleur BIM (\u00e9lectricit\u00e9 / HVAC / sanitaire)",
+      "companyName": "Felgen & Associ\u00e9s Engineering",
       "sourceUrl": "https://felgen-lu.eu/?page_id=91",
       "uriHost": "felgen-lu.eu",
       "locationText": "Luxembourg-Ville",
       "websiteLanguage": "Frans",
       "estimatedEmployees": 60,
-      "companySizeNote": "Bureau d'études techniques spéciales ~60 — SME",
-      "roleSummary": "Modeleur BIM Revit; HVAC/élec/sanitaire; FR/DE; Luxembourg.",
+      "companySizeNote": "Bureau d'\u00e9tudes techniques sp\u00e9ciales ~60 \u2014 SME",
+      "roleSummary": "Modeleur BIM Revit; HVAC/\u00e9lec/sanitaire; FR/DE; Luxembourg.",
       "scoreNotes": "Eigen recrutering-pagina; BIM/Revit; LU; SME; FR/DE.",
       "meetsCriteria": true,
       "status": "mail_ready",
@@ -1144,7 +1144,7 @@
       "locationText": "Luxembourg City",
       "websiteLanguage": "Engels",
       "estimatedEmployees": 2000,
-      "companySizeNote": "European private bank; LU HQ — mid vs mega",
+      "companySizeNote": "European private bank; LU HQ \u2014 mid vs mega",
       "roleSummary": "Middle office cash & settlement; admin/ops private bank.",
       "scoreNotes": "Eigen careers; middle office; EN; LU.",
       "meetsCriteria": true,
@@ -1288,7 +1288,7 @@
       "locationText": "Hengelo (Gld)",
       "websiteLanguage": "Nederlands",
       "estimatedEmployees": 80,
-      "companySizeNote": "Groeiend familiebedrijf installatietechniek — SME",
+      "companySizeNote": "Groeiend familiebedrijf installatietechniek \u2014 SME",
       "roleSummary": "Installatiemonteur woningbouw: CV-installaties, warmtepompen, vloerverwarming, sanitair.",
       "scoreNotes": "Eigen werken-bij site; CV/verwarming; familiebedrijf SME; NL.",
       "meetsCriteria": true,
@@ -1342,7 +1342,7 @@
       "locationText": "Hengelo (Gld)",
       "websiteLanguage": "Nederlands",
       "estimatedEmployees": 80,
-      "companySizeNote": "Groeiend familiebedrijf installatietechniek — SME",
+      "companySizeNote": "Groeiend familiebedrijf installatietechniek \u2014 SME",
       "roleSummary": "Installatiemonteur woningbouw: CV-installaties, warmtepompen, vloerverwarming, sanitair.",
       "scoreNotes": "Eigen werken-bij site; CV/verwarming; familiebedrijf SME; NL.",
       "meetsCriteria": true,
@@ -1360,7 +1360,7 @@
       "locationText": "Hengelo (Gld)",
       "websiteLanguage": "Nederlands",
       "estimatedEmployees": 80,
-      "companySizeNote": "Groeiend familiebedrijf installatietechniek — SME",
+      "companySizeNote": "Groeiend familiebedrijf installatietechniek \u2014 SME",
       "roleSummary": "Installatiemonteur woningbouw: CV-installaties, warmtepompen, vloerverwarming, sanitair.",
       "scoreNotes": "Eigen werken-bij site; CV/verwarming; familiebedrijf SME; NL.",
       "meetsCriteria": true,
@@ -1461,7 +1461,7 @@
       "findingId": "ece8f1ce-bc6d-42d9-8ef8-2a1bde1b5ed9",
       "assignmentId": "41589a1f-7b96-4a11-96aa-2a730694a39c",
       "format": "markdown",
-      "content": "# Vacature-export — Monteur Liftrenovatie\n\n## Opdracht\n- Titel: Liftmonteur Nederland\n- Regio: Nederland landelijk (Nederland)\n- Sector: Lifttechniek\n- Functies: Liftmonteur, Liften\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: Eigen careers-site; SME; automatisch zoeken + Carerix invullen.\n\n## Gevonden vacature\n- Functie: Monteur Liftrenovatie\n- Bedrijf: Van Deelen Liften\n- Bron-URL: https://www.vandeelenliften.nl/werken-bij/monteur-liftrenovatie\n- Host: vandeelenliften.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Regio Rotterdam / Den Haag\n- Websitetaal: Nederlands\n- Omvang: Familiebedrijf sinds 1991; liftonderhoud/renovatie — SME\n- Samenvatting: Monteur liftrenovatie: moderniseren van liften, aandrijvingen, besturing, deuren en veiligheidssystemen.\n- Criteria-check: voldoet\n- Score-notities: Eigen werken-bij pagina; liftmonteur; SME familiebedrijf; NL.\n\n## Carerix\n- Opdrachtgever ID: 104529\n- Contactpersoon ID: 376960\n- Vacature ID: 248950\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland landelijk\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Liftmonteur\",\n    \"Liften\"\n  ],\n  \"sector\": \"Lifttechniek\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Eigen careers-site; SME; automatisch zoeken + Carerix invullen.\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-17T19:55:41.982Z_",
+      "content": "# Vacature-export \u2014 Monteur Liftrenovatie\n\n## Opdracht\n- Titel: Liftmonteur Nederland\n- Regio: Nederland landelijk (Nederland)\n- Sector: Lifttechniek\n- Functies: Liftmonteur, Liften\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: Eigen careers-site; SME; automatisch zoeken + Carerix invullen.\n\n## Gevonden vacature\n- Functie: Monteur Liftrenovatie\n- Bedrijf: Van Deelen Liften\n- Bron-URL: https://www.vandeelenliften.nl/werken-bij/monteur-liftrenovatie\n- Host: vandeelenliften.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Regio Rotterdam / Den Haag\n- Websitetaal: Nederlands\n- Omvang: Familiebedrijf sinds 1991; liftonderhoud/renovatie \u2014 SME\n- Samenvatting: Monteur liftrenovatie: moderniseren van liften, aandrijvingen, besturing, deuren en veiligheidssystemen.\n- Criteria-check: voldoet\n- Score-notities: Eigen werken-bij pagina; liftmonteur; SME familiebedrijf; NL.\n\n## Carerix\n- Opdrachtgever ID: 104529\n- Contactpersoon ID: 376960\n- Vacature ID: 248950\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland landelijk\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Liftmonteur\",\n    \"Liften\"\n  ],\n  \"sector\": \"Lifttechniek\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Eigen careers-site; SME; automatisch zoeken + Carerix invullen.\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-17T19:55:41.982Z_",
       "createdAt": "2026-08-17T19:55:41.982Z"
     },
     {
@@ -1469,7 +1469,7 @@
       "findingId": "d0906fb6-5dcf-4261-9c82-929d43c833c7",
       "assignmentId": "635d4710-889a-4a6d-ba33-192d27f1b1e1",
       "format": "markdown",
-      "content": "# Vacature-export — Middle Office Cash & Settlement Specialist\n\n## Opdracht\n- Titel: Bank employee\n- Regio: Luxemburg-stad (Luxemburg)\n- Sector: Internationale bank / private bank\n- Functies: Administratief, Client service, Middle office\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: Bank werknemer. Neem deze opdracht meteen op. Zet hem in carerix. \n\n## Gevonden vacature\n- Functie: Middle Office Cash & Settlement Specialist\n- Bedrijf: Quintet Private Bank (Europe) S.A.\n- Bron-URL: https://www.quintet.lu/en-lu/vacancies-list/job/middle-office-cash-&-settlement-specialist/3325\n- Host: quintet.lu\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Luxembourg City\n- Websitetaal: Engels\n- Omvang: European private bank; LU HQ — mid vs mega\n- Samenvatting: Middle office cash & settlement; admin/ops private bank.\n- Criteria-check: voldoet\n- Score-notities: Eigen careers; middle office; EN; LU.\n\n## Carerix\n- Opdrachtgever ID: 104161\n- Contactpersoon ID: 375196\n- Vacature ID: 248920\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Luxemburg-stad\",\n  \"country\": \"Luxemburg\",\n  \"functionTypes\": [\n    \"Administratief\",\n    \"Client service\",\n    \"Middle office\"\n  ],\n  \"sector\": \"Internationale bank / private bank\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Bank werknemer. Neem deze opdracht meteen op. Zet hem in carerix. \",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T11:42:56.073Z_",
+      "content": "# Vacature-export \u2014 Middle Office Cash & Settlement Specialist\n\n## Opdracht\n- Titel: Bank employee\n- Regio: Luxemburg-stad (Luxemburg)\n- Sector: Internationale bank / private bank\n- Functies: Administratief, Client service, Middle office\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: Bank werknemer. Neem deze opdracht meteen op. Zet hem in carerix. \n\n## Gevonden vacature\n- Functie: Middle Office Cash & Settlement Specialist\n- Bedrijf: Quintet Private Bank (Europe) S.A.\n- Bron-URL: https://www.quintet.lu/en-lu/vacancies-list/job/middle-office-cash-&-settlement-specialist/3325\n- Host: quintet.lu\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Luxembourg City\n- Websitetaal: Engels\n- Omvang: European private bank; LU HQ \u2014 mid vs mega\n- Samenvatting: Middle office cash & settlement; admin/ops private bank.\n- Criteria-check: voldoet\n- Score-notities: Eigen careers; middle office; EN; LU.\n\n## Carerix\n- Opdrachtgever ID: 104161\n- Contactpersoon ID: 375196\n- Vacature ID: 248920\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Luxemburg-stad\",\n  \"country\": \"Luxemburg\",\n  \"functionTypes\": [\n    \"Administratief\",\n    \"Client service\",\n    \"Middle office\"\n  ],\n  \"sector\": \"Internationale bank / private bank\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Bank werknemer. Neem deze opdracht meteen op. Zet hem in carerix. \",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T11:42:56.073Z_",
       "createdAt": "2026-07-28T11:42:56.074Z"
     },
     {
@@ -1477,7 +1477,7 @@
       "findingId": "1acf8069-22eb-48cf-83f0-98ce0702629d",
       "assignmentId": "b00b5904-c185-43b5-8583-1657175146a7",
       "format": "markdown",
-      "content": "# Vacature-export — Bouwkundig Tekenaar\n\n## Opdracht\n- Titel: bouw tekenaar Nederland\n- Regio: Nederland (Nederland)\n- Sector: bouw\n- Functies: Tekenen Revit autocad\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Bouwkundig Tekenaar\n- Bedrijf: Van Mierlo\n- Bron-URL: https://www.vmierlo.nl/nl/bouwkundig-tekenaar\n- Host: vmierlo.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Maasdijk / Westland\n- Websitetaal: Nederlands\n- Omvang: Westlands familiebedrijf ~100 vakmensen — SME\n- Samenvatting: Bouwkundig tekenaar BIM/Revit; opwerken BIM-modellen; woningconfigurator.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; Revit; familie/SME; NL.\n\n## Carerix\n- Opdrachtgever ID: 104155\n- Contactpersoon ID: 375185\n- Vacature ID: 248914\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Tekenen Revit autocad\"\n  ],\n  \"sector\": \"bouw\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T09:10:42.067Z_",
+      "content": "# Vacature-export \u2014 Bouwkundig Tekenaar\n\n## Opdracht\n- Titel: bouw tekenaar Nederland\n- Regio: Nederland (Nederland)\n- Sector: bouw\n- Functies: Tekenen Revit autocad\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Bouwkundig Tekenaar\n- Bedrijf: Van Mierlo\n- Bron-URL: https://www.vmierlo.nl/nl/bouwkundig-tekenaar\n- Host: vmierlo.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Maasdijk / Westland\n- Websitetaal: Nederlands\n- Omvang: Westlands familiebedrijf ~100 vakmensen \u2014 SME\n- Samenvatting: Bouwkundig tekenaar BIM/Revit; opwerken BIM-modellen; woningconfigurator.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; Revit; familie/SME; NL.\n\n## Carerix\n- Opdrachtgever ID: 104155\n- Contactpersoon ID: 375185\n- Vacature ID: 248914\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Tekenen Revit autocad\"\n  ],\n  \"sector\": \"bouw\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T09:10:42.067Z_",
       "createdAt": "2026-07-28T09:10:42.067Z"
     },
     {
@@ -1485,7 +1485,7 @@
       "findingId": "79df1708-1e7c-4eb7-a1cb-36cf99195850",
       "assignmentId": "3209907d-3a46-400e-99ae-1e6639d63921",
       "format": "markdown",
-      "content": "# Vacature-export — Modeleur BIM (électricité / HVAC / sanitaire)\n\n## Opdracht\n- Titel: Tekenaar Bouw Luxemburg Stad\n- Regio: Luxemburg-stad (Luxemburg)\n- Sector: Bouw\n- Functies: Tekenaar, Bouw\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: De Taalvoorkeur mag ook Duits zijn. Zorg dat deze vacature in carerix komt. \n\n## Gevonden vacature\n- Functie: Modeleur BIM (électricité / HVAC / sanitaire)\n- Bedrijf: Felgen & Associés Engineering\n- Bron-URL: https://felgen-lu.eu/?page_id=91\n- Host: felgen-lu.eu\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Luxembourg-Ville\n- Websitetaal: Frans\n- Omvang: Bureau d'études techniques spéciales ~60 — SME\n- Samenvatting: Modeleur BIM Revit; HVAC/élec/sanitaire; FR/DE; Luxembourg.\n- Criteria-check: voldoet\n- Score-notities: Eigen recrutering-pagina; BIM/Revit; LU; SME; FR/DE.\n\n## Carerix\n- Opdrachtgever ID: 104156\n- Contactpersoon ID: 375188\n- Vacature ID: 248915\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Luxemburg-stad\",\n  \"country\": \"Luxemburg\",\n  \"functionTypes\": [\n    \"Tekenaar\",\n    \"Bouw\"\n  ],\n  \"sector\": \"Bouw\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"De Taalvoorkeur mag ook Duits zijn. Zorg dat deze vacature in carerix komt. \",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T10:18:56.982Z_",
+      "content": "# Vacature-export \u2014 Modeleur BIM (\u00e9lectricit\u00e9 / HVAC / sanitaire)\n\n## Opdracht\n- Titel: Tekenaar Bouw Luxemburg Stad\n- Regio: Luxemburg-stad (Luxemburg)\n- Sector: Bouw\n- Functies: Tekenaar, Bouw\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: De Taalvoorkeur mag ook Duits zijn. Zorg dat deze vacature in carerix komt. \n\n## Gevonden vacature\n- Functie: Modeleur BIM (\u00e9lectricit\u00e9 / HVAC / sanitaire)\n- Bedrijf: Felgen & Associ\u00e9s Engineering\n- Bron-URL: https://felgen-lu.eu/?page_id=91\n- Host: felgen-lu.eu\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Luxembourg-Ville\n- Websitetaal: Frans\n- Omvang: Bureau d'\u00e9tudes techniques sp\u00e9ciales ~60 \u2014 SME\n- Samenvatting: Modeleur BIM Revit; HVAC/\u00e9lec/sanitaire; FR/DE; Luxembourg.\n- Criteria-check: voldoet\n- Score-notities: Eigen recrutering-pagina; BIM/Revit; LU; SME; FR/DE.\n\n## Carerix\n- Opdrachtgever ID: 104156\n- Contactpersoon ID: 375188\n- Vacature ID: 248915\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Luxemburg-stad\",\n  \"country\": \"Luxemburg\",\n  \"functionTypes\": [\n    \"Tekenaar\",\n    \"Bouw\"\n  ],\n  \"sector\": \"Bouw\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"De Taalvoorkeur mag ook Duits zijn. Zorg dat deze vacature in carerix komt. \",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. Groepen 8885/8886/8887. Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T10:18:56.982Z_",
       "createdAt": "2026-07-28T10:18:56.982Z"
     },
     {
@@ -1493,7 +1493,7 @@
       "findingId": "41edc1c3-ed4e-4290-85f3-854c90597296",
       "assignmentId": "8f95730b-6c4e-42b4-819f-fd3ffb943a01",
       "format": "markdown",
-      "content": "# Vacature-export — Servicemonteur HVAC en klimaattechniek\n\n## Opdracht\n- Titel: Service Monteur Nederland — demo worker\n- Regio: Nederland landelijk (Nederland)\n- Sector: Installatietechniek\n- Functies: Service Monteur, Techniek\n- Size: SME\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: Demo: worker moet automatisch zoeken + Carerix invullen. Eigen careers-site.\n\n## Gevonden vacature\n- Functie: Servicemonteur HVAC en klimaattechniek\n- Bedrijf: Hamer (FOJA Groep)\n- Bron-URL: https://werkenbijfoja.nl/vacatures/servicemonteur-hvac-en-klimaattechniek/\n- Host: werkenbijfoja.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Apeldoorn / landelijk\n- Websitetaal: Nederlands\n- Omvang: Familiebedrijf Hamer ~350; SME/mid\n- Samenvatting: Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; service monteur; technische installaties; NL; SME.\n\n## Carerix\n- Opdrachtgever ID: 104157\n- Contactpersoon ID: 375191\n- Vacature ID: 248916\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland landelijk\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Service Monteur\",\n    \"Techniek\"\n  ],\n  \"sector\": \"Installatietechniek\",\n  \"companySize\": \"SME\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Demo: worker moet automatisch zoeken + Carerix invullen. Eigen careers-site.\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T11:26:32.716Z_",
+      "content": "# Vacature-export \u2014 Servicemonteur HVAC en klimaattechniek\n\n## Opdracht\n- Titel: Service Monteur Nederland \u2014 demo worker\n- Regio: Nederland landelijk (Nederland)\n- Sector: Installatietechniek\n- Functies: Service Monteur, Techniek\n- Size: SME\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: Demo: worker moet automatisch zoeken + Carerix invullen. Eigen careers-site.\n\n## Gevonden vacature\n- Functie: Servicemonteur HVAC en klimaattechniek\n- Bedrijf: Hamer (FOJA Groep)\n- Bron-URL: https://werkenbijfoja.nl/vacatures/servicemonteur-hvac-en-klimaattechniek/\n- Host: werkenbijfoja.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Apeldoorn / landelijk\n- Websitetaal: Nederlands\n- Omvang: Familiebedrijf Hamer ~350; SME/mid\n- Samenvatting: Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; service monteur; technische installaties; NL; SME.\n\n## Carerix\n- Opdrachtgever ID: 104157\n- Contactpersoon ID: 375191\n- Vacature ID: 248916\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland landelijk\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Service Monteur\",\n    \"Techniek\"\n  ],\n  \"sector\": \"Installatietechniek\",\n  \"companySize\": \"SME\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Demo: worker moet automatisch zoeken + Carerix invullen. Eigen careers-site.\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T11:26:32.716Z_",
       "createdAt": "2026-07-28T11:26:32.716Z"
     },
     {
@@ -1501,7 +1501,7 @@
       "findingId": "ea4cc867-b89c-446a-b3e9-8df50c3e9986",
       "assignmentId": "f88277a4-6513-4b6e-848d-ed339768c23b",
       "format": "markdown",
-      "content": "# Vacature-export — Software Engineer\n\n## Opdracht\n- Titel: Software Engineer\n- Regio: Nederland (Nederland)\n- Sector: Software\n- Functies: Software\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: Vind een simpele software engineer vacature en zet de worker aan om deze in carerix te zetten.\n\n## Gevonden vacature\n- Functie: Software Engineer\n- Bedrijf: Urban Mobility Systems\n- Bron-URL: https://careers.urbanmobilitysystems.nl/vacatures/software-engineer/\n- Host: urbanmobilitysystems.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Oss, Netherlands\n- Websitetaal: Engels\n- Omvang: SME mid-size EV/powertrain engineering company Oss\n- Samenvatting: Design, develop and maintain software for electric powertrain and battery systems; CAN, C/C++, Matlab.\n- Criteria-check: voldoet\n- Score-notities: Own careers site; Software Engineer; NL; English required; SME.\n\n## Carerix\n- Opdrachtgever ID: 104159\n- Contactpersoon ID: 375194\n- Vacature ID: 248918\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Software\"\n  ],\n  \"sector\": \"Software\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Vind een simpele software engineer vacature en zet de worker aan om deze in carerix te zetten.\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T11:36:09.901Z_",
+      "content": "# Vacature-export \u2014 Software Engineer\n\n## Opdracht\n- Titel: Software Engineer\n- Regio: Nederland (Nederland)\n- Sector: Software\n- Functies: Software\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: Vind een simpele software engineer vacature en zet de worker aan om deze in carerix te zetten.\n\n## Gevonden vacature\n- Functie: Software Engineer\n- Bedrijf: Urban Mobility Systems\n- Bron-URL: https://careers.urbanmobilitysystems.nl/vacatures/software-engineer/\n- Host: urbanmobilitysystems.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Oss, Netherlands\n- Websitetaal: Engels\n- Omvang: SME mid-size EV/powertrain engineering company Oss\n- Samenvatting: Design, develop and maintain software for electric powertrain and battery systems; CAN, C/C++, Matlab.\n- Criteria-check: voldoet\n- Score-notities: Own careers site; Software Engineer; NL; English required; SME.\n\n## Carerix\n- Opdrachtgever ID: 104159\n- Contactpersoon ID: 375194\n- Vacature ID: 248918\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Software\"\n  ],\n  \"sector\": \"Software\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Vind een simpele software engineer vacature en zet de worker aan om deze in carerix te zetten.\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-07-28T11:36:09.901Z_",
       "createdAt": "2026-07-28T11:36:09.901Z"
     },
     {
@@ -1509,21 +1509,17 @@
       "findingId": "dbe3ed17-1b07-4c9e-9819-66d012660a6e",
       "assignmentId": "e2951a4e-f055-414f-ac42-44548510b6fa",
       "format": "markdown",
-      "content": "# Vacature-export — Servicemonteur HVAC en klimaattechniek\n\n## Opdracht\n- Titel: Servicemonteur Elektricitietsinstallatie\n- Regio: Nederland (Nederland)\n- Sector: Elektriciteit\n- Functies: Servicemonteur\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Servicemonteur HVAC en klimaattechniek\n- Bedrijf: Hamer (FOJA Groep)\n- Bron-URL: https://werkenbijfoja.nl/vacatures/servicemonteur-hvac-en-klimaattechniek/\n- Host: werkenbijfoja.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Apeldoorn / landelijk\n- Websitetaal: Nederlands\n- Omvang: Familiebedrijf Hamer ~350; SME/mid\n- Samenvatting: Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; service monteur; technische installaties; NL; SME.\n\n## Carerix\n- Opdrachtgever ID: 104157\n- Contactpersoon ID: 377010\n- Vacature ID: 248916\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Servicemonteur\"\n  ],\n  \"sector\": \"Elektriciteit\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T09:02:32.841Z_",
+      "content": "# Vacature-export \u2014 Servicemonteur HVAC en klimaattechniek\n\n## Opdracht\n- Titel: Servicemonteur Elektricitietsinstallatie\n- Regio: Nederland (Nederland)\n- Sector: Elektriciteit\n- Functies: Servicemonteur\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Servicemonteur HVAC en klimaattechniek\n- Bedrijf: Hamer (FOJA Groep)\n- Bron-URL: https://werkenbijfoja.nl/vacatures/servicemonteur-hvac-en-klimaattechniek/\n- Host: werkenbijfoja.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Apeldoorn / landelijk\n- Websitetaal: Nederlands\n- Omvang: Familiebedrijf Hamer ~350; SME/mid\n- Samenvatting: Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; service monteur; technische installaties; NL; SME.\n\n## Carerix\n- Opdrachtgever ID: 104157\n- Contactpersoon ID: 377010\n- Vacature ID: 248916\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Servicemonteur\"\n  ],\n  \"sector\": \"Elektriciteit\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard \u2018bestaande opdrachtgever\u2019). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 \u2014 altijd aanvinken en na Bewaren verifi\u00ebren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T09:02:32.841Z_",
       "createdAt": "2026-08-19T09:02:32.841Z"
     }
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Sync/export: Servicemonteur HVAC en klimaattechniek",
-    "updatedAt": "2026-08-19T09:07:32.769Z",
-    "stage": "syncing",
-    "targetCount": 1,
-    "etaSeconds": 15,
-    "startedAt": "2026-08-19T09:02:13.116Z",
-    "workerHeartbeatAt": "2026-08-19T09:07:21.651Z",
-    "assignmentId": "e2951a4e-f055-414f-ac42-44548510b6fa",
-    "currentIndex": 1
+    "busy": false,
+    "message": "Klaar \u2014 vorige opdracht opgeschoond; klaar voor nieuwe opdracht",
+    "updatedAt": "2026-08-19T09:07:43Z",
+    "stage": "done",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-19T09:07:43Z"
   }
 }
