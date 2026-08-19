@@ -1515,15 +1515,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Sync/export: Servicemonteur HVAC en klimaattechniek",
-    "updatedAt": "2026-08-19T09:14:17.722Z",
-    "stage": "syncing",
-    "targetCount": 1,
-    "etaSeconds": 15,
-    "startedAt": "2026-08-19T09:02:13.116Z",
-    "workerHeartbeatAt": "2026-08-19T09:14:16.410Z",
-    "assignmentId": "e2951a4e-f055-414f-ac42-44548510b6fa",
-    "currentIndex": 1
+    "busy": false,
+    "message": "Klaar — geen open werk",
+    "updatedAt": "2026-08-19T09:14:22.193Z",
+    "stage": "done",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-19T09:14:16.410Z"
   }
 }
