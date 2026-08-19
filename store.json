@@ -2810,8 +2810,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken: Gas en waterleiding monteur",
-    "updatedAt": "2026-08-19T12:07:31.404Z",
+    "message": "Internet zoeken (ronde 1): Gas en waterleiding monteur",
+    "updatedAt": "2026-08-19T12:07:32.418Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-19T12:07:31.296Z",
