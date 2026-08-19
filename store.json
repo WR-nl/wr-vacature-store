@@ -1851,8 +1851,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar — geen open werk",
-    "updatedAt": "2026-08-19T09:42:27.762Z",
+    "message": "Klaar — Servicemonteur Koelsysteem 1/1",
+    "updatedAt": "2026-08-19T09:42:27.996Z",
     "stage": "done",
     "etaSeconds": 0,
     "workerHeartbeatAt": "2026-08-19T09:42:23.497Z"
