@@ -1866,9 +1866,9 @@
       "roleSummary": "Data Analyst binnen Operations Office met nauwe samenwerking met Purchasing, Customer Service en Supply Chain Planning.",
       "scoreNotes": "Eigen careers site; data analyst; supply chain planning; NL.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-19T10:00:31.411Z",
-      "updatedAt": "2026-08-19T10:00:34.390Z"
+      "updatedAt": "2026-08-19T10:00:49.324Z"
     }
   ],
   "carerixLinks": [
@@ -1981,6 +1981,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-19T09:53:42.791Z"
+    },
+    {
+      "id": "a1014246-c7db-4140-9058-811c99cf94ed",
+      "findingId": "1b71e49b-5f89-4fee-aeda-7f6dfaebf3a8",
+      "companyId": "95371",
+      "contactId": "377016",
+      "vacancyId": "248959",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-19T10:00:49.324Z"
     }
   ],
   "exports": [
