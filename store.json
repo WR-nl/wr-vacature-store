@@ -14,7 +14,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "",
-      "status": "active",
+      "status": "completed",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -54,7 +54,7 @@
         "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-19T09:33:45.981Z",
-      "updatedAt": "2026-08-19T09:33:45.981Z"
+      "updatedAt": "2026-08-19T09:34:08.458Z"
     },
     {
       "id": "cb3155c6-9b4e-48b5-9012-ca2b01a1f43c",
@@ -1586,9 +1586,9 @@
       "roleSummary": "Servicemonteur WTB utiliteit Den Bosch.",
       "scoreNotes": "Eigen site; service monteur; NL.",
       "meetsCriteria": true,
-      "status": "synced",
+      "status": "mail_ready",
       "createdAt": "2026-08-19T09:33:49.772Z",
-      "updatedAt": "2026-08-19T09:34:08.246Z"
+      "updatedAt": "2026-08-19T09:34:09.367Z"
     }
   ],
   "carerixLinks": [
@@ -1745,6 +1745,14 @@
       "format": "markdown",
       "content": "# Vacature-export — Software Engineer\n\n## Opdracht\n- Titel: Software Engineer\n- Regio: Nederland (Nederland)\n- Sector: Software\n- Functies: Software Engineer\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Software Engineer\n- Bedrijf: Urban Mobility Systems\n- Bron-URL: https://careers.urbanmobilitysystems.nl/vacatures/software-engineer/\n- Host: urbanmobilitysystems.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Oss, Netherlands\n- Websitetaal: Engels\n- Omvang: SME mid-size EV/powertrain engineering company Oss\n- Samenvatting: Design, develop and maintain software for electric powertrain and battery systems; CAN, C/C++, Matlab.\n- Criteria-check: voldoet\n- Score-notities: Own careers site; Software Engineer; NL; English required; SME.\n\n## Carerix\n- Opdrachtgever ID: 104159\n- Contactpersoon ID: 377011\n- Vacature ID: 248917\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Software Engineer\"\n  ],\n  \"sector\": \"Software\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T09:22:54.682Z_",
       "createdAt": "2026-08-19T09:22:54.682Z"
+    },
+    {
+      "id": "dd01a6f1-06cb-424d-a510-94381f9a1ee7",
+      "findingId": "8ce2aa68-13f2-4df2-9fbe-bde5d9700388",
+      "assignmentId": "de12d6fd-18b9-4974-b203-527690f956a4",
+      "format": "markdown",
+      "content": "# Vacature-export — Servicemonteur Werktuigbouwkunde\n\n## Opdracht\n- Titel: servicemonteur\n- Regio: nederland (Nederland)\n- Sector: servicemonteur\n- Functies: servicemonteur\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Servicemonteur Werktuigbouwkunde\n- Bedrijf: Kuijpers\n- Bron-URL: https://www.kuijpers.nl/vacatures/servicemonteur-1113367/\n- Host: www.kuijpers.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Den Bosch e.o.\n- Websitetaal: Nederlands\n- Omvang: Middelgroot installatiebedrijf\n- Samenvatting: Servicemonteur WTB utiliteit Den Bosch.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; service monteur; NL.\n\n## Carerix\n- Opdrachtgever ID: 7030\n- Contactpersoon ID: 377012\n- Vacature ID: 110767\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"servicemonteur\"\n  ],\n  \"sector\": \"servicemonteur\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T09:34:09.367Z_",
+      "createdAt": "2026-08-19T09:34:09.367Z"
     }
   ],
   "agentStatus": {
