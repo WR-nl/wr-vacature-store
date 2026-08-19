@@ -1480,12 +1480,12 @@
     "enabled": true,
     "busy": true,
     "message": "Zoeken gestart: Servicemonteur Elektricitietsinstallatie",
-    "updatedAt": "2026-08-19T09:02:13.116Z",
+    "updatedAt": "2026-08-19T09:02:14.228Z",
     "stage": "searching",
     "targetCount": 1,
     "etaSeconds": 160,
     "startedAt": "2026-08-19T09:02:13.116Z",
-    "workerHeartbeatAt": "2026-08-19T08:59:25.439Z",
+    "workerHeartbeatAt": "2026-08-19T09:02:14.119Z",
     "assignmentId": "e2951a4e-f055-414f-ac42-44548510b6fa",
     "currentIndex": 1
   }
