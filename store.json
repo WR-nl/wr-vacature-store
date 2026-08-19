@@ -14,7 +14,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "Voer de module-logica uit. Vindt een nieuwe vacature. Voer deze vacature vervolgens zelfstandig in in Carerix. Het invullen in carerix is cruciaal.",
-      "status": "active",
+      "status": "completed",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -54,7 +54,7 @@
         "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-19T09:42:02.853Z",
-      "updatedAt": "2026-08-19T09:42:02.853Z"
+      "updatedAt": "2026-08-19T09:42:25.516Z"
     },
     {
       "id": "de12d6fd-18b9-4974-b203-527690f956a4",
@@ -1660,9 +1660,9 @@
       "roleSummary": "Koeltechnisch servicemonteur retail/horeca/zorg.",
       "scoreNotes": "Eigen site; service monteur; SME; NL.",
       "meetsCriteria": true,
-      "status": "synced",
+      "status": "mail_ready",
       "createdAt": "2026-08-19T09:42:06.821Z",
-      "updatedAt": "2026-08-19T09:42:24.783Z"
+      "updatedAt": "2026-08-19T09:42:25.817Z"
     }
   ],
   "carerixLinks": [
@@ -1838,6 +1838,14 @@
       "format": "markdown",
       "content": "# Vacature-export — Servicemonteur Werktuigbouwkunde\n\n## Opdracht\n- Titel: servicemonteur\n- Regio: nederland (Nederland)\n- Sector: servicemonteur\n- Functies: servicemonteur\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Servicemonteur Werktuigbouwkunde\n- Bedrijf: Kuijpers\n- Bron-URL: https://www.kuijpers.nl/vacatures/servicemonteur-1113367/\n- Host: www.kuijpers.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Den Bosch e.o.\n- Websitetaal: Nederlands\n- Omvang: Middelgroot installatiebedrijf\n- Samenvatting: Servicemonteur WTB utiliteit Den Bosch.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; service monteur; NL.\n\n## Carerix\n- Opdrachtgever ID: 7030\n- Contactpersoon ID: 377012\n- Vacature ID: 110767\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"servicemonteur\"\n  ],\n  \"sector\": \"servicemonteur\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T09:34:09.367Z_",
       "createdAt": "2026-08-19T09:34:09.367Z"
+    },
+    {
+      "id": "32da1725-6b0a-4d7d-9ca3-0db4a3307488",
+      "findingId": "7f68ca8d-31d5-4794-bed2-89408bfebbf0",
+      "assignmentId": "76914c12-9c42-4cef-9f15-ffe30cf0c2bf",
+      "format": "markdown",
+      "content": "# Vacature-export — Servicemonteur koeltechniek\n\n## Opdracht\n- Titel: Servicemonteur Koelsysteem\n- Regio: Nederland (Nederland)\n- Sector: servicemonteur Koelsysteem\n- Functies: Servicemonteur Koelsysteem\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: Voer de module-logica uit. Vindt een nieuwe vacature. Voer deze vacature vervolgens zelfstandig in in Carerix. Het invullen in carerix is cruciaal.\n\n## Gevonden vacature\n- Functie: Servicemonteur koeltechniek\n- Bedrijf: Veenhuizen Solutions\n- Bron-URL: https://veenhuizen.nl/vacatures/koeltechnisch-monteur-service-en-onderhoud/\n- Host: veenhuizen.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Nijkerk\n- Websitetaal: Nederlands\n- Omvang: Familiebedrijf koeltechniek; SME\n- Samenvatting: Koeltechnisch servicemonteur retail/horeca/zorg.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; service monteur; SME; NL.\n\n## Carerix\n- Opdrachtgever ID: 21246\n- Contactpersoon ID: 377014\n- Vacature ID: 248957\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Servicemonteur Koelsysteem\"\n  ],\n  \"sector\": \"servicemonteur Koelsysteem\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Voer de module-logica uit. Vindt een nieuwe vacature. Voer deze vacature vervolgens zelfstandig in in Carerix. Het invullen in carerix is cruciaal.\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T09:42:25.817Z_",
+      "createdAt": "2026-08-19T09:42:25.817Z"
     }
   ],
   "agentStatus": {
