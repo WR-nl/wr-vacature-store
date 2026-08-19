@@ -2096,9 +2096,9 @@
     "enabled": true,
     "busy": false,
     "message": "Klaar — Data-analyst 1/1 (Vac 248959)",
-    "updatedAt": "2026-08-19T10:00:52.516Z",
+    "updatedAt": "2026-08-19T10:01:29.206Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T10:00:52.372Z"
+    "workerHeartbeatAt": "2026-08-19T10:01:29.101Z"
   }
 }
