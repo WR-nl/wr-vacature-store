@@ -2247,9 +2247,9 @@
     "enabled": true,
     "busy": false,
     "message": "Opdracht gestopt — geen passende kandidaten gevonden in huidige zoekbronnen",
-    "updatedAt": "2026-08-19T10:11:30.654Z",
+    "updatedAt": "2026-08-19T10:12:30.782Z",
     "stage": "blocked",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T10:11:30.537Z"
+    "workerHeartbeatAt": "2026-08-19T10:12:30.622Z"
   }
 }
