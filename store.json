@@ -1517,12 +1517,12 @@
     "enabled": true,
     "busy": true,
     "message": "Sync/export: Servicemonteur HVAC en klimaattechniek",
-    "updatedAt": "2026-08-19T09:11:52.782Z",
+    "updatedAt": "2026-08-19T09:13:04.273Z",
     "stage": "syncing",
     "targetCount": 1,
     "etaSeconds": 15,
     "startedAt": "2026-08-19T09:02:13.116Z",
-    "workerHeartbeatAt": "2026-08-19T09:11:51.549Z",
+    "workerHeartbeatAt": "2026-08-19T09:13:04.161Z",
     "assignmentId": "e2951a4e-f055-414f-ac42-44548510b6fa",
     "currentIndex": 1
   }
