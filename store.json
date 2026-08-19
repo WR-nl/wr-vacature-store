@@ -2714,8 +2714,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken: Houtbewerker",
-    "updatedAt": "2026-08-19T11:39:43.238Z",
+    "message": "Internet zoeken (ronde 1): Houtbewerker",
+    "updatedAt": "2026-08-19T11:39:44.189Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-19T11:39:43.070Z",
