@@ -2372,9 +2372,9 @@
       "roleSummary": "Ontdek actuele techniek vacatures in Friesland, Groningen en Drenthe. Van monteur tot engineer en van timmerman tot projectleider: BanenrijkNoord helpt jou ...",
       "scoreNotes": "Internet SERP: Techniek vacatures in Friesland, Groningen en Drenthe",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-19T11:36:56.809Z",
-      "updatedAt": "2026-08-19T11:37:00.992Z"
+      "updatedAt": "2026-08-19T11:37:16.120Z"
     }
   ],
   "carerixLinks": [
@@ -2520,6 +2520,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-19T11:33:20.933Z"
+    },
+    {
+      "id": "ca3ea15c-588d-47b2-90a6-6c7d2bd555a5",
+      "findingId": "c454f921-852c-46a1-b28b-8e28f9d3eec8",
+      "companyId": "104558",
+      "contactId": "377027",
+      "vacancyId": "248962",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-19T11:37:16.120Z"
     }
   ],
   "exports": [
