@@ -1666,9 +1666,9 @@
     "enabled": true,
     "busy": false,
     "message": "Klaar voor nieuwe opdracht",
-    "updatedAt": "2026-08-19T09:32:37.140Z",
+    "updatedAt": "2026-08-19T09:33:28.612Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T09:32:28.502Z"
+    "workerHeartbeatAt": "2026-08-19T09:33:28.480Z"
   }
 }
