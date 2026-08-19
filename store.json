@@ -14,7 +14,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "Individuele vacature op eigen website bedrijf. ",
-      "status": "active",
+      "status": "completed",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -54,7 +54,7 @@
         "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-19T11:39:40.249Z",
-      "updatedAt": "2026-08-19T11:39:40.249Z"
+      "updatedAt": "2026-08-19T11:40:13.477Z"
     },
     {
       "id": "cbeb0db3-fc34-4344-8b86-aaf9530d1305",
@@ -2445,9 +2445,9 @@
       "roleSummary": "Vakman van de 21 eeuw. Bij Arco ben jij als allround houtbewerker van unieke duurzame houten tafels een belangrijke schakel voor een perfect eindresultaat.",
       "scoreNotes": "Internet SERP: Vacature Houtbewerker Opwerkerij | Werken bij Arco",
       "meetsCriteria": true,
-      "status": "synced",
+      "status": "mail_ready",
       "createdAt": "2026-08-19T11:39:51.508Z",
-      "updatedAt": "2026-08-19T11:40:11.253Z"
+      "updatedAt": "2026-08-19T11:40:13.150Z"
     }
   ],
   "carerixLinks": [
@@ -2737,6 +2737,14 @@
       "format": "markdown",
       "content": "# Vacature-export — Techniek vacatures in Friesland, Groningen en Drenthe\n\n## Opdracht\n- Titel: Onderhoudsmonteur\n- Regio: Nederland (Nederland)\n- Sector: Techniek\n- Functies: Techniek, Onderhoudsmonteur\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Techniek vacatures in Friesland, Groningen en Drenthe\n- Bedrijf: Banenrijknoord\n- Bron-URL: https://www.banenrijknoord.nl/vacatures/techniek\n- Host: banenrijknoord.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Nederland\n- Websitetaal: Nederlands\n- Omvang: Via internet gevonden — SME/mid-size te valideren\n- Samenvatting: Ontdek actuele techniek vacatures in Friesland, Groningen en Drenthe. Van monteur tot engineer en van timmerman tot projectleider: BanenrijkNoord helpt jou ...\n- Criteria-check: voldoet\n- Score-notities: Internet SERP: Techniek vacatures in Friesland, Groningen en Drenthe\n\n## Carerix\n- Opdrachtgever ID: 104558\n- Contactpersoon ID: 377027\n- Vacature ID: 248962\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Techniek\",\n    \"Onderhoudsmonteur\"\n  ],\n  \"sector\": \"Techniek\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T11:37:17.291Z_",
       "createdAt": "2026-08-19T11:37:17.291Z"
+    },
+    {
+      "id": "e9a9aee0-fa15-4da0-97ad-940a3b719460",
+      "findingId": "972953cf-7453-4c8d-b02e-f30c70a3df6d",
+      "assignmentId": "e1b6e1ac-236a-4381-a3d5-ad014aea6ca2",
+      "format": "markdown",
+      "content": "# Vacature-export — Vacature  Houtbewerker Opwerkerij | Werken bij Arco | Winterswijk\n\n## Opdracht\n- Titel: Houtbewerker\n- Regio: Nederland (Nederland)\n- Sector: Houtbewerking\n- Functies: Houtbewerker\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: Individuele vacature op eigen website bedrijf. \n\n## Gevonden vacature\n- Functie: Vacature  Houtbewerker Opwerkerij | Werken bij Arco | Winterswijk\n- Bedrijf: Arco\n- Bron-URL: https://www.arco.nl/over-arco/werken-bij/houtbewerker-opwerkerij/\n- Host: arco.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Nederland\n- Websitetaal: Nederlands\n- Omvang: Via internet gevonden — SME/mid-size te valideren\n- Samenvatting: Vakman van de 21 eeuw. Bij Arco ben jij als allround houtbewerker van unieke duurzame houten tafels een belangrijke schakel voor een perfect eindresultaat.\n- Criteria-check: voldoet\n- Score-notities: Internet SERP: Vacature Houtbewerker Opwerkerij | Werken bij Arco\n\n## Carerix\n- Opdrachtgever ID: 2156\n- Contactpersoon ID: 377028\n- Vacature ID: 248963\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Houtbewerker\"\n  ],\n  \"sector\": \"Houtbewerking\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Individuele vacature op eigen website bedrijf. \",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T11:40:13.150Z_",
+      "createdAt": "2026-08-19T11:40:13.150Z"
     }
   ],
   "agentStatus": {
