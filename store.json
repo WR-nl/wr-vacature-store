@@ -2189,15 +2189,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Sync/export: Data Analyst/Data Scientist - Strategic Supply Chains",
-    "updatedAt": "2026-08-19T10:02:03.374Z",
-    "stage": "syncing",
-    "etaSeconds": 15,
-    "workerHeartbeatAt": "2026-08-19T10:02:03.262Z",
-    "assignmentId": "4d84c60e-3fb7-459b-9c33-9ba9e72e564e",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-19T10:01:40.857Z"
+    "busy": false,
+    "message": "Klaar — Data-analyst 1/1 (Vac 248960)",
+    "updatedAt": "2026-08-19T10:02:07.560Z",
+    "stage": "done",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-19T10:02:07.435Z"
   }
 }
