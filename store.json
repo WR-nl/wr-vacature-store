@@ -1456,9 +1456,9 @@
       "roleSummary": "Design, develop and maintain software for electric powertrain and battery systems; CAN, C/C++, Matlab.",
       "scoreNotes": "Own careers site; Software Engineer; NL; English required; SME.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-19T09:22:38.257Z",
-      "updatedAt": "2026-08-19T09:22:41.374Z"
+      "updatedAt": "2026-08-19T09:22:53.742Z"
     }
   ],
   "carerixLinks": [
@@ -1527,6 +1527,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-19T09:02:31.886Z"
+    },
+    {
+      "id": "cff27448-2db1-48f8-a461-732ac999b578",
+      "findingId": "5f8c7ef0-cf9c-464a-a13d-2f0d1b94f57b",
+      "companyId": "104159",
+      "contactId": "377011",
+      "vacancyId": "248917",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-19T09:22:53.742Z"
     }
   ],
   "exports": [
