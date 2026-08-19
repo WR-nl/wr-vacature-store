@@ -2659,9 +2659,9 @@
     "enabled": true,
     "busy": false,
     "message": "Klaar — Onderhoudsmonteur 1/1",
-    "updatedAt": "2026-08-19T11:37:19.624Z",
+    "updatedAt": "2026-08-19T11:37:20.736Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T11:37:14.317Z"
+    "workerHeartbeatAt": "2026-08-19T11:37:20.623Z"
   }
 }
