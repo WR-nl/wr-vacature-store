@@ -1852,9 +1852,9 @@
     "enabled": true,
     "busy": false,
     "message": "Klaar — geen open werk",
-    "updatedAt": "2026-08-19T09:46:00.598Z",
+    "updatedAt": "2026-08-19T09:46:40.574Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T09:46:00.445Z"
+    "workerHeartbeatAt": "2026-08-19T09:46:40.460Z"
   }
 }
