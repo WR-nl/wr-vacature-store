@@ -1516,10 +1516,12 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar — geen open werk",
-    "updatedAt": "2026-08-19T09:14:22.193Z",
+    "message": "Klaar voor nieuwe opdracht",
+    "updatedAt": "2026-08-19T09:14:24.778Z",
     "stage": "done",
+    "targetCount": 1,
     "etaSeconds": 0,
+    "startedAt": "2026-08-19T09:02:13.116Z",
     "workerHeartbeatAt": "2026-08-19T09:14:16.410Z"
   }
 }
