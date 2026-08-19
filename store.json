@@ -1851,6 +1851,24 @@
       "status": "mail_ready",
       "createdAt": "2026-08-19T09:53:25.211Z",
       "updatedAt": "2026-08-19T09:53:44.045Z"
+    },
+    {
+      "id": "1b71e49b-5f89-4fee-aeda-7f6dfaebf3a8",
+      "assignmentId": "4a14399e-b3eb-4f63-b921-42c51cebe008",
+      "jobTitle": "Data Analyst",
+      "companyName": "Tiofarma",
+      "sourceUrl": "https://careers.tiofarma.nl/vacatures/data-analyst-1319369/",
+      "uriHost": "tiofarma.nl",
+      "locationText": "Oud-Beijerland",
+      "websiteLanguage": "Nederlands",
+      "estimatedEmployees": 450,
+      "companySizeNote": "Groeiende familieonderneming farmaceutische productie / mid-size",
+      "roleSummary": "Data Analyst binnen Operations Office met nauwe samenwerking met Purchasing, Customer Service en Supply Chain Planning.",
+      "scoreNotes": "Eigen careers site; data analyst; supply chain planning; NL.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-08-19T10:00:31.411Z",
+      "updatedAt": "2026-08-19T10:00:31.411Z"
     }
   ],
   "carerixLinks": [
