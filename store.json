@@ -1645,6 +1645,24 @@
       "status": "synced",
       "createdAt": "2026-08-19T09:33:49.772Z",
       "updatedAt": "2026-08-19T09:38:38.894Z"
+    },
+    {
+      "id": "7f68ca8d-31d5-4794-bed2-89408bfebbf0",
+      "assignmentId": "76914c12-9c42-4cef-9f15-ffe30cf0c2bf",
+      "jobTitle": "Servicemonteur koeltechniek",
+      "companyName": "Veenhuizen Solutions",
+      "sourceUrl": "https://veenhuizen.nl/vacatures/koeltechnisch-monteur-service-en-onderhoud/",
+      "uriHost": "veenhuizen.nl",
+      "locationText": "Nijkerk",
+      "websiteLanguage": "Nederlands",
+      "estimatedEmployees": 100,
+      "companySizeNote": "Familiebedrijf koeltechniek; SME",
+      "roleSummary": "Koeltechnisch servicemonteur retail/horeca/zorg.",
+      "scoreNotes": "Eigen site; service monteur; SME; NL.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-08-19T09:42:06.821Z",
+      "updatedAt": "2026-08-19T09:42:06.821Z"
     }
   ],
   "carerixLinks": [
