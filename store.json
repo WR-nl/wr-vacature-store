@@ -1517,9 +1517,9 @@
     "enabled": true,
     "busy": false,
     "message": "Klaar — geen open werk",
-    "updatedAt": "2026-08-19T09:16:36.659Z",
+    "updatedAt": "2026-08-19T09:17:36.580Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T09:16:36.519Z"
+    "workerHeartbeatAt": "2026-08-19T09:17:36.464Z"
   }
 }
