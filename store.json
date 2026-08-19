@@ -1757,15 +1757,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Sync/export: Servicemonteur Werktuigbouwkunde",
-    "updatedAt": "2026-08-19T09:34:07.079Z",
-    "stage": "syncing",
-    "etaSeconds": 15,
-    "workerHeartbeatAt": "2026-08-19T09:34:06.955Z",
-    "assignmentId": "de12d6fd-18b9-4974-b203-527690f956a4",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-19T09:33:45.981Z"
+    "busy": false,
+    "message": "Klaar — servicemonteur 1/1 (Vac 110767)",
+    "updatedAt": "2026-08-19T09:34:11.676Z",
+    "stage": "done",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-19T09:34:11.525Z"
   }
 }
