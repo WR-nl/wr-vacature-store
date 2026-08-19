@@ -2715,7 +2715,7 @@
     "enabled": true,
     "busy": true,
     "message": "Internet zoeken (ronde 1): Houtbewerker",
-    "updatedAt": "2026-08-19T11:39:44.189Z",
+    "updatedAt": "2026-08-19T11:39:50.433Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-19T11:39:43.070Z",
