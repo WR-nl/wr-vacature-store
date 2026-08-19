@@ -1759,9 +1759,9 @@
     "enabled": true,
     "busy": false,
     "message": "Klaar — servicemonteur 1/1 (Vac 110767)",
-    "updatedAt": "2026-08-19T09:37:28.546Z",
+    "updatedAt": "2026-08-19T09:38:28.423Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T09:37:28.410Z"
+    "workerHeartbeatAt": "2026-08-19T09:38:28.297Z"
   }
 }
