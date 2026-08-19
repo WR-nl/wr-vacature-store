@@ -2564,10 +2564,10 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar — geen open werk",
-    "updatedAt": "2026-08-19T11:33:23.302Z",
+    "message": "Klaar — Data-analyst 1/1 (Vac 248961)",
+    "updatedAt": "2026-08-19T11:33:25.585Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T11:33:19.711Z"
+    "workerHeartbeatAt": "2026-08-19T11:33:25.462Z"
   }
 }
