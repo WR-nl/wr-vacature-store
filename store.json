@@ -2304,9 +2304,9 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar — geen open werk",
-    "updatedAt": "2026-08-19T10:51:24.501Z",
-    "stage": "done",
+    "message": "Opdracht gestopt — geen passende kandidaten gevonden in huidige zoekbronnen",
+    "updatedAt": "2026-08-19T10:51:24.674Z",
+    "stage": "blocked",
     "etaSeconds": 0,
     "workerHeartbeatAt": "2026-08-19T10:51:21.887Z"
   }
