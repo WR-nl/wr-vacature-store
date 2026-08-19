@@ -2297,9 +2297,9 @@
       "roleSummary": "Als Logistiek Data Analist werk je in het hart van onze supply chain. Je analyseert prestaties, signaleert knelpunten en vertaalt inzichten naar concrete ...",
       "scoreNotes": "Internet SERP: Logistics Data Analyst",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-19T11:33:02.532Z",
-      "updatedAt": "2026-08-19T11:33:06.192Z"
+      "updatedAt": "2026-08-19T11:33:20.933Z"
     }
   ],
   "carerixLinks": [
@@ -2434,6 +2434,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-19T10:02:04.541Z"
+    },
+    {
+      "id": "953f60f5-ba63-4c0b-8734-700e629c7adf",
+      "findingId": "b41a340c-e013-4bcc-a8b7-64afe89a78c7",
+      "companyId": "29279",
+      "contactId": "377026",
+      "vacancyId": "248961",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-19T11:33:20.933Z"
     }
   ],
   "exports": [
