@@ -2751,9 +2751,9 @@
     "enabled": true,
     "busy": false,
     "message": "Klaar — geen open werk",
-    "updatedAt": "2026-08-19T12:04:51.481Z",
+    "updatedAt": "2026-08-19T12:05:50.441Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T12:04:51.367Z"
+    "workerHeartbeatAt": "2026-08-19T12:05:50.260Z"
   }
 }
