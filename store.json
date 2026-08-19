@@ -1660,9 +1660,9 @@
       "roleSummary": "Koeltechnisch servicemonteur retail/horeca/zorg.",
       "scoreNotes": "Eigen site; service monteur; SME; NL.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-19T09:42:06.821Z",
-      "updatedAt": "2026-08-19T09:42:10.512Z"
+      "updatedAt": "2026-08-19T09:42:24.783Z"
     }
   ],
   "carerixLinks": [
@@ -1753,6 +1753,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-19T09:34:08.245Z"
+    },
+    {
+      "id": "386045ac-6d1f-41a4-a984-7160a219252b",
+      "findingId": "7f68ca8d-31d5-4794-bed2-89408bfebbf0",
+      "companyId": "21246",
+      "contactId": "377014",
+      "vacancyId": "248957",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-19T09:42:24.783Z"
     }
   ],
   "exports": [
