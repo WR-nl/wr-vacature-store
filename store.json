@@ -15,7 +15,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "",
-      "status": "active",
+      "status": "completed",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -56,7 +56,7 @@
         "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-19T09:53:22.660Z",
-      "updatedAt": "2026-08-19T09:53:22.660Z"
+      "updatedAt": "2026-08-19T09:53:43.050Z"
     },
     {
       "id": "76914c12-9c42-4cef-9f15-ffe30cf0c2bf",
@@ -1736,9 +1736,9 @@
       "roleSummary": "Servicemonteur elektrotechniek voor service, onderhoud en kleine uitbreidingen aan elektrische installaties bij bedrijven en particulieren.",
       "scoreNotes": "Eigen site; servicemonteur elektrotechniek; familiebedrijf; NL; SME.",
       "meetsCriteria": true,
-      "status": "synced",
+      "status": "mail_ready",
       "createdAt": "2026-08-19T09:53:25.211Z",
-      "updatedAt": "2026-08-19T09:53:42.791Z"
+      "updatedAt": "2026-08-19T09:53:44.045Z"
     }
   ],
   "carerixLinks": [
@@ -1933,6 +1933,14 @@
       "format": "markdown",
       "content": "# Vacature-export — Servicemonteur koeltechniek\n\n## Opdracht\n- Titel: Servicemonteur Koelsysteem\n- Regio: Nederland (Nederland)\n- Sector: servicemonteur Koelsysteem\n- Functies: Servicemonteur Koelsysteem\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: Voer de module-logica uit. Vindt een nieuwe vacature. Voer deze vacature vervolgens zelfstandig in in Carerix. Het invullen in carerix is cruciaal.\n\n## Gevonden vacature\n- Functie: Servicemonteur koeltechniek\n- Bedrijf: Veenhuizen Solutions\n- Bron-URL: https://veenhuizen.nl/vacatures/koeltechnisch-monteur-service-en-onderhoud/\n- Host: veenhuizen.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Nijkerk\n- Websitetaal: Nederlands\n- Omvang: Familiebedrijf koeltechniek; SME\n- Samenvatting: Koeltechnisch servicemonteur retail/horeca/zorg.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; service monteur; SME; NL.\n\n## Carerix\n- Opdrachtgever ID: 21246\n- Contactpersoon ID: 377014\n- Vacature ID: 248957\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Servicemonteur Koelsysteem\"\n  ],\n  \"sector\": \"servicemonteur Koelsysteem\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Voer de module-logica uit. Vindt een nieuwe vacature. Voer deze vacature vervolgens zelfstandig in in Carerix. Het invullen in carerix is cruciaal.\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T09:42:25.817Z_",
       "createdAt": "2026-08-19T09:42:25.817Z"
+    },
+    {
+      "id": "4173bb30-827e-4227-bdca-ac4eabcc339e",
+      "findingId": "68322312-e62b-4808-9e1f-ab979c1933b4",
+      "assignmentId": "8e6c35a8-ae52-4767-981e-313692f9ccca",
+      "format": "markdown",
+      "content": "# Vacature-export — Servicemonteur Elektrotechniek\n\n## Opdracht\n- Titel: servicemontuer IT Elektriciteit\n- Regio: Nederland (Nederland)\n- Sector: Servicemonteur\n- Functies: Servicemonteur IT, Elektriciteit\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Servicemonteur Elektrotechniek\n- Bedrijf: De Wit Elektrotechniek\n- Bron-URL: https://dewitelektro.nl/vacature/servicemonteur-elektrotechniek-drunen/\n- Host: dewitelektro.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Drunen / regio Noord-Brabant\n- Websitetaal: Nederlands\n- Omvang: Regionaal elektrotechnisch familiebedrijf / SME\n- Samenvatting: Servicemonteur elektrotechniek voor service, onderhoud en kleine uitbreidingen aan elektrische installaties bij bedrijven en particulieren.\n- Criteria-check: voldoet\n- Score-notities: Eigen site; servicemonteur elektrotechniek; familiebedrijf; NL; SME.\n\n## Carerix\n- Opdrachtgever ID: 89137\n- Contactpersoon ID: 377015\n- Vacature ID: 248958\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Servicemonteur IT\",\n    \"Elektriciteit\"\n  ],\n  \"sector\": \"Servicemonteur\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-19T09:53:44.045Z_",
+      "createdAt": "2026-08-19T09:53:44.045Z"
     }
   ],
   "agentStatus": {
