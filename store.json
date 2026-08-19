@@ -2623,7 +2623,7 @@
     "enabled": true,
     "busy": true,
     "message": "Internet zoeken (ronde 1): Onderhoudsmonteur",
-    "updatedAt": "2026-08-19T11:36:47.048Z",
+    "updatedAt": "2026-08-19T11:36:55.642Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-19T11:36:45.654Z",
