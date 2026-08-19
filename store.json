@@ -2415,15 +2415,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Zoeken: Installatiemonteur",
-    "updatedAt": "2026-08-19T11:09:31.910Z",
-    "stage": "searching",
-    "etaSeconds": 160,
-    "workerHeartbeatAt": "2026-08-19T11:09:31.781Z",
-    "assignmentId": "55f366cc-7658-4954-8daf-5eda79b8214c",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-19T11:09:29.339Z"
+    "busy": false,
+    "message": "Opdracht gestopt — geen passende kandidaten gevonden in huidige zoekbronnen",
+    "updatedAt": "2026-08-19T11:09:33.775Z",
+    "stage": "blocked",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-19T11:09:31.781Z"
   }
 }
