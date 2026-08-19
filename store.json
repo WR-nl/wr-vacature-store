@@ -2003,9 +2003,9 @@
     "enabled": true,
     "busy": false,
     "message": "Opdracht gestopt — geen passende nieuwe kandidaten gevonden",
-    "updatedAt": "2026-08-19T09:56:49.848Z",
+    "updatedAt": "2026-08-19T09:56:50.356Z",
     "stage": "blocked",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T09:56:47.442Z"
+    "workerHeartbeatAt": "2026-08-19T09:56:50.235Z"
   }
 }
