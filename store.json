@@ -1608,15 +1608,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Sync/export: Software Engineer",
-    "updatedAt": "2026-08-19T09:22:52.177Z",
-    "stage": "syncing",
-    "etaSeconds": 15,
-    "workerHeartbeatAt": "2026-08-19T09:22:52.037Z",
-    "assignmentId": "f6b530ed-c7c3-4a87-adfd-0e0bd5278b4c",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-19T09:22:34.555Z"
+    "busy": false,
+    "message": "Klaar — Software Engineer 1/1 (Vac 248917)",
+    "updatedAt": "2026-08-19T09:22:56.727Z",
+    "stage": "done",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-19T09:22:56.614Z"
   }
 }
