@@ -2563,15 +2563,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Sync/export: Logistics Data Analyst - Werken bij Unipharma – Logistieke functies Zeeland",
-    "updatedAt": "2026-08-19T11:33:19.817Z",
-    "stage": "syncing",
-    "etaSeconds": 15,
-    "workerHeartbeatAt": "2026-08-19T11:33:19.711Z",
-    "assignmentId": "659cc210-72ab-4463-9992-b6a04f0ac8c3",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-19T11:32:51.704Z"
+    "busy": false,
+    "message": "Klaar — geen open werk",
+    "updatedAt": "2026-08-19T11:33:23.302Z",
+    "stage": "done",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-19T11:33:19.711Z"
   }
 }
