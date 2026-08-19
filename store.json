@@ -1927,6 +1927,24 @@
       "status": "mail_ready",
       "createdAt": "2026-08-19T10:00:31.411Z",
       "updatedAt": "2026-08-19T10:00:50.418Z"
+    },
+    {
+      "id": "31ad465f-c56b-41d4-af4c-339d977b3646",
+      "assignmentId": "4d84c60e-3fb7-459b-9c33-9ba9e72e564e",
+      "jobTitle": "Data Analyst/Data Scientist - Strategic Supply Chains",
+      "companyName": "TNO",
+      "sourceUrl": "https://www.tno.nl/en/careers/vacancies/2026/07/data-analyst-data-scientist-strategic/",
+      "uriHost": "tno.nl",
+      "locationText": "Den Haag",
+      "websiteLanguage": "Engels",
+      "estimatedEmployees": 7000,
+      "companySizeNote": "Grote onderzoeksorganisatie; supply chain focus",
+      "roleSummary": "Data analyst/data scientist gericht op strategic supply chains, productie-, import- en exportanalyses.",
+      "scoreNotes": "Eigen careers site; data analyst; strategic supply chains; NL.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-08-19T10:01:45.014Z",
+      "updatedAt": "2026-08-19T10:01:45.014Z"
     }
   ],
   "carerixLinks": [
