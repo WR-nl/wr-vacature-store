@@ -1736,9 +1736,9 @@
       "roleSummary": "Servicemonteur elektrotechniek voor service, onderhoud en kleine uitbreidingen aan elektrische installaties bij bedrijven en particulieren.",
       "scoreNotes": "Eigen site; servicemonteur elektrotechniek; familiebedrijf; NL; SME.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-19T09:53:25.211Z",
-      "updatedAt": "2026-08-19T09:53:29.582Z"
+      "updatedAt": "2026-08-19T09:53:42.791Z"
     }
   ],
   "carerixLinks": [
@@ -1840,6 +1840,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-19T09:42:24.783Z"
+    },
+    {
+      "id": "7cf9693e-18bb-4845-b36f-a90e1db48e9e",
+      "findingId": "68322312-e62b-4808-9e1f-ab979c1933b4",
+      "companyId": "89137",
+      "contactId": "377015",
+      "vacancyId": "248958",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-19T09:53:42.791Z"
     }
   ],
   "exports": [
