@@ -1571,6 +1571,24 @@
       "status": "mail_ready",
       "createdAt": "2026-08-19T09:22:38.257Z",
       "updatedAt": "2026-08-19T09:22:54.682Z"
+    },
+    {
+      "id": "8ce2aa68-13f2-4df2-9fbe-bde5d9700388",
+      "assignmentId": "de12d6fd-18b9-4974-b203-527690f956a4",
+      "jobTitle": "Servicemonteur Werktuigbouwkunde",
+      "companyName": "Kuijpers",
+      "sourceUrl": "https://www.kuijpers.nl/vacatures/servicemonteur-1113367/",
+      "uriHost": "www.kuijpers.nl",
+      "locationText": "Den Bosch e.o.",
+      "websiteLanguage": "Nederlands",
+      "estimatedEmployees": 2000,
+      "companySizeNote": "Middelgroot installatiebedrijf",
+      "roleSummary": "Servicemonteur WTB utiliteit Den Bosch.",
+      "scoreNotes": "Eigen site; service monteur; NL.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-08-19T09:33:49.772Z",
+      "updatedAt": "2026-08-19T09:33:49.772Z"
     }
   ],
   "carerixLinks": [
