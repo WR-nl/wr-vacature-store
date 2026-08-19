@@ -2359,15 +2359,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Zoeken: Installatiemonteur test",
-    "updatedAt": "2026-08-19T11:02:29.487Z",
-    "stage": "searching",
-    "etaSeconds": 160,
-    "workerHeartbeatAt": "2026-08-19T11:02:29.378Z",
-    "assignmentId": "ea165d80-d982-4012-8ccb-1f3ce4a5adc9",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-19T11:02:26.785Z"
+    "busy": false,
+    "message": "Opdracht gestopt — geen passende kandidaten gevonden in huidige zoekbronnen",
+    "updatedAt": "2026-08-19T11:02:32.363Z",
+    "stage": "blocked",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-19T11:02:29.378Z"
   }
 }
