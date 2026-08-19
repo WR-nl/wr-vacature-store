@@ -1674,11 +1674,11 @@
       "findingId": "8ce2aa68-13f2-4df2-9fbe-bde5d9700388",
       "companyId": "7030",
       "contactId": "377012",
-      "vacancyId": "248956",
+      "vacancyId": "110767",
       "groupCompany8885": true,
       "groupContact8886": true,
       "groupVacancy8887": true,
-      "syncedAt": "2026-08-19T09:38:38.894Z"
+      "syncedAt": "2026-08-19T09:34:08.245Z"
     }
   ],
   "exports": [
@@ -1759,9 +1759,9 @@
     "enabled": true,
     "busy": false,
     "message": "Klaar — servicemonteur 1/1 (Vac 248956)",
-    "updatedAt": "2026-08-19T09:38:42.125Z",
+    "updatedAt": "2026-08-19T09:39:14.958Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T09:38:28.297Z"
+    "workerHeartbeatAt": "2026-08-19T09:39:14.850Z"
   }
 }
