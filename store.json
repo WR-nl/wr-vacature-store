@@ -1367,6 +1367,24 @@
       "status": "rejected",
       "createdAt": "2026-08-18T17:20:51.242Z",
       "updatedAt": "2026-08-18T17:24:06.000Z"
+    },
+    {
+      "id": "dbe3ed17-1b07-4c9e-9819-66d012660a6e",
+      "assignmentId": "e2951a4e-f055-414f-ac42-44548510b6fa",
+      "jobTitle": "Servicemonteur HVAC en klimaattechniek",
+      "companyName": "Hamer (FOJA Groep)",
+      "sourceUrl": "https://werkenbijfoja.nl/vacatures/servicemonteur-hvac-en-klimaattechniek/",
+      "uriHost": "werkenbijfoja.nl",
+      "locationText": "Apeldoorn / landelijk",
+      "websiteLanguage": "Nederlands",
+      "estimatedEmployees": 350,
+      "companySizeNote": "Familiebedrijf Hamer ~350; SME/mid",
+      "roleSummary": "Servicemonteur HVAC/klimaat: storingen en onderhoud, eigen servicebus.",
+      "scoreNotes": "Eigen site; service monteur; technische installaties; NL; SME.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-08-19T09:02:16.431Z",
+      "updatedAt": "2026-08-19T09:02:16.431Z"
     }
   ],
   "carerixLinks": [
