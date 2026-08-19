@@ -1758,8 +1758,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar — servicemonteur 1/1 (Vac 110767)",
-    "updatedAt": "2026-08-19T09:38:28.423Z",
+    "message": "Klaar — servicemonteur 1/1 (Vac 248956)",
+    "updatedAt": "2026-08-19T09:38:42.125Z",
     "stage": "done",
     "etaSeconds": 0,
     "workerHeartbeatAt": "2026-08-19T09:38:28.297Z"
