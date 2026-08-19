@@ -1736,9 +1736,9 @@
       "roleSummary": "Servicemonteur elektrotechniek voor service, onderhoud en kleine uitbreidingen aan elektrische installaties bij bedrijven en particulieren.",
       "scoreNotes": "Eigen site; servicemonteur elektrotechniek; familiebedrijf; NL; SME.",
       "meetsCriteria": true,
-      "status": "found",
+      "status": "entering_carerix",
       "createdAt": "2026-08-19T09:53:25.211Z",
-      "updatedAt": "2026-08-19T09:53:25.211Z"
+      "updatedAt": "2026-08-19T09:53:27.345Z"
     }
   ],
   "carerixLinks": [
@@ -1927,11 +1927,11 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken: servicemontuer IT Elektriciteit",
-    "updatedAt": "2026-08-19T09:53:24.166Z",
-    "stage": "searching",
-    "etaSeconds": 160,
-    "workerHeartbeatAt": "2026-08-19T09:53:24.060Z",
+    "message": "Carerix: Servicemonteur Elektrotechniek @ De Wit Elektrotechniek",
+    "updatedAt": "2026-08-19T09:53:26.562Z",
+    "stage": "entering",
+    "etaSeconds": 40,
+    "workerHeartbeatAt": "2026-08-19T09:53:26.458Z",
     "assignmentId": "8e6c35a8-ae52-4767-981e-313692f9ccca",
     "currentIndex": 1,
     "targetCount": 1,
