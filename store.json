@@ -2658,11 +2658,10 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Carerix-API fout: Gedeelde store-schrijven mislukt: GitHub store conflict 409 {\"message\":\"is at 44f431c6c62cdabe21a51d8f3abb3d6e1150f02c but expected 49732bb487cbb5876e27bbdfa77b",
-    "updatedAt": "2026-08-19T11:37:22.244Z",
-    "stage": "blocked",
+    "message": "Klaar — geen open werk",
+    "updatedAt": "2026-08-19T11:37:50.845Z",
+    "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T11:37:20.623Z",
-    "assignmentId": "cbeb0db3-fc34-4344-8b86-aaf9530d1305"
+    "workerHeartbeatAt": "2026-08-19T11:37:20.623Z"
   }
 }
