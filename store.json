@@ -1721,6 +1721,24 @@
       "status": "mail_ready",
       "createdAt": "2026-08-19T09:42:06.821Z",
       "updatedAt": "2026-08-19T09:42:25.817Z"
+    },
+    {
+      "id": "68322312-e62b-4808-9e1f-ab979c1933b4",
+      "assignmentId": "8e6c35a8-ae52-4767-981e-313692f9ccca",
+      "jobTitle": "Servicemonteur Elektrotechniek",
+      "companyName": "De Wit Elektrotechniek",
+      "sourceUrl": "https://dewitelektro.nl/vacature/servicemonteur-elektrotechniek-drunen/",
+      "uriHost": "dewitelektro.nl",
+      "locationText": "Drunen / regio Noord-Brabant",
+      "websiteLanguage": "Nederlands",
+      "estimatedEmployees": 60,
+      "companySizeNote": "Regionaal elektrotechnisch familiebedrijf / SME",
+      "roleSummary": "Servicemonteur elektrotechniek voor service, onderhoud en kleine uitbreidingen aan elektrische installaties bij bedrijven en particulieren.",
+      "scoreNotes": "Eigen site; servicemonteur elektrotechniek; familiebedrijf; NL; SME.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-08-19T09:53:25.211Z",
+      "updatedAt": "2026-08-19T09:53:25.211Z"
     }
   ],
   "carerixLinks": [
