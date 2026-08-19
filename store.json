@@ -1497,13 +1497,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken: Servicemonteur Elektricitietsinstallatie",
-    "updatedAt": "2026-08-19T09:02:15.531Z",
-    "stage": "searching",
+    "message": "Carerix: Servicemonteur HVAC en klimaattechniek @ Hamer (FOJA Groep)",
+    "updatedAt": "2026-08-19T09:02:18.483Z",
+    "stage": "entering",
     "targetCount": 1,
-    "etaSeconds": 160,
+    "etaSeconds": 40,
     "startedAt": "2026-08-19T09:02:13.116Z",
-    "workerHeartbeatAt": "2026-08-19T09:02:15.420Z",
+    "workerHeartbeatAt": "2026-08-19T09:02:18.354Z",
     "assignmentId": "e2951a4e-f055-414f-ac42-44548510b6fa",
     "currentIndex": 1
   }
