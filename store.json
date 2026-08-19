@@ -2358,6 +2358,23 @@
       "status": "mail_ready",
       "createdAt": "2026-08-19T11:33:02.532Z",
       "updatedAt": "2026-08-19T11:33:21.996Z"
+    },
+    {
+      "id": "c454f921-852c-46a1-b28b-8e28f9d3eec8",
+      "assignmentId": "cbeb0db3-fc34-4344-8b86-aaf9530d1305",
+      "jobTitle": "Techniek vacatures in Friesland, Groningen en Drenthe",
+      "companyName": "Banenrijknoord",
+      "sourceUrl": "https://www.banenrijknoord.nl/vacatures/techniek",
+      "uriHost": "banenrijknoord.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Ontdek actuele techniek vacatures in Friesland, Groningen en Drenthe. Van monteur tot engineer en van timmerman tot projectleider: BanenrijkNoord helpt jou ...",
+      "scoreNotes": "Internet SERP: Techniek vacatures in Friesland, Groningen en Drenthe",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-08-19T11:36:56.809Z",
+      "updatedAt": "2026-08-19T11:36:56.809Z"
     }
   ],
   "carerixLinks": [
