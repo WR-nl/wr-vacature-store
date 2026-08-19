@@ -2658,10 +2658,11 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar — Onderhoudsmonteur 1/1",
-    "updatedAt": "2026-08-19T11:37:20.736Z",
-    "stage": "done",
+    "message": "Carerix-API fout: Gedeelde store-schrijven mislukt: GitHub store conflict 409 {\"message\":\"is at 44f431c6c62cdabe21a51d8f3abb3d6e1150f02c but expected 49732bb487cbb5876e27bbdfa77b",
+    "updatedAt": "2026-08-19T11:37:22.244Z",
+    "stage": "blocked",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T11:37:20.623Z"
+    "workerHeartbeatAt": "2026-08-19T11:37:20.623Z",
+    "assignmentId": "cbeb0db3-fc34-4344-8b86-aaf9530d1305"
   }
 }
