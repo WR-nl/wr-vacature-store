@@ -54,7 +54,7 @@
         "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-19T09:42:02.853Z",
-      "updatedAt": "2026-08-19T09:42:25.516Z"
+      "updatedAt": "2026-08-19T09:42:26.964Z"
     },
     {
       "id": "de12d6fd-18b9-4974-b203-527690f956a4",
@@ -1850,15 +1850,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Sync/export: Servicemonteur koeltechniek",
-    "updatedAt": "2026-08-19T09:42:23.627Z",
-    "stage": "syncing",
-    "etaSeconds": 15,
-    "workerHeartbeatAt": "2026-08-19T09:42:23.497Z",
-    "assignmentId": "76914c12-9c42-4cef-9f15-ffe30cf0c2bf",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-19T09:42:02.853Z"
+    "busy": false,
+    "message": "Klaar — geen open werk",
+    "updatedAt": "2026-08-19T09:42:27.762Z",
+    "stage": "done",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-19T09:42:23.497Z"
   }
 }
