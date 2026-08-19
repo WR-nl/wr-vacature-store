@@ -1,6 +1,64 @@
 {
   "assignments": [
     {
+      "id": "7545de76-4ebb-4f3e-936f-60e2b6d10b65",
+      "title": "Installatiemonteur",
+      "region": "Nederland",
+      "country": "Nederland",
+      "functionTypes": [
+        "Installatiemonteur",
+        "Techniek"
+      ],
+      "sector": "Allround Monteur",
+      "companySize": "klein-middelgroot",
+      "languagePreference": "Engels",
+      "requireOwnCareersSite": true,
+      "targetCount": 1,
+      "extraPrompt": "",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "Nederland",
+        "country": "Nederland",
+        "functionTypes": [
+          "Installatiemonteur",
+          "Techniek"
+        ],
+        "sector": "Allround Monteur",
+        "companySize": "klein-middelgroot",
+        "languagePreference": "Engels",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-08-19T10:51:18.843Z",
+      "updatedAt": "2026-08-19T10:51:18.843Z"
+    },
+    {
       "id": "848f04c0-0cef-42b1-8d43-47af598f9ef7",
       "title": "Data-analyst",
       "region": "Nederland",
@@ -2245,11 +2303,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Opdracht gestopt — geen passende kandidaten gevonden in huidige zoekbronnen",
-    "updatedAt": "2026-08-19T10:50:30.547Z",
-    "stage": "blocked",
-    "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-19T10:50:30.412Z"
+    "busy": true,
+    "message": "Zoeken gestart: Installatiemonteur",
+    "updatedAt": "2026-08-19T10:51:18.843Z",
+    "stage": "searching",
+    "etaSeconds": 160,
+    "workerHeartbeatAt": "2026-08-19T10:50:30.412Z",
+    "assignmentId": "7545de76-4ebb-4f3e-936f-60e2b6d10b65",
+    "currentIndex": 1,
+    "targetCount": 1,
+    "startedAt": "2026-08-19T10:51:18.843Z"
   }
 }
