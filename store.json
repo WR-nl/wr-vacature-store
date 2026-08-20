@@ -3029,15 +3029,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Sync/export: Vacature Facilitair medewerker museum in Amsterdam 8 - 16 uur",
-    "updatedAt": "2026-08-20T05:37:11.962Z",
-    "stage": "syncing",
-    "etaSeconds": 15,
-    "workerHeartbeatAt": "2026-08-20T05:37:11.852Z",
-    "assignmentId": "35bb629b-2f17-4487-b7a1-0ee354fbf3d8",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-20T05:36:45.300Z"
+    "busy": false,
+    "message": "Klaar — Museum medewerker 1/1 (Vac 248967)",
+    "updatedAt": "2026-08-20T05:37:16.478Z",
+    "stage": "done",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-20T05:37:16.376Z"
   }
 }
