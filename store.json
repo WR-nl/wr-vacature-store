@@ -3183,7 +3183,7 @@
     "enabled": true,
     "busy": true,
     "message": "Internet zoeken (ronde 1): Servicemonteur lift",
-    "updatedAt": "2026-08-20T05:44:43.021Z",
+    "updatedAt": "2026-08-20T05:44:49.206Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-20T05:44:41.965Z",
