@@ -2668,9 +2668,9 @@
       "roleSummary": "Als facilitair museummedewerker ben je verantwoordelijk voor de uitstraling van het museum. De werkzaamheden bestaan uit: Het netjes en ...",
       "scoreNotes": "Internet SERP: Vacature Facilitair medewerker museum in Amsterdam 8 - 16 uur",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-20T05:36:56.878Z",
-      "updatedAt": "2026-08-20T05:37:00.191Z"
+      "updatedAt": "2026-08-20T05:37:12.948Z"
     }
   ],
   "carerixLinks": [
@@ -2860,6 +2860,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-20T05:35:20.843Z"
+    },
+    {
+      "id": "acc129e5-20fd-443d-94fc-1e62781893c2",
+      "findingId": "0916dbe4-b2b1-4649-b077-553d84904bac",
+      "companyId": "69365",
+      "contactId": "377057",
+      "vacancyId": "248967",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-20T05:37:12.948Z"
     }
   ],
   "exports": [
