@@ -2902,8 +2902,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken: data-analyst",
-    "updatedAt": "2026-08-20T05:34:54.928Z",
+    "message": "Internet zoeken (ronde 1): data-analyst",
+    "updatedAt": "2026-08-20T05:34:55.958Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-20T05:34:54.833Z",
