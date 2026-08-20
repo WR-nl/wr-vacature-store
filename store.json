@@ -2995,7 +2995,7 @@
     "enabled": true,
     "busy": true,
     "message": "Internet zoeken (ronde 1): Museum medewerker",
-    "updatedAt": "2026-08-20T05:36:49.241Z",
+    "updatedAt": "2026-08-20T05:36:55.798Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-20T05:36:47.975Z",
