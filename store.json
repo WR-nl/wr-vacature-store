@@ -1,6 +1,62 @@
 {
   "assignments": [
     {
+      "id": "3e2e0ffa-bcd1-41ad-bb1d-460bf1ddeede",
+      "title": "data-analyst",
+      "region": "Nederland",
+      "country": "Nederland",
+      "functionTypes": [
+        "Data-analyst"
+      ],
+      "sector": "Supply-chain",
+      "companySize": "klein-middelgroot",
+      "languagePreference": "Nederlands",
+      "requireOwnCareersSite": true,
+      "targetCount": 1,
+      "extraPrompt": "",
+      "status": "active",
+      "criteriaSnapshot": {
+        "chips": [
+          "own_site",
+          "admin_role",
+          "intl_bank",
+          "sme",
+          "region",
+          "language",
+          "domain_og",
+          "wizard",
+          "groups"
+        ],
+        "region": "Nederland",
+        "country": "Nederland",
+        "functionTypes": [
+          "Data-analyst"
+        ],
+        "sector": "Supply-chain",
+        "companySize": "klein-middelgroot",
+        "languagePreference": "Nederlands",
+        "requireOwnCareersSite": true,
+        "extraPrompt": "",
+        "carerixGroups": {
+          "company": {
+            "id": 8885,
+            "label": "Cursor Marketing"
+          },
+          "contact": {
+            "id": 8886,
+            "label": "Cursor Marketing"
+          },
+          "vacancy": {
+            "id": 8887,
+            "label": "Cursor Marketing"
+          }
+        },
+        "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
+      },
+      "createdAt": "2026-08-20T05:34:52.210Z",
+      "updatedAt": "2026-08-20T05:34:52.210Z"
+    },
+    {
       "id": "bb06d76c-fd09-41af-a3cd-2d905042ee64",
       "title": "Gas en waterleiding monteur",
       "region": "Nederland",
@@ -2845,11 +2901,15 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": false,
-    "message": "Klaar — Gas en waterleiding monteur 1/1 (Vac 248965)",
-    "updatedAt": "2026-08-20T05:34:50.640Z",
-    "stage": "done",
-    "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-20T05:34:50.535Z"
+    "busy": true,
+    "message": "Zoeken gestart: data-analyst",
+    "updatedAt": "2026-08-20T05:34:52.210Z",
+    "stage": "searching",
+    "etaSeconds": 160,
+    "workerHeartbeatAt": "2026-08-20T05:34:50.535Z",
+    "assignmentId": "3e2e0ffa-bcd1-41ad-bb1d-460bf1ddeede",
+    "currentIndex": 1,
+    "targetCount": 1,
+    "startedAt": "2026-08-20T05:34:52.210Z"
   }
 }
