@@ -15,7 +15,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "",
-      "status": "active",
+      "status": "completed",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -56,7 +56,7 @@
         "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-08-20T05:38:26.731Z",
-      "updatedAt": "2026-08-20T05:38:26.731Z"
+      "updatedAt": "2026-08-20T05:38:57.666Z"
     },
     {
       "id": "35bb629b-2f17-4487-b7a1-0ee354fbf3d8",
@@ -2743,9 +2743,9 @@
       "roleSummary": "Letterlijk, want in de Peel zijn er genoeg technische banen te vinden. Ga bijvoorbeeld aan de slag als engineer, monteur, technisch tekenaar of vind jouw baan ...",
       "scoreNotes": "Internet SERP: Techniek Vacatures in de Peel",
       "meetsCriteria": true,
-      "status": "synced",
+      "status": "mail_ready",
       "createdAt": "2026-08-20T05:38:39.758Z",
-      "updatedAt": "2026-08-20T05:38:56.650Z"
+      "updatedAt": "2026-08-20T05:38:57.643Z"
     }
   ],
   "carerixLinks": [
@@ -3111,6 +3111,14 @@
       "format": "markdown",
       "content": "# Vacature-export — Vacature Facilitair medewerker museum in Amsterdam 8 - 16 uur\n\n## Opdracht\n- Titel: Museum medewerker\n- Regio: Nederland (Nederland)\n- Sector: Museum\n- Functies: Museummedewerker\n- Size: klein-middelgroot\n- Taalvoorkeur: Engels\n- Eigen careers-site verplicht: ja\n- Extra prompt: Op eigen website musea. \n\n## Gevonden vacature\n- Functie: Vacature Facilitair medewerker museum in Amsterdam 8 - 16 uur\n- Bedrijf: https://www.werkstudent.nl/\n- Bron-URL: https://www.werkstudent.nl/vacature/facilitair-medewerker-museum-in-amsterdam-8-16-uur/461108525/\n- Host: werkstudent.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Nederland\n- Websitetaal: Nederlands\n- Omvang: Via internet gevonden — SME/mid-size te valideren\n- Samenvatting: Als facilitair museummedewerker ben je verantwoordelijk voor de uitstraling van het museum. De werkzaamheden bestaan uit: Het netjes en ...\n- Criteria-check: voldoet\n- Score-notities: Internet SERP: Vacature Facilitair medewerker museum in Amsterdam 8 - 16 uur\n\n## Carerix\n- Opdrachtgever ID: 69365\n- Contactpersoon ID: 377057\n- Vacature ID: 248967\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Museummedewerker\"\n  ],\n  \"sector\": \"Museum\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Engels\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"Op eigen website musea. \",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-20T05:37:14.260Z_",
       "createdAt": "2026-08-20T05:37:14.260Z"
+    },
+    {
+      "id": "a61adc23-1e2f-489c-82d6-988f1316e33b",
+      "findingId": "c624bcd3-f39b-44bb-b542-eeaaaca7d798",
+      "assignmentId": "fa6cfb38-34e4-45fc-99a8-b7f8ad7a21df",
+      "format": "markdown",
+      "content": "# Vacature-export — Techniek Vacatures in de Peel\n\n## Opdracht\n- Titel: Servicemonteur gas en elektra\n- Regio: Nederland (Nederland)\n- Sector: Techniek\n- Functies: Techniek, Servicemonteur\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Techniek Vacatures in de Peel\n- Bedrijf: Werken in de Peel\n- Bron-URL: https://www.werkenindepeel.nl/vacatures-techniek\n- Host: werkenindepeel.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Nederland\n- Websitetaal: Nederlands\n- Omvang: Via internet gevonden — SME/mid-size te valideren\n- Samenvatting: Letterlijk, want in de Peel zijn er genoeg technische banen te vinden. Ga bijvoorbeeld aan de slag als engineer, monteur, technisch tekenaar of vind jouw baan ...\n- Criteria-check: voldoet\n- Score-notities: Internet SERP: Techniek Vacatures in de Peel\n\n## Carerix\n- Opdrachtgever ID: 66524\n- Contactpersoon ID: 377058\n- Vacature ID: 248968\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Techniek\",\n    \"Servicemonteur\"\n  ],\n  \"sector\": \"Techniek\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-08-20T05:38:57.643Z_",
+      "createdAt": "2026-08-20T05:38:57.643Z"
     }
   ],
   "agentStatus": {
