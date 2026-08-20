@@ -2595,9 +2595,9 @@
       "roleSummary": "Als supply chain analyst ben je de spil in het web van de logistieke keten. Je duikt in de data, spot trends en komt met slimme verbeteringen. Geen dag is ...",
       "scoreNotes": "Internet SERP: Vacature Supply Chain Analyst",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-20T05:35:02.250Z",
-      "updatedAt": "2026-08-20T05:35:05.453Z"
+      "updatedAt": "2026-08-20T05:35:20.843Z"
     }
   ],
   "carerixLinks": [
@@ -2776,6 +2776,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-19T12:08:08.287Z"
+    },
+    {
+      "id": "eecde07f-85cf-45d6-858a-35dc9b1b6173",
+      "findingId": "4fc8c325-5dc0-4596-be0b-f318d4955ed6",
+      "companyId": "104565",
+      "contactId": "377056",
+      "vacancyId": "248966",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-20T05:35:20.843Z"
     }
   ],
   "exports": [
