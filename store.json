@@ -2729,6 +2729,23 @@
       "status": "mail_ready",
       "createdAt": "2026-08-20T05:36:56.878Z",
       "updatedAt": "2026-08-20T05:37:14.260Z"
+    },
+    {
+      "id": "c624bcd3-f39b-44bb-b542-eeaaaca7d798",
+      "assignmentId": "fa6cfb38-34e4-45fc-99a8-b7f8ad7a21df",
+      "jobTitle": "Techniek Vacatures in de Peel",
+      "companyName": "Werken in de Peel",
+      "sourceUrl": "https://www.werkenindepeel.nl/vacatures-techniek",
+      "uriHost": "werkenindepeel.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Letterlijk, want in de Peel zijn er genoeg technische banen te vinden. Ga bijvoorbeeld aan de slag als engineer, monteur, technisch tekenaar of vind jouw baan ...",
+      "scoreNotes": "Internet SERP: Techniek Vacatures in de Peel",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-08-20T05:38:39.758Z",
+      "updatedAt": "2026-08-20T05:38:39.758Z"
     }
   ],
   "carerixLinks": [
