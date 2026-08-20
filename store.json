@@ -2818,9 +2818,9 @@
       "roleSummary": "Als jij denkt dat jij de Servicemonteur Techniek bent die we zoeken, stuur ... Vacature Servicemonteur - Servicemonteur - Werkenbij Gelre. Deze website ...",
       "scoreNotes": "Eigen careers-site SERP: Vacature Servicemonteur",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-20T05:44:50.739Z",
-      "updatedAt": "2026-08-20T05:44:53.742Z"
+      "updatedAt": "2026-08-20T05:45:06.724Z"
     }
   ],
   "carerixLinks": [
@@ -3032,6 +3032,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-20T05:38:56.650Z"
+    },
+    {
+      "id": "eafa8cd9-dc06-454d-b412-f24cd7009cde",
+      "findingId": "bf3eb6e8-8ea3-4ed2-adad-c0ec4483c7d4",
+      "companyId": "104566",
+      "contactId": "377059",
+      "vacancyId": "248969",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-20T05:45:06.724Z"
     }
   ],
   "exports": [
