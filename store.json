@@ -3312,10 +3312,10 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "message": "Klaar — Servicemonteur Elektra en Gas 1/1",
-    "updatedAt": "2026-08-20T07:11:37.523Z",
+    "message": "Klaar — Servicemonteur Elektra en Gas 1/1 (Vac 248970)",
+    "updatedAt": "2026-08-20T07:11:38.928Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-20T07:11:37.391Z"
+    "workerHeartbeatAt": "2026-08-20T07:11:38.801Z"
   }
 }
