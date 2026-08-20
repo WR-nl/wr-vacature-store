@@ -3123,15 +3123,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Sync/export: Techniek Vacatures in de Peel",
-    "updatedAt": "2026-08-20T05:38:55.713Z",
-    "stage": "syncing",
-    "etaSeconds": 15,
-    "workerHeartbeatAt": "2026-08-20T05:38:55.605Z",
-    "assignmentId": "fa6cfb38-34e4-45fc-99a8-b7f8ad7a21df",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-20T05:38:26.731Z"
+    "busy": false,
+    "message": "Klaar — Servicemonteur gas en elektra 1/1",
+    "updatedAt": "2026-08-20T05:38:58.697Z",
+    "stage": "done",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-20T05:38:55.605Z"
   }
 }
