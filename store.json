@@ -2847,9 +2847,9 @@
     "enabled": true,
     "busy": false,
     "message": "Klaar — Gas en waterleiding monteur 1/1 (Vac 248965)",
-    "updatedAt": "2026-08-20T00:16:50.694Z",
+    "updatedAt": "2026-08-20T00:17:50.399Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-20T00:16:50.588Z"
+    "workerHeartbeatAt": "2026-08-20T00:17:50.296Z"
   }
 }
