@@ -2743,9 +2743,9 @@
       "roleSummary": "Letterlijk, want in de Peel zijn er genoeg technische banen te vinden. Ga bijvoorbeeld aan de slag als engineer, monteur, technisch tekenaar of vind jouw baan ...",
       "scoreNotes": "Internet SERP: Techniek Vacatures in de Peel",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-20T05:38:39.758Z",
-      "updatedAt": "2026-08-20T05:38:43.182Z"
+      "updatedAt": "2026-08-20T05:38:56.650Z"
     }
   ],
   "carerixLinks": [
@@ -2946,6 +2946,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-20T05:37:12.948Z"
+    },
+    {
+      "id": "6024b814-ae53-4890-b763-ae0f38cc1d5f",
+      "findingId": "c624bcd3-f39b-44bb-b542-eeaaaca7d798",
+      "companyId": "66524",
+      "contactId": "377058",
+      "vacancyId": "248968",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-20T05:38:56.650Z"
     }
   ],
   "exports": [
