@@ -2893,9 +2893,9 @@
       "roleSummary": "Vacature: Servicemonteur techniek in Valkenswaard. Bekijk details en ... Werken bij een gevestigd bedrijf in de technische sector ...",
       "scoreNotes": "Eigen careers-site SERP: Servicemonteur techniek in Valkenswaard - 040 Eindhoven",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-08-20T07:11:15.032Z",
-      "updatedAt": "2026-08-20T07:11:19.402Z"
+      "updatedAt": "2026-08-20T07:11:34.094Z"
     }
   ],
   "carerixLinks": [
@@ -3118,6 +3118,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-20T05:45:06.724Z"
+    },
+    {
+      "id": "646a47e5-698c-4356-bf74-1837d1d62947",
+      "findingId": "54fc1765-30de-475d-b8a6-b1446e07a260",
+      "companyId": "104567",
+      "contactId": "377063",
+      "vacancyId": "248970",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-08-20T07:11:34.094Z"
     }
   ],
   "exports": [
