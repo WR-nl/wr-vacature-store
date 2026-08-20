@@ -2937,15 +2937,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Sync/export: Vacature Supply Chain Analyst - Uitzendbureau Prestatie",
-    "updatedAt": "2026-08-20T05:35:19.811Z",
-    "stage": "syncing",
-    "etaSeconds": 15,
-    "workerHeartbeatAt": "2026-08-20T05:35:19.702Z",
-    "assignmentId": "3e2e0ffa-bcd1-41ad-bb1d-460bf1ddeede",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-20T05:34:52.210Z"
+    "busy": false,
+    "message": "Klaar — data-analyst 1/1 (Vac 248966)",
+    "updatedAt": "2026-08-20T05:35:24.011Z",
+    "stage": "done",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-20T05:35:23.869Z"
   }
 }
