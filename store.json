@@ -3089,7 +3089,7 @@
     "enabled": true,
     "busy": true,
     "message": "Internet zoeken (ronde 1): Servicemonteur gas en elektra",
-    "updatedAt": "2026-08-20T05:38:30.528Z",
+    "updatedAt": "2026-08-20T05:38:38.705Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-20T05:38:29.462Z",
