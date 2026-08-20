@@ -3217,15 +3217,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Sync/export: Servicemonteur",
-    "updatedAt": "2026-08-20T05:45:05.526Z",
-    "stage": "syncing",
-    "etaSeconds": 15,
-    "workerHeartbeatAt": "2026-08-20T05:45:05.413Z",
-    "assignmentId": "d2427061-8f4f-4e65-bd49-687f705dff5e",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-08-20T05:44:39.188Z"
+    "busy": false,
+    "message": "Klaar — Servicemonteur lift 1/1 (Vac 248969)",
+    "updatedAt": "2026-08-20T05:45:09.846Z",
+    "stage": "done",
+    "etaSeconds": 0,
+    "workerHeartbeatAt": "2026-08-20T05:45:09.702Z"
   }
 }
