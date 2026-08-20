@@ -3219,9 +3219,9 @@
     "enabled": true,
     "busy": false,
     "message": "Klaar — Servicemonteur lift 1/1 (Vac 248969)",
-    "updatedAt": "2026-08-20T05:50:37.510Z",
+    "updatedAt": "2026-08-20T05:51:37.688Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-08-20T05:50:37.396Z"
+    "workerHeartbeatAt": "2026-08-20T05:51:37.554Z"
   }
 }
