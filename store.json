@@ -2994,8 +2994,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken: Museum medewerker",
-    "updatedAt": "2026-08-20T05:36:48.082Z",
+    "message": "Internet zoeken (ronde 1): Museum medewerker",
+    "updatedAt": "2026-08-20T05:36:49.241Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-08-20T05:36:47.975Z",
