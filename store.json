@@ -3313,9 +3313,9 @@
     "enabled": true,
     "busy": false,
     "message": "Klaar — Servicemonteur Elektra en Gas 1/1 (Vac 248970)",
-    "updatedAt": "2026-09-02T13:17:37.523Z",
+    "updatedAt": "2026-09-02T13:18:37.725Z",
     "stage": "done",
     "etaSeconds": 0,
-    "workerHeartbeatAt": "2026-09-02T13:17:37.388Z"
+    "workerHeartbeatAt": "2026-09-02T13:18:37.579Z"
   }
 }
