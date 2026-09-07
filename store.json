@@ -3428,15 +3428,15 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Internet zoeken (ronde 11): Luxemburg Elektra",
-    "updatedAt": "2026-09-07T05:45:17.761Z",
+    "message": "Zoeken vervolg (ronde 12/12): Luxemburg Elektra",
+    "updatedAt": "2026-09-07T05:45:21.477Z",
     "stage": "searching",
     "etaSeconds": 160,
-    "workerHeartbeatAt": "2026-09-07T05:45:16.560Z",
+    "workerHeartbeatAt": "2026-09-07T05:45:21.295Z",
     "assignmentId": "b7473721-7dc0-4366-b854-6c33e7565fef",
     "currentIndex": 1,
     "targetCount": 1,
     "startedAt": "2026-09-07T05:43:44.539Z",
-    "searchRound": 10
+    "searchRound": 11
   }
 }
