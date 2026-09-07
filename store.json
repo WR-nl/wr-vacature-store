@@ -3159,9 +3159,9 @@
       "roleSummary": "Électricien Polyvalent (H/F) – Électricité Générale, Courant Faible, Domotique & Photovoltaïque. Rambrouch, Luxembourg. Postuler maintenant ! Travailler ...",
       "scoreNotes": "Eigen careers-site SERP: Électricité Générale, Courant Faible, Domotique & Photovoltaïque",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-09-07T05:50:40.023Z",
-      "updatedAt": "2026-09-07T06:07:44.219Z"
+      "updatedAt": "2026-09-07T06:07:57.317Z"
     }
   ],
   "carerixLinks": [
@@ -3395,6 +3395,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-08-20T07:11:34.094Z"
+    },
+    {
+      "id": "bd9f1229-0e67-477f-940d-64cbdb4d1814",
+      "findingId": "98b65832-f060-4f0a-93cb-2e937701f810",
+      "companyId": "104804",
+      "contactId": "377927",
+      "vacancyId": "249011",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-09-07T06:07:57.317Z"
     }
   ],
   "exports": [
