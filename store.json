@@ -3161,7 +3161,7 @@
       "meetsCriteria": true,
       "status": "entering_carerix",
       "createdAt": "2026-09-07T05:50:40.023Z",
-      "updatedAt": "2026-09-07T05:50:43.281Z"
+      "updatedAt": "2026-09-07T05:52:00.057Z"
     }
   ],
   "carerixLinks": [
@@ -3581,8 +3581,8 @@
     "stage": "entering",
     "message": "Carerix: 🚀 Électricien Polyvalent (H/F) – Électricité Générale, Courant Faible, Domotique & Photovoltaïque | Luxionis S.à r.l. @ Luxionis S.à r.l.",
     "etaSeconds": 40,
-    "updatedAt": "2026-09-07T05:51:57.978Z",
-    "workerHeartbeatAt": "2026-09-07T05:51:57.853Z",
+    "updatedAt": "2026-09-07T05:51:59.044Z",
+    "workerHeartbeatAt": "2026-09-07T05:51:58.941Z",
     "assignmentId": "aacbb7bd-9c6b-409e-9afc-faba87c10aba",
     "currentIndex": 1,
     "targetCount": 1,
