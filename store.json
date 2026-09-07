@@ -3370,8 +3370,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken: Luxemburg engineer",
-    "updatedAt": "2026-09-07T05:34:25.498Z",
+    "message": "Internet zoeken (ronde 3): Luxemburg engineer",
+    "updatedAt": "2026-09-07T05:34:26.518Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-09-07T05:34:25.400Z",
