@@ -3086,7 +3086,7 @@
       "meetsCriteria": true,
       "status": "entering_carerix",
       "createdAt": "2026-09-07T05:46:46.661Z",
-      "updatedAt": "2026-09-07T05:46:58.232Z"
+      "updatedAt": "2026-09-07T05:48:14.877Z"
     }
   ],
   "carerixLinks": [
@@ -3504,10 +3504,10 @@
     "enabled": true,
     "busy": true,
     "message": "Carerix: ELECTRICIEN (H/F) @ ArcelorMittal",
-    "updatedAt": "2026-09-07T05:48:12.785Z",
+    "updatedAt": "2026-09-07T05:48:14.138Z",
     "stage": "entering",
     "etaSeconds": 40,
-    "workerHeartbeatAt": "2026-09-07T05:48:12.671Z",
+    "workerHeartbeatAt": "2026-09-07T05:48:14.014Z",
     "assignmentId": "ebc6b048-7986-4adc-a4c2-0b484b40686f",
     "currentIndex": 1,
     "targetCount": 1,
