@@ -3370,15 +3370,15 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken vervolg (ronde 10/12): Luxemburg engineer",
-    "updatedAt": "2026-09-07T05:43:20.647Z",
+    "message": "Internet zoeken (ronde 1): Luxemburg engineer",
+    "updatedAt": "2026-09-07T05:43:24.756Z",
     "stage": "searching",
-    "etaSeconds": 160,
+    "etaSeconds": 180,
     "workerHeartbeatAt": "2026-09-07T05:43:09.137Z",
     "assignmentId": "ebc6b048-7986-4adc-a4c2-0b484b40686f",
     "currentIndex": 1,
     "targetCount": 1,
-    "startedAt": "2026-09-07T05:31:46.183Z",
+    "startedAt": "2026-09-07T05:42:00.000Z",
     "searchRound": 9
   }
 }
