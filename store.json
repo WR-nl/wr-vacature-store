@@ -3012,6 +3012,23 @@
       "status": "mail_ready",
       "createdAt": "2026-08-20T07:11:15.032Z",
       "updatedAt": "2026-08-20T07:11:35.358Z"
+    },
+    {
+      "id": "4dad61ad-52f5-4ff6-b3d2-1ed76daca182",
+      "assignmentId": "ebc6b048-7986-4adc-a4c2-0b484b40686f",
+      "jobTitle": "ELECTRICIEN (H/F)",
+      "companyName": "ArcelorMittal",
+      "sourceUrl": "https://emfg.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/22861/?mode=job-location",
+      "uriHost": "emfg.fa.em4.oraclecloud.com",
+      "locationText": "Luxemburg",
+      "websiteLanguage": "Engels",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "ArcelorMittal Long Products Luxembourg recherche un « Electricien » posté pour son installation industrielle de Rodange. Fonction : Connaissance en ...",
+      "scoreNotes": "Eigen careers-site SERP: ELECTRICIEN (H/F) - ArcelorMittal Careers - oracle",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-09-07T05:46:46.661Z",
+      "updatedAt": "2026-09-07T05:46:46.661Z"
     }
   ],
   "carerixLinks": [
