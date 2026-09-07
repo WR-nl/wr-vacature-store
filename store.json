@@ -15,7 +15,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "",
-      "status": "active",
+      "status": "cancelled",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -73,7 +73,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 1,
       "extraPrompt": "",
-      "status": "active",
+      "status": "cancelled",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -3427,16 +3427,16 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "message": "Internet zoeken (ronde 1): Luxemburg engineer",
-    "updatedAt": "2026-09-07T05:46:38.986Z",
-    "stage": "searching",
-    "etaSeconds": 160,
+    "busy": false,
+    "message": "Klaar — klaar voor nieuwe opdracht",
+    "updatedAt": "2026-09-07T05:46:42.717173Z",
+    "stage": "done",
+    "etaSeconds": 0,
     "workerHeartbeatAt": "2026-09-07T05:46:37.644Z",
-    "assignmentId": "ebc6b048-7986-4adc-a4c2-0b484b40686f",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-09-07T05:43:44.539Z",
-    "searchRound": 11
+    "assignmentId": null,
+    "currentIndex": null,
+    "targetCount": null,
+    "startedAt": null,
+    "searchRound": null
   }
 }
