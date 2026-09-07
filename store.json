@@ -3596,15 +3596,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: 🚀 Électricien Polyvalent (H/F) – Électricité Générale, Courant Faible, Domotique & Photovoltaïque | Luxionis S.à r.l.",
-    "etaSeconds": 15,
-    "updatedAt": "2026-09-07T06:07:56.223Z",
-    "workerHeartbeatAt": "2026-09-07T06:07:56.058Z",
-    "assignmentId": "aacbb7bd-9c6b-409e-9afc-faba87c10aba",
-    "currentIndex": 1,
-    "targetCount": 1,
-    "startedAt": "2026-09-07T05:50:29.596Z"
+    "busy": false,
+    "stage": "done",
+    "message": "Klaar — Luxemburg Elektra 1/1 (Vac 249011)",
+    "etaSeconds": 0,
+    "updatedAt": "2026-09-07T06:08:00.721Z",
+    "workerHeartbeatAt": "2026-09-07T06:08:00.578Z"
   }
 }
