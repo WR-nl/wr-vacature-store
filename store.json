@@ -3428,8 +3428,8 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "message": "Zoeken: Luxemburg Elektra",
-    "updatedAt": "2026-09-07T05:46:33.485Z",
+    "message": "Internet zoeken (ronde 12): Luxemburg Elektra",
+    "updatedAt": "2026-09-07T05:46:34.508Z",
     "stage": "searching",
     "etaSeconds": 160,
     "workerHeartbeatAt": "2026-09-07T05:46:33.371Z",
