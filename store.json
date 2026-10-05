@@ -3765,13 +3765,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Find a job with Austinbright",
-    "etaSeconds": 1135,
-    "updatedAt": "2026-10-05T13:51:06.085Z",
-    "workerHeartbeatAt": "2026-10-05T13:51:05.919Z",
+    "stage": "searching",
+    "message": "Gesynct: Find a job with Austinbright (nieuwe OG 105008, Vac 249095)",
+    "etaSeconds": 1120,
+    "updatedAt": "2026-10-05T13:51:10.738Z",
+    "workerHeartbeatAt": "2026-10-05T13:51:10.576Z",
     "assignmentId": "f723c58b-4153-44d6-96aa-731c5fdb814d",
-    "currentIndex": 3,
+    "currentIndex": 4,
     "targetCount": 10,
     "startedAt": "2026-10-05T13:46:54.570Z"
   }
