@@ -3338,9 +3338,9 @@
       "roleSummary": "Client Service Officer. Marché Allemand. Let's care for tomorrow. Join us. Dans le cadre de son département Client. Service, rattaché à la Direction des Opéra ...",
       "scoreNotes": "Eigen careers-site SERP: Client Service Officer",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-05T13:58:40.084Z",
-      "updatedAt": "2026-10-05T13:58:45.094Z"
+      "updatedAt": "2026-10-05T13:58:59.835Z"
     }
   ],
   "carerixLinks": [
@@ -3651,6 +3651,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-05T13:56:41.266Z"
+    },
+    {
+      "id": "e1941e8b-ec29-46c9-8775-53d386a48b67",
+      "findingId": "1d84f0d7-6cd8-47b0-a080-11da236e979c",
+      "companyId": "105011",
+      "contactId": "379064",
+      "vacancyId": "249099",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-05T13:58:59.835Z"
     }
   ],
   "exports": [
