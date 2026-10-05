@@ -3324,6 +3324,23 @@
       "status": "mail_ready",
       "createdAt": "2026-10-05T13:56:23.726Z",
       "updatedAt": "2026-10-05T13:56:44.116Z"
+    },
+    {
+      "id": "1d84f0d7-6cd8-47b0-a080-11da236e979c",
+      "assignmentId": "f723c58b-4153-44d6-96aa-731c5fdb814d",
+      "jobTitle": "Client Service Officer",
+      "companyName": "Allianz",
+      "sourceUrl": "https://www.allianz.lu/content/dam/onemarketing/benelu/azlux/pdf/careers/Annonce-RH-Client-service-officer-Allemagne(FR)0825.pdf",
+      "uriHost": "allianz.lu",
+      "locationText": "Luxemburg-stad",
+      "websiteLanguage": "Frans",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Client Service Officer. Marché Allemand. Let's care for tomorrow. Join us. Dans le cadre de son département Client. Service, rattaché à la Direction des Opéra ...",
+      "scoreNotes": "Eigen careers-site SERP: Client Service Officer",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-10-05T13:58:40.084Z",
+      "updatedAt": "2026-10-05T13:58:40.084Z"
     }
   ],
   "carerixLinks": [
