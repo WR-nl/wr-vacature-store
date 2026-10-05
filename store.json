@@ -3321,9 +3321,9 @@
       "roleSummary": "Middle Office Analyst ofre chez Five Rings LLC - Careers (1). Experienced/Lateral - Compliance Analyst. Five Rings LLC - Careers. New York, États-UnisCDI.",
       "scoreNotes": "Eigen careers-site SERP: Middle Office Analyst offre chez Five Rings LLC - Careers",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-05T13:56:23.726Z",
-      "updatedAt": "2026-10-05T13:56:27.806Z"
+      "updatedAt": "2026-10-05T13:56:41.266Z"
     }
   ],
   "carerixLinks": [
@@ -3623,6 +3623,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-05T13:54:52.352Z"
+    },
+    {
+      "id": "6285aaf7-027a-4903-b29b-c7f529e2febe",
+      "findingId": "8922674b-0d69-44c4-8b05-683d921a66b1",
+      "companyId": "105007",
+      "contactId": "379060",
+      "vacancyId": "249098",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-05T13:56:41.266Z"
     }
   ],
   "exports": [
