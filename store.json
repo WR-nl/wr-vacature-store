@@ -3304,9 +3304,9 @@
       "roleSummary": "Client Service Manager Luxembourg, Vice president (m/f). Features. Sector. Finance and accounting. Contract type. Permanent contract.",
       "scoreNotes": "Eigen careers-site SERP: Client Service Manager Luxembourg, Vice president (m/f)",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-05T13:54:31.295Z",
-      "updatedAt": "2026-10-05T13:54:36.923Z"
+      "updatedAt": "2026-10-05T13:54:52.352Z"
     }
   ],
   "carerixLinks": [
@@ -3595,6 +3595,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-05T13:53:00.403Z"
+    },
+    {
+      "id": "e0818f39-f24c-4de7-9f8a-6b0478ce767e",
+      "findingId": "974302d3-da6e-4661-aa1c-f70d705c6eb0",
+      "companyId": "105010",
+      "contactId": "379063",
+      "vacancyId": "249097",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-05T13:54:52.352Z"
     }
   ],
   "exports": [
