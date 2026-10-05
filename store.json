@@ -3801,13 +3801,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: CACEIS - Résultat de votre recherche (23 offres, page 1) / Pays : Luxembourg",
-    "etaSeconds": 975,
-    "updatedAt": "2026-10-05T13:52:58.697Z",
-    "workerHeartbeatAt": "2026-10-05T13:52:58.421Z",
+    "stage": "searching",
+    "message": "Gesynct: CACEIS - Résultat de votre recherche (23 offres, page 1) / Pays : Luxembourg (nieuwe OG 105009, Vac 249096)",
+    "etaSeconds": 960,
+    "updatedAt": "2026-10-05T13:53:03.457Z",
+    "workerHeartbeatAt": "2026-10-05T13:53:03.277Z",
     "assignmentId": "f723c58b-4153-44d6-96aa-731c5fdb814d",
-    "currentIndex": 4,
+    "currentIndex": 5,
     "targetCount": 10,
     "startedAt": "2026-10-05T13:46:54.570Z"
   }
