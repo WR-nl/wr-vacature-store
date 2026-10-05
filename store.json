@@ -3372,9 +3372,9 @@
       "roleSummary": "Client Service Officer. Let's care for tomorrow. Join us. Dans le cadre de son département Client. Service, rattaché à la Direction des Opéra- tions, vous ...",
       "scoreNotes": "Eigen careers-site SERP: Client Service Officer",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-05T14:02:42.146Z",
-      "updatedAt": "2026-10-05T14:02:46.619Z"
+      "updatedAt": "2026-10-05T14:03:01.282Z"
     }
   ],
   "carerixLinks": [
@@ -3707,6 +3707,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-05T14:01:03.849Z"
+    },
+    {
+      "id": "d882a956-a409-484b-af8d-ffd96f4b9bd7",
+      "findingId": "2367cd35-777b-4337-8316-50488fe28a4e",
+      "companyId": "105011",
+      "contactId": "379064",
+      "vacancyId": "249101",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-05T14:03:01.282Z"
     }
   ],
   "exports": [
