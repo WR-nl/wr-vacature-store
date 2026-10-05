@@ -3270,9 +3270,9 @@
       "roleSummary": "Middle Office | Fund Accounting Background | Up to 60K. Controlling — Grand Duchy of Luxembourg. Full time. Bonus. Meal Vouchers. Notre client est une ManCo ...",
       "scoreNotes": "Eigen careers-site SERP: Find a job with Austinbright",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-05T13:50:46.403Z",
-      "updatedAt": "2026-10-05T13:50:51.923Z"
+      "updatedAt": "2026-10-05T13:51:07.766Z"
     }
   ],
   "carerixLinks": [
@@ -3539,6 +3539,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-05T13:49:14.741Z"
+    },
+    {
+      "id": "cdcd8d08-5eab-42b4-975e-851e44dc4b64",
+      "findingId": "0500a7de-5d31-4fcf-b138-ba575690815a",
+      "companyId": "105008",
+      "contactId": "379061",
+      "vacancyId": "249095",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-05T13:51:07.766Z"
     }
   ],
   "exports": [
