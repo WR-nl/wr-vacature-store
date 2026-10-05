@@ -3236,9 +3236,9 @@
       "roleSummary": "Junior Client Service Officer - FTC (f/m/d). Clearstream Banking S.A. • Luxembourg. Apply. Build the future of financial markets. Build yours.",
       "scoreNotes": "Eigen careers-site SERP: Junior Client Service Officer - FTC (f/m/d)",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-05T13:47:07.088Z",
-      "updatedAt": "2026-10-05T13:47:11.780Z"
+      "updatedAt": "2026-10-05T13:47:29.243Z"
     }
   ],
   "carerixLinks": [
@@ -3483,6 +3483,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-09-07T06:07:57.317Z"
+    },
+    {
+      "id": "61438e62-9006-48f3-8e09-35e8fbea46ee",
+      "findingId": "dbbb081f-bc7f-42aa-bde5-c29edfc9a0a8",
+      "companyId": "105006",
+      "contactId": "379059",
+      "vacancyId": "249093",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-05T13:47:29.243Z"
     }
   ],
   "exports": [
