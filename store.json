@@ -4016,15 +4016,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Client Service Expert",
-    "etaSeconds": 15,
-    "updatedAt": "2026-10-05T14:05:00.869Z",
-    "workerHeartbeatAt": "2026-10-05T14:05:00.686Z",
-    "assignmentId": "f723c58b-4153-44d6-96aa-731c5fdb814d",
-    "currentIndex": 10,
-    "targetCount": 10,
-    "startedAt": "2026-10-05T13:46:54.570Z"
+    "busy": false,
+    "stage": "done",
+    "message": "Klaar — Luxemburg bank — administratieve vacature 10/10 (Vac 249102)",
+    "etaSeconds": 0,
+    "updatedAt": "2026-10-05T14:05:07.318Z",
+    "workerHeartbeatAt": "2026-10-05T14:05:07.116Z"
   }
 }
