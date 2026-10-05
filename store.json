@@ -3355,9 +3355,9 @@
       "roleSummary": "Middle Office Operations Analyst ofres chez Careers at KKR en Ireland (4). Full Stack Engineer. Careers at KKR. Gurgaon, IndeCDI. Competitive. il y a 1 mois.",
       "scoreNotes": "Eigen careers-site SERP: Middle Office Operations Analyst offres chez Careers at ...",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-05T14:00:44.389Z",
-      "updatedAt": "2026-10-05T14:00:49.561Z"
+      "updatedAt": "2026-10-05T14:01:03.849Z"
     }
   ],
   "carerixLinks": [
@@ -3679,6 +3679,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-05T13:58:59.835Z"
+    },
+    {
+      "id": "e0455992-1017-4048-84bc-d9b96e867980",
+      "findingId": "7912f5d6-cbe3-49f6-b23a-1fb93c910edf",
+      "companyId": "105007",
+      "contactId": "379060",
+      "vacancyId": "249100",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-05T14:01:03.849Z"
     }
   ],
   "exports": [
