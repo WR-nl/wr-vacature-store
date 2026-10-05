@@ -3837,13 +3837,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Work in Luxembourg - Job-board",
-    "etaSeconds": 815,
-    "updatedAt": "2026-10-05T13:54:50.825Z",
-    "workerHeartbeatAt": "2026-10-05T13:54:50.660Z",
+    "stage": "searching",
+    "message": "Gesynct: Work in Luxembourg - Job-board (nieuwe OG 105010, Vac 249097)",
+    "etaSeconds": 800,
+    "updatedAt": "2026-10-05T13:54:56.658Z",
+    "workerHeartbeatAt": "2026-10-05T13:54:56.471Z",
     "assignmentId": "f723c58b-4153-44d6-96aa-731c5fdb814d",
-    "currentIndex": 5,
+    "currentIndex": 6,
     "targetCount": 10,
     "startedAt": "2026-10-05T13:46:54.570Z"
   }
