@@ -3287,9 +3287,9 @@
       "roleSummary": "CDI - Middle Office - Securities Financing & REPO H/F. Ajouter cette offre à ma sélection : CDI - Middle Office - Securities Financing & REPO. CDI; Luxembourg ...",
       "scoreNotes": "Eigen careers-site SERP: Résultat de votre recherche (30 offres, page 1) / Pays",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-05T13:52:40.178Z",
-      "updatedAt": "2026-10-05T13:52:45.370Z"
+      "updatedAt": "2026-10-05T13:53:00.403Z"
     }
   ],
   "carerixLinks": [
@@ -3567,6 +3567,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-05T13:51:07.766Z"
+    },
+    {
+      "id": "86bf2abe-049d-4734-9ef5-9eb391740f3e",
+      "findingId": "f3fc3e3e-ef9b-4823-aafa-056f78658a8f",
+      "companyId": "105009",
+      "contactId": "379062",
+      "vacancyId": "249096",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-05T13:53:00.403Z"
     }
   ],
   "exports": [
