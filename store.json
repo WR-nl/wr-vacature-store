@@ -3389,9 +3389,9 @@
       "roleSummary": "Client Service Expert. Let's care for tomorrow. Join us. Au sein du département Client Service, rattaché(e) à la Direction des Opérations, votre ...",
       "scoreNotes": "Eigen careers-site SERP: Client Service Expert",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-05T14:04:41.929Z",
-      "updatedAt": "2026-10-05T14:04:47.390Z"
+      "updatedAt": "2026-10-05T14:05:02.495Z"
     }
   ],
   "carerixLinks": [
@@ -3735,6 +3735,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-05T14:03:01.282Z"
+    },
+    {
+      "id": "e26ff9b3-2559-4bfa-aa1d-458961ab39de",
+      "findingId": "84b7abb4-4365-4868-80d7-cde2eee6d50f",
+      "companyId": "105011",
+      "contactId": "379064",
+      "vacancyId": "249102",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-05T14:05:02.495Z"
     }
   ],
   "exports": [
