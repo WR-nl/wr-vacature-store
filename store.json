@@ -3256,6 +3256,23 @@
       "status": "mail_ready",
       "createdAt": "2026-10-05T13:48:55.188Z",
       "updatedAt": "2026-10-05T13:49:16.187Z"
+    },
+    {
+      "id": "0500a7de-5d31-4fcf-b138-ba575690815a",
+      "assignmentId": "f723c58b-4153-44d6-96aa-731c5fdb814d",
+      "jobTitle": "Find a job with Austinbright",
+      "companyName": "Austinbright",
+      "sourceUrl": "https://austinbright.lu/en/jobs/facet_experience/experienced-86/facet_job_location/diekirch-169/facet_language/dutch-nl/facet_language/french-fr?discipline=18",
+      "uriHost": "austinbright.lu",
+      "locationText": "Luxemburg-stad",
+      "websiteLanguage": "Engels",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Middle Office | Fund Accounting Background | Up to 60K. Controlling — Grand Duchy of Luxembourg. Full time. Bonus. Meal Vouchers. Notre client est une ManCo ...",
+      "scoreNotes": "Eigen careers-site SERP: Find a job with Austinbright",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-10-05T13:50:46.403Z",
+      "updatedAt": "2026-10-05T13:50:46.403Z"
     }
   ],
   "carerixLinks": [
@@ -3732,7 +3749,7 @@
     "stage": "searching",
     "message": "Internet zoeken (ronde 1): Luxemburg bank — administratieve vacature",
     "etaSeconds": 1280,
-    "updatedAt": "2026-10-05T13:50:44.606Z",
+    "updatedAt": "2026-10-05T13:50:45.863Z",
     "workerHeartbeatAt": "2026-10-05T13:50:32.616Z",
     "assignmentId": "f723c58b-4153-44d6-96aa-731c5fdb814d",
     "currentIndex": 3,
