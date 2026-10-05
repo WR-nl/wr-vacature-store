@@ -3253,9 +3253,9 @@
       "roleSummary": "Middle Officer Intermediaries. Swissquote · il y a 3 jours ; Alternant - Middle Office Investissements UC H/F · Groupe BPCE · il y a 11 jours ; Intern - Client Data ...",
       "scoreNotes": "Eigen careers-site SERP: Middle Office offres",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-05T13:48:55.188Z",
-      "updatedAt": "2026-10-05T13:48:59.700Z"
+      "updatedAt": "2026-10-05T13:49:14.741Z"
     }
   ],
   "carerixLinks": [
@@ -3511,6 +3511,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-05T13:47:29.243Z"
+    },
+    {
+      "id": "fbc0eb14-2bf6-4b80-a7ff-0c4371fdb8f3",
+      "findingId": "efd2766b-c358-4316-b063-1a19c9e06140",
+      "companyId": "105007",
+      "contactId": "379060",
+      "vacancyId": "249094",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-05T13:49:14.741Z"
     }
   ],
   "exports": [
