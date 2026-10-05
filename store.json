@@ -3693,13 +3693,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Junior Client Service Officer - FTC (f/m/d)",
-    "etaSeconds": 1455,
-    "updatedAt": "2026-10-05T13:47:27.540Z",
-    "workerHeartbeatAt": "2026-10-05T13:47:27.391Z",
+    "stage": "searching",
+    "message": "Gesynct: Junior Client Service Officer - FTC (f/m/d) (nieuwe OG 105006, Vac 249093)",
+    "etaSeconds": 1440,
+    "updatedAt": "2026-10-05T13:47:32.716Z",
+    "workerHeartbeatAt": "2026-10-05T13:47:32.509Z",
     "assignmentId": "f723c58b-4153-44d6-96aa-731c5fdb814d",
-    "currentIndex": 1,
+    "currentIndex": 2,
     "targetCount": 10,
     "startedAt": "2026-10-05T13:46:54.570Z"
   }
