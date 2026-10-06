@@ -4238,14 +4238,14 @@
     "enabled": true,
     "busy": true,
     "stage": "searching",
-    "message": "Internet zoeken (ronde 2): Elektra en Techniek",
+    "message": "Zoeken vervolg (ronde 3/12): Elektra en Techniek",
     "etaSeconds": 1120,
-    "updatedAt": "2026-10-06T10:17:16.806Z",
-    "workerHeartbeatAt": "2026-10-06T10:17:15.308Z",
+    "updatedAt": "2026-10-06T10:17:23.413Z",
+    "workerHeartbeatAt": "2026-10-06T10:17:23.299Z",
     "assignmentId": "e3fca6cc-f448-497b-ab63-05dc5f590e55",
     "currentIndex": 4,
     "targetCount": 10,
     "startedAt": "2026-10-06T10:09:47.174Z",
-    "searchRound": 1
+    "searchRound": 2
   }
 }
