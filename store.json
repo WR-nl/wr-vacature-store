@@ -3572,6 +3572,23 @@
       "status": "mail_ready",
       "createdAt": "2026-10-06T10:18:50.878Z",
       "updatedAt": "2026-10-06T10:19:11.651Z"
+    },
+    {
+      "id": "4cecf790-068a-41d5-a2f9-91c65e6ce3ec",
+      "assignmentId": "e3fca6cc-f448-497b-ab63-05dc5f590e55",
+      "jobTitle": "Word monteur bij VDL | Vacatures voor monteurs | VDL Groep",
+      "companyName": "Vdl",
+      "sourceUrl": "https://www.werkenbijvdl.nl/werken-als-monteur-bij-vdl",
+      "uriHost": "werkenbijvdl.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Het actuele aanbod monteur vacatures vind je op ons vacature-overzicht. ... Werken bij VDL. Over ons · Onze VDL-bedrijven · Arbeidsvoorwaarden · Vacatures in ...",
+      "scoreNotes": "Eigen careers-site SERP: Vacatures voor monteurs | VDL Groep",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-10-06T10:20:47.714Z",
+      "updatedAt": "2026-10-06T10:20:47.714Z"
     }
   ],
   "carerixLinks": [
