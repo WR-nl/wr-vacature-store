@@ -3555,6 +3555,23 @@
       "status": "mail_ready",
       "createdAt": "2026-10-06T10:14:00.508Z",
       "updatedAt": "2026-10-06T10:14:19.713Z"
+    },
+    {
+      "id": "e05ebf9b-5219-4d49-b7e4-5324c9050b66",
+      "assignmentId": "e3fca6cc-f448-497b-ab63-05dc5f590e55",
+      "jobTitle": "Vacature Monteur Elektrotechniek",
+      "companyName": "Werken bij Bruil",
+      "sourceUrl": "https://www.werkenbijbruil.nl/nl/vakgebieden/techniek/monteur-elektrotechniek",
+      "uriHost": "werkenbijbruil.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Service monteur. Contact. Keesomstraat 9 6717 AH Ede 088 8118 717 · werken@bruil.nl · Ga naar bruil.nl Bekijk vacatures. © 2026 Werken bij Bruil.",
+      "scoreNotes": "Eigen careers-site SERP: Vacature Monteur Elektrotechniek",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-10-06T10:18:50.878Z",
+      "updatedAt": "2026-10-06T10:18:50.878Z"
     }
   ],
   "carerixLinks": [
