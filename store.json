@@ -3603,9 +3603,9 @@
       "roleSummary": "Ga naar de homepagina van Werken bij Heijmans · VACATURES. VAKGEBIED. Het kan samen als... Monteur · Werkvoorbereider · Uitvoerder · Vakman- of vrouw · Engineer ...",
       "scoreNotes": "Eigen careers-site SERP: Monteur",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-06T10:22:40.916Z",
-      "updatedAt": "2026-10-06T10:22:44.674Z"
+      "updatedAt": "2026-10-06T10:22:59.988Z"
     }
   ],
   "carerixLinks": [
@@ -4015,6 +4015,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-06T10:21:07.699Z"
+    },
+    {
+      "id": "5550a429-5cab-4af7-85c0-75ba247cc6d6",
+      "findingId": "a5d35e1f-f75d-4a44-80b2-6dcee867ad38",
+      "companyId": "94239",
+      "contactId": "379083",
+      "vacancyId": "249108",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-06T10:22:59.988Z"
     }
   ],
   "exports": [
