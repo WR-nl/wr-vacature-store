@@ -3518,9 +3518,9 @@
       "roleSummary": "Werken bij Transdev betekent dat je deel uitmaakt van een internationale organisatie. Een dynamisch bedrijf waar de ontwikkelingen elkaar in rap tempo ...",
       "scoreNotes": "Eigen careers-site SERP: Monteur / Diagnosetechnicus | Haarlem | Werken bij Transdev",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-06T10:10:06.817Z",
-      "updatedAt": "2026-10-06T10:10:11.040Z"
+      "updatedAt": "2026-10-06T10:10:29.230Z"
     }
   ],
   "carerixLinks": [
@@ -3875,6 +3875,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-05T14:05:02.495Z"
+    },
+    {
+      "id": "6c94fa0e-de17-42b0-9b13-def278f6df27",
+      "findingId": "7f49b184-624b-4466-9a0f-fe720e8ca7e7",
+      "companyId": "105013",
+      "contactId": "379079",
+      "vacancyId": "249103",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-06T10:10:29.230Z"
     }
   ],
   "exports": [
