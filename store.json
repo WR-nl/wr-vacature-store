@@ -3535,9 +3535,9 @@
       "roleSummary": "Wij hopen dat je reageert op onze vacature elektricien. Een goede techneut kunnen wij altijd gebruiken. Vind bij ons je nieuwe baan! Je komt dan te werken bij ...",
       "scoreNotes": "Eigen careers-site SERP: Elektricien vacature - Werken bij Van Delft",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-06T10:12:06.156Z",
-      "updatedAt": "2026-10-06T10:12:09.957Z"
+      "updatedAt": "2026-10-06T10:12:30.215Z"
     }
   ],
   "carerixLinks": [
@@ -3903,6 +3903,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-06T10:10:29.230Z"
+    },
+    {
+      "id": "af3352ac-9ca2-4b0c-812a-402b533c79d4",
+      "findingId": "7155d83d-0519-4505-b8c9-b21533b35ccc",
+      "companyId": "105014",
+      "contactId": "379080",
+      "vacancyId": "249104",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-06T10:12:30.215Z"
     }
   ],
   "exports": [
