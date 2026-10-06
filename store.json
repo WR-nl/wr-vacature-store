@@ -3552,9 +3552,9 @@
       "roleSummary": "Je vindt op onze website het actuele aanbod voor een elektromonteur vacature, naast allerlei andere interessante functies. Als elektromonteur ben je ...",
       "scoreNotes": "Eigen careers-site SERP: Elektromonteur vacature - Werken bij Van Delft",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-06T10:14:00.508Z",
-      "updatedAt": "2026-10-06T10:14:04.771Z"
+      "updatedAt": "2026-10-06T10:14:18.375Z"
     }
   ],
   "carerixLinks": [
@@ -3931,6 +3931,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-06T10:12:30.215Z"
+    },
+    {
+      "id": "465cd8fb-84a0-47fa-9a9b-892b4c9ed3be",
+      "findingId": "da5562e5-90ef-4fb7-9f2c-e9df38ebb45b",
+      "companyId": "105014",
+      "contactId": "379080",
+      "vacancyId": "249105",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-06T10:14:18.375Z"
     }
   ],
   "exports": [
