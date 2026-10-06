@@ -3586,9 +3586,9 @@
       "roleSummary": "Het actuele aanbod monteur vacatures vind je op ons vacature-overzicht. ... Werken bij VDL. Over ons · Onze VDL-bedrijven · Arbeidsvoorwaarden · Vacatures in ...",
       "scoreNotes": "Eigen careers-site SERP: Vacatures voor monteurs | VDL Groep",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-06T10:20:47.714Z",
-      "updatedAt": "2026-10-06T10:20:51.844Z"
+      "updatedAt": "2026-10-06T10:21:07.699Z"
     }
   ],
   "carerixLinks": [
@@ -3987,6 +3987,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-06T10:19:10.310Z"
+    },
+    {
+      "id": "6f22aa9a-7842-4461-aa4c-f6d43c966b70",
+      "findingId": "4cecf790-068a-41d5-a2f9-91c65e6ce3ec",
+      "companyId": "41029",
+      "contactId": "379082",
+      "vacancyId": "249107",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-06T10:21:07.699Z"
     }
   ],
   "exports": [
