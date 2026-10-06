@@ -4165,13 +4165,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Monteur / Diagnosetechnicus | Haarlem",
-    "etaSeconds": 1455,
-    "updatedAt": "2026-10-06T10:10:27.970Z",
-    "workerHeartbeatAt": "2026-10-06T10:10:27.801Z",
+    "stage": "searching",
+    "message": "Gesynct: Monteur / Diagnosetechnicus | Haarlem (nieuwe OG 105013, Vac 249103)",
+    "etaSeconds": 1440,
+    "updatedAt": "2026-10-06T10:10:31.744Z",
+    "workerHeartbeatAt": "2026-10-06T10:10:31.615Z",
     "assignmentId": "e3fca6cc-f448-497b-ab63-05dc5f590e55",
-    "currentIndex": 1,
+    "currentIndex": 2,
     "targetCount": 10,
     "startedAt": "2026-10-06T10:09:47.174Z"
   }
