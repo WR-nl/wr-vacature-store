@@ -4213,9 +4213,9 @@
       "roleSummary": "Werken bij Mogelijk. Home · Dit zijn wij · Vacatures · Stages · Traineeships · Blog · Contact. IT Support Medewerker. Alle vacatures. IT Support Medewerker.",
       "scoreNotes": "Eigen careers-site SERP: IT Support Medewerker | Vacature",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:25:49.378Z",
-      "updatedAt": "2026-10-07T02:25:53.417Z"
+      "updatedAt": "2026-10-07T02:26:07.245Z"
     }
   ],
   "carerixLinks": [
@@ -4768,6 +4768,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:24:03.394Z"
+    },
+    {
+      "id": "bd644527-3766-488a-aee5-16fd558fea3f",
+      "findingId": "4d3f7e2e-dc8e-4e1f-957c-b1468bf155ca",
+      "companyId": "105021",
+      "contactId": "379114",
+      "vacancyId": "249134",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:26:07.245Z"
     }
   ],
   "exports": [
