@@ -3761,9 +3761,9 @@
       "roleSummary": "Bekend met firewall-, SD-WAN, SD-LAN, wireless- en IoT-oplossingen;; Kennis van en ervaring met cloud networking (Azure) is een pré;; HBO werk- en ...",
       "scoreNotes": "Eigen careers-site SERP: Senior Netwerk Engineer – IT networking",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:00:16.792Z",
-      "updatedAt": "2026-10-07T02:00:21.358Z"
+      "updatedAt": "2026-10-07T02:00:49.202Z"
     }
   ],
   "carerixLinks": [
@@ -4184,6 +4184,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-06T10:22:59.988Z"
+    },
+    {
+      "id": "b4c0b94d-4b57-45a0-8203-72cc16a0b35d",
+      "findingId": "e881c4fd-7ca0-4233-b7fa-a518167c1ee1",
+      "companyId": "105016",
+      "contactId": "379103",
+      "vacancyId": "249122",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:00:49.202Z"
     }
   ],
   "exports": [
