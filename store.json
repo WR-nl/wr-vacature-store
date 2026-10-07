@@ -4247,9 +4247,9 @@
       "roleSummary": "Van AI en low-code tot cloud en robotisering; jij werkt met tools van nu aan oplossingen voor morgen.",
       "scoreNotes": "Eigen careers-site SERP: Werken in de IT. Jij doet het bij a.s.r.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:33:41.108Z",
-      "updatedAt": "2026-10-07T02:33:45.312Z"
+      "updatedAt": "2026-10-07T02:34:01.166Z"
     }
   ],
   "carerixLinks": [
@@ -4824,6 +4824,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:29:58.897Z"
+    },
+    {
+      "id": "2c6421ba-eac9-40c7-898c-9350ed768dfe",
+      "findingId": "11de7981-2c44-421c-8f20-7994d10811b8",
+      "companyId": "105023",
+      "contactId": "379116",
+      "vacancyId": "249136",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:34:01.166Z"
     }
   ],
   "exports": [
