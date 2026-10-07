@@ -5490,13 +5490,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Mechanical & Electrical Engineering Vacatures bij Haskoning",
-    "etaSeconds": 175,
-    "updatedAt": "2026-10-07T02:56:57.648Z",
-    "workerHeartbeatAt": "2026-10-07T02:56:57.505Z",
+    "stage": "searching",
+    "message": "Gesynct: Mechanical & Electrical Engineering Vacatures bij Haskoning (bestaande OG 678, Vac 249142)",
+    "etaSeconds": 160,
+    "updatedAt": "2026-10-07T02:57:01.750Z",
+    "workerHeartbeatAt": "2026-10-07T02:57:01.597Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 19,
+    "currentIndex": 20,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
