@@ -5346,13 +5346,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: DevOps Engineer - Werken bij de SVB",
-    "etaSeconds": 815,
-    "updatedAt": "2026-10-07T02:42:00.942Z",
-    "workerHeartbeatAt": "2026-10-07T02:42:00.644Z",
+    "stage": "searching",
+    "message": "Gesynct: DevOps Engineer - Werken bij de SVB (bestaande OG 104240, Vac 249138)",
+    "etaSeconds": 800,
+    "updatedAt": "2026-10-07T02:42:05.226Z",
+    "workerHeartbeatAt": "2026-10-07T02:42:05.035Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 15,
+    "currentIndex": 16,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
