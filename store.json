@@ -5419,13 +5419,14 @@
     "enabled": true,
     "busy": true,
     "stage": "searching",
-    "message": "Internet zoeken (ronde 1): IT 3.0",
+    "message": "Zoeken vervolg (ronde 2/12): IT 3.0",
     "etaSeconds": 480,
-    "updatedAt": "2026-10-07T02:50:32.211Z",
-    "workerHeartbeatAt": "2026-10-07T02:50:30.545Z",
+    "updatedAt": "2026-10-07T02:51:08.940Z",
+    "workerHeartbeatAt": "2026-10-07T02:51:08.765Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
     "currentIndex": 18,
     "targetCount": 20,
-    "startedAt": "2026-10-07T02:03:24.668Z"
+    "startedAt": "2026-10-07T02:03:24.668Z",
+    "searchRound": 1
   }
 }
