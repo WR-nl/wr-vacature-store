@@ -4649,12 +4649,11 @@
     "stage": "searching",
     "message": "Zoeken: IT 2.0",
     "etaSeconds": 160,
-    "updatedAt": "2026-10-07T02:01:50.620Z",
+    "updatedAt": "2026-10-07T02:01:53.937Z",
     "workerHeartbeatAt": "2026-10-07T02:01:40.587Z",
     "assignmentId": "70faaa8c-77ce-4bbd-98c8-30d242c71b19",
     "currentIndex": 1,
     "targetCount": 1,
-    "startedAt": "2026-10-07T02:01:36.060Z",
-    "searchRound": 0
+    "startedAt": "2026-10-07T02:01:36.060Z"
   }
 }
