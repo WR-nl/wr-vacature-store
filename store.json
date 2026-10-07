@@ -4986,13 +4986,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Vacature — Senior Netwerk Engineer",
-    "etaSeconds": 2415,
-    "updatedAt": "2026-10-07T02:14:29.063Z",
-    "workerHeartbeatAt": "2026-10-07T02:14:28.888Z",
+    "stage": "searching",
+    "message": "Zoeken: IT 3.0",
+    "etaSeconds": 2400,
+    "updatedAt": "2026-10-07T02:14:30.913Z",
+    "workerHeartbeatAt": "2026-10-07T02:14:30.760Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 5,
+    "currentIndex": 6,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
