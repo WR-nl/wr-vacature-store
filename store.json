@@ -5313,12 +5313,11 @@
     "stage": "searching",
     "message": "Internet zoeken (ronde 3): IT 3.0",
     "etaSeconds": 960,
-    "updatedAt": "2026-10-07T02:41:31.971Z",
+    "updatedAt": "2026-10-07T02:41:43.846Z",
     "workerHeartbeatAt": "2026-10-07T02:41:30.634Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
     "currentIndex": 15,
     "targetCount": 20,
-    "startedAt": "2026-10-07T02:03:24.668Z",
-    "searchRound": 2
+    "startedAt": "2026-10-07T02:03:24.668Z"
   }
 }
