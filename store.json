@@ -4145,9 +4145,9 @@
       "roleSummary": "Werken bij EDSN · Vacatures · Vacatures · Open sollicitatie · Vakgebieden · Business & Change · Staff & Support · Technology & Data. Over EDSN. Wie zijn wij?",
       "scoreNotes": "Eigen careers-site SERP: Cloud Platform Engineer vacatures",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:17:41.972Z",
-      "updatedAt": "2026-10-07T02:17:46.395Z"
+      "updatedAt": "2026-10-07T02:17:58.659Z"
     }
   ],
   "carerixLinks": [
@@ -4656,6 +4656,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:15:17.213Z"
+    },
+    {
+      "id": "71287c7c-f691-450f-ad44-c738546203af",
+      "findingId": "7a27fd3f-d535-4311-b868-34750f49c6e8",
+      "companyId": "105018",
+      "contactId": "379106",
+      "vacancyId": "249130",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:17:58.659Z"
     }
   ],
   "exports": [
