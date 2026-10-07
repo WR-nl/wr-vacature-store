@@ -4950,13 +4950,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Vacature Cloud engineer",
-    "etaSeconds": 2575,
-    "updatedAt": "2026-10-07T02:09:28.925Z",
-    "workerHeartbeatAt": "2026-10-07T02:09:28.798Z",
+    "stage": "searching",
+    "message": "Gesynct: Vacature Cloud engineer (nieuwe OG 105019, Vac 249127)",
+    "etaSeconds": 2560,
+    "updatedAt": "2026-10-07T02:09:33.022Z",
+    "workerHeartbeatAt": "2026-10-07T02:09:32.875Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 4,
+    "currentIndex": 5,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
