@@ -4233,6 +4233,23 @@
       "status": "mail_ready",
       "createdAt": "2026-10-07T02:29:40.975Z",
       "updatedAt": "2026-10-07T02:30:00.457Z"
+    },
+    {
+      "id": "11de7981-2c44-421c-8f20-7994d10811b8",
+      "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
+      "jobTitle": "Werken in de IT. Jij doet het bij a.s.r. | a.s.r.",
+      "companyName": "Asr",
+      "sourceUrl": "https://www.werkenbijasr.nl/vakgebieden/it",
+      "uriHost": "werkenbijasr.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Van AI en low-code tot cloud en robotisering; jij werkt met tools van nu aan oplossingen voor morgen.",
+      "scoreNotes": "Eigen careers-site SERP: Werken in de IT. Jij doet het bij a.s.r.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-10-07T02:33:41.108Z",
+      "updatedAt": "2026-10-07T02:33:41.108Z"
     }
   ],
   "carerixLinks": [
