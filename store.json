@@ -4199,6 +4199,23 @@
       "status": "mail_ready",
       "createdAt": "2026-10-07T02:23:45.202Z",
       "updatedAt": "2026-10-07T02:24:04.729Z"
+    },
+    {
+      "id": "4d3f7e2e-dc8e-4e1f-957c-b1468bf155ca",
+      "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
+      "jobTitle": "IT Support Medewerker | Vacature",
+      "companyName": "Werken bij Mogelijk",
+      "sourceUrl": "https://werkenbijmogelijk.nl/vacatures/it-support-specialist/",
+      "uriHost": "werkenbijmogelijk.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Werken bij Mogelijk. Home · Dit zijn wij · Vacatures · Stages · Traineeships · Blog · Contact. IT Support Medewerker. Alle vacatures. IT Support Medewerker.",
+      "scoreNotes": "Eigen careers-site SERP: IT Support Medewerker | Vacature",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-10-07T02:25:49.378Z",
+      "updatedAt": "2026-10-07T02:25:49.378Z"
     }
   ],
   "carerixLinks": [
