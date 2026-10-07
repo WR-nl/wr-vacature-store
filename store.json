@@ -4366,9 +4366,9 @@
       "roleSummary": "Waar ben je naar op zoek? · Alle vacatures (24 resultaten) · Monitoring & Event Management Specialist · Testengineer · Applicatie Beheerder (C1 level Dutch required).",
       "scoreNotes": "Eigen careers-site SERP: Vacatures",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T03:02:42.914Z",
-      "updatedAt": "2026-10-07T03:02:47.291Z"
+      "updatedAt": "2026-10-07T03:03:05.153Z"
     }
   ],
   "carerixLinks": [
@@ -5020,6 +5020,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:56:58.997Z"
+    },
+    {
+      "id": "17d38fc1-afad-4b5b-b531-060d50d72f62",
+      "findingId": "007bba95-7042-4476-8cd5-b74213e196b5",
+      "companyId": "97664",
+      "contactId": "379120",
+      "vacancyId": "249143",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T03:03:05.153Z"
     }
   ],
   "exports": [
