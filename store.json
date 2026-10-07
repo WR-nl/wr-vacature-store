@@ -4914,13 +4914,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: IT functieprofielen | Servicedesk medewerker | Werken bij de SVB",
-    "etaSeconds": 2735,
-    "updatedAt": "2026-10-07T02:07:47.061Z",
-    "workerHeartbeatAt": "2026-10-07T02:07:46.942Z",
+    "stage": "searching",
+    "message": "Gesynct: IT functieprofielen | Servicedesk medewerker | Werken bij de SVB (bestaande OG 104240, Vac 249126)",
+    "etaSeconds": 2720,
+    "updatedAt": "2026-10-07T02:07:50.848Z",
+    "workerHeartbeatAt": "2026-10-07T02:07:50.711Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 3,
+    "currentIndex": 4,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
