@@ -4165,6 +4165,23 @@
       "status": "mail_ready",
       "createdAt": "2026-10-07T02:19:25.009Z",
       "updatedAt": "2026-10-07T02:19:44.318Z"
+    },
+    {
+      "id": "519ae0f2-2427-47eb-abf2-e45caec904f7",
+      "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
+      "jobTitle": "Vacatures van Acknowledge",
+      "companyName": "Acknowledge",
+      "sourceUrl": "https://www.acknowledge.nl/werken-bij-acknowledge/onze-vacatures/",
+      "uriHost": "acknowledge.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Homepage Werken bij Acknowledge Onze vacatures. Onze vacatures. Werk ... Je komt als cloud-engineer voor Windows terecht in het automationteam van ...",
+      "scoreNotes": "Eigen careers-site SERP: Onze vacatures - Werken bij Acknowledge",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-10-07T02:21:22.732Z",
+      "updatedAt": "2026-10-07T02:21:22.732Z"
     }
   ],
   "carerixLinks": [
