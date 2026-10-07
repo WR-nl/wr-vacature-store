@@ -5202,13 +5202,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: IT Support Medewerker | Vacature",
-    "etaSeconds": 1455,
-    "updatedAt": "2026-10-07T02:26:05.694Z",
-    "workerHeartbeatAt": "2026-10-07T02:26:05.523Z",
+    "stage": "searching",
+    "message": "Gesynct: IT Support Medewerker | Vacature (nieuwe OG 105021, Vac 249134)",
+    "etaSeconds": 1440,
+    "updatedAt": "2026-10-07T02:26:09.974Z",
+    "workerHeartbeatAt": "2026-10-07T02:26:09.808Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 11,
+    "currentIndex": 12,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
