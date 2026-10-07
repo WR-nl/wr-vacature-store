@@ -4080,6 +4080,23 @@
       "status": "mail_ready",
       "createdAt": "2026-10-07T02:07:31.022Z",
       "updatedAt": "2026-10-07T02:07:49.591Z"
+    },
+    {
+      "id": "3efe0e02-1ef4-4fc5-be37-29cf52a5e69b",
+      "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
+      "jobTitle": "Vacature Cloud engineer",
+      "companyName": "Borg Osc",
+      "sourceUrl": "https://www.werkenbijborg-osc.nl/vacatures/cloud-engineer/",
+      "uriHost": "werkenbijborg-osc.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Als Cloud Engineer ben je in grote lijnen bezig met het analyseren, ontwikkelen, implementeren en beheren van cloud oplossingen. In de praktijk kunnen dit hele ...",
+      "scoreNotes": "Eigen careers-site SERP: Vacature Cloud engineer",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-10-07T02:09:11.720Z",
+      "updatedAt": "2026-10-07T02:09:11.720Z"
     }
   ],
   "carerixLinks": [
