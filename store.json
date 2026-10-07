@@ -4111,9 +4111,9 @@
       "roleSummary": "Ga naar de homepagina van Werken bij UMC Utrecht. Alle vacatures. Interesses. Patiëntenzorg · Verpleegkunde · IC-Verpleegkundige · SEH-Verpleegkundige ...",
       "scoreNotes": "Eigen careers-site SERP: Senior Netwerk Engineer - Vacature",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:12:07.301Z",
-      "updatedAt": "2026-10-07T02:12:11.198Z"
+      "updatedAt": "2026-10-07T02:12:25.978Z"
     }
   ],
   "carerixLinks": [
@@ -4600,6 +4600,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:09:30.240Z"
+    },
+    {
+      "id": "6c3038d6-53e2-487e-80b4-2d05950eaf19",
+      "findingId": "bd8ebd41-b50b-4af7-8f24-e4d0d4f50dee",
+      "companyId": "16984",
+      "contactId": "379109",
+      "vacancyId": "249128",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:12:25.978Z"
     }
   ],
   "exports": [
