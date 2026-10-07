@@ -5311,14 +5311,14 @@
     "enabled": true,
     "busy": true,
     "stage": "searching",
-    "message": "Internet zoeken (ronde 2): IT 3.0",
+    "message": "Zoeken vervolg (ronde 3/12): IT 3.0",
     "etaSeconds": 960,
-    "updatedAt": "2026-10-07T02:39:32.150Z",
-    "workerHeartbeatAt": "2026-10-07T02:39:30.454Z",
+    "updatedAt": "2026-10-07T02:39:43.627Z",
+    "workerHeartbeatAt": "2026-10-07T02:39:43.409Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
     "currentIndex": 15,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z",
-    "searchRound": 1
+    "searchRound": 2
   }
 }
