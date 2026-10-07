@@ -4264,9 +4264,9 @@
       "roleSummary": "Werken bij QNP. Vacatures Open sollicitatie Verhalen van collega's. Over QNP. Over QNP Nieuws Contact. © 2021 - 2026 Werken bij QNP Privacy statement Cookies ...",
       "scoreNotes": "Eigen careers-site SERP: Project Engineer gezocht!",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:35:40.371Z",
-      "updatedAt": "2026-10-07T02:35:44.723Z"
+      "updatedAt": "2026-10-07T02:35:57.142Z"
     }
   ],
   "carerixLinks": [
@@ -4852,6 +4852,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:34:01.166Z"
+    },
+    {
+      "id": "bb9cc1eb-bf99-4403-b82c-db71f492d5f4",
+      "findingId": "32665d1a-1b8a-4db8-a863-475b65ed0562",
+      "companyId": "105020",
+      "contactId": "379110",
+      "vacancyId": "249137",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:35:57.142Z"
     }
   ],
   "exports": [
