@@ -4267,6 +4267,23 @@
       "status": "mail_ready",
       "createdAt": "2026-10-07T02:35:40.371Z",
       "updatedAt": "2026-10-07T02:35:58.351Z"
+    },
+    {
+      "id": "0f5205a8-84b9-4274-bcdb-7ce6ccaff690",
+      "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
+      "jobTitle": "DevOps Engineer - Werken bij de SVB",
+      "companyName": "Werken bij de SVB",
+      "sourceUrl": "https://werkenbijdesvb.nl/vacature/devops-engineer-1333665/",
+      "uriHost": "werkenbijdesvb.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Er is geen informatie beschikbaar voor deze pagina.",
+      "scoreNotes": "Eigen careers-site SERP: https://werkenbijdesvb.nl/vacature/devops-engineer...",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-10-07T02:41:45.193Z",
+      "updatedAt": "2026-10-07T02:41:45.193Z"
     }
   ],
   "carerixLinks": [
