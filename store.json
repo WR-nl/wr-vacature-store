@@ -4809,12 +4809,11 @@
     "stage": "searching",
     "message": "Internet zoeken (ronde 1): IT 3.0",
     "etaSeconds": 3200,
-    "updatedAt": "2026-10-07T02:03:29.806Z",
+    "updatedAt": "2026-10-07T02:03:50.422Z",
     "workerHeartbeatAt": "2026-10-07T02:03:28.317Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
     "currentIndex": 1,
     "targetCount": 20,
-    "startedAt": "2026-10-07T02:03:24.668Z",
-    "searchRound": 0
+    "startedAt": "2026-10-07T02:03:24.668Z"
   }
 }
