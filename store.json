@@ -4332,9 +4332,9 @@
       "roleSummary": "Close Chat. Hi! Heb je een interessante vacature gezien of wil je meer weten over werken bij ons? Laat het ons weten, en we helpen je graag verder! 17:00.",
       "scoreNotes": "Eigen careers-site SERP: Production Support Engineer 5-ploeg",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:52:41.489Z",
-      "updatedAt": "2026-10-07T02:52:45.621Z"
+      "updatedAt": "2026-10-07T02:53:00.247Z"
     }
   ],
   "carerixLinks": [
@@ -4964,6 +4964,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:48:18.020Z"
+    },
+    {
+      "id": "a3e34047-bbf3-4fd4-97ee-8caf2c99d7b1",
+      "findingId": "82a4152f-1a9f-4171-bd07-7c5cb142085a",
+      "companyId": "105024",
+      "contactId": "379118",
+      "vacancyId": "249141",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:53:00.247Z"
     }
   ],
   "exports": [
