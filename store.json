@@ -5205,12 +5205,11 @@
     "stage": "searching",
     "message": "Internet zoeken (ronde 2): IT 3.0",
     "etaSeconds": 1440,
-    "updatedAt": "2026-10-07T02:29:31.754Z",
+    "updatedAt": "2026-10-07T02:29:39.733Z",
     "workerHeartbeatAt": "2026-10-07T02:29:30.475Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
     "currentIndex": 12,
     "targetCount": 20,
-    "startedAt": "2026-10-07T02:03:24.668Z",
-    "searchRound": 1
+    "startedAt": "2026-10-07T02:03:24.668Z"
   }
 }
