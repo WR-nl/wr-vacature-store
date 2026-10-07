@@ -4230,9 +4230,9 @@
       "roleSummary": "... werken bij ons verreweg de meeste EPLAN Certified Engineers. Hierdoor voeren we de meest indrukwekkende en complexe projecten uit, in alle sectoren. Vanuit ...",
       "scoreNotes": "Eigen careers-site SERP: Junior Hardware Engineer Eplan",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:29:40.975Z",
-      "updatedAt": "2026-10-07T02:29:45.078Z"
+      "updatedAt": "2026-10-07T02:29:58.897Z"
     }
   ],
   "carerixLinks": [
@@ -4796,6 +4796,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:26:07.245Z"
+    },
+    {
+      "id": "bf6de0c9-5e1f-4a76-909f-e4ef8062aa2a",
+      "findingId": "f8db3c5b-9620-4bd1-8ad9-7eeead87d60e",
+      "companyId": "105022",
+      "contactId": "379115",
+      "vacancyId": "249135",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:29:58.897Z"
     }
   ],
   "exports": [
