@@ -5238,13 +5238,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Junior Hardware Engineer Eplan - Werken-bij-MyAutomation",
-    "etaSeconds": 1295,
-    "updatedAt": "2026-10-07T02:29:57.414Z",
-    "workerHeartbeatAt": "2026-10-07T02:29:57.223Z",
+    "stage": "searching",
+    "message": "Gesynct: Junior Hardware Engineer Eplan - Werken-bij-MyAutomation (nieuwe OG 105022, Vac 249135)",
+    "etaSeconds": 1280,
+    "updatedAt": "2026-10-07T02:30:02.112Z",
+    "workerHeartbeatAt": "2026-10-07T02:30:01.884Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 12,
+    "currentIndex": 13,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
