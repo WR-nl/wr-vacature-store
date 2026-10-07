@@ -5418,13 +5418,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Vacature Network Engineer (Cisco) - Werken bij ADTS",
-    "etaSeconds": 495,
-    "updatedAt": "2026-10-07T02:48:16.540Z",
-    "workerHeartbeatAt": "2026-10-07T02:48:16.361Z",
+    "stage": "searching",
+    "message": "Gesynct: Vacature Network Engineer (Cisco) - Werken bij ADTS (bestaande OG 3180, Vac 249140)",
+    "etaSeconds": 480,
+    "updatedAt": "2026-10-07T02:48:21.037Z",
+    "workerHeartbeatAt": "2026-10-07T02:48:20.836Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 17,
+    "currentIndex": 18,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
