@@ -4077,9 +4077,9 @@
       "roleSummary": "Welke functieprofielen hanteert de SVB binnen het IT vakgebied? Lees meer over het werk van een Servicedesk medewerker.",
       "scoreNotes": "Eigen careers-site SERP: IT functieprofielen | Servicedesk medewerker | Werken bij de SVB",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:07:31.022Z",
-      "updatedAt": "2026-10-07T02:07:34.729Z"
+      "updatedAt": "2026-10-07T02:07:48.312Z"
     }
   ],
   "carerixLinks": [
@@ -4544,6 +4544,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:06:03.114Z"
+    },
+    {
+      "id": "0b4620cf-a92a-4f56-a9f4-0db8fa70640a",
+      "findingId": "b44592b7-4e1c-416a-8991-54aa88eb22b5",
+      "companyId": "104240",
+      "contactId": "379107",
+      "vacancyId": "249126",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:07:48.312Z"
     }
   ],
   "exports": [
