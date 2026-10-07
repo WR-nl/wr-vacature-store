@@ -4489,12 +4489,11 @@
     "stage": "searching",
     "message": "Internet zoeken (ronde 1): IT services",
     "etaSeconds": 160,
-    "updatedAt": "2026-10-07T02:00:03.288Z",
+    "updatedAt": "2026-10-07T02:00:15.523Z",
     "workerHeartbeatAt": "2026-10-07T02:00:01.650Z",
     "assignmentId": "9b005b5a-588e-453d-8e57-5c702b261b33",
     "currentIndex": 1,
     "targetCount": 1,
-    "startedAt": "2026-10-07T01:59:58.078Z",
-    "searchRound": 0
+    "startedAt": "2026-10-07T01:59:58.078Z"
   }
 }
