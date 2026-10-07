@@ -5310,13 +5310,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Project Engineer gezocht! - Werken bij QNP",
-    "etaSeconds": 975,
-    "updatedAt": "2026-10-07T02:35:55.668Z",
-    "workerHeartbeatAt": "2026-10-07T02:35:55.525Z",
+    "stage": "searching",
+    "message": "Gesynct: Project Engineer gezocht! - Werken bij QNP (bestaande OG 105020, Vac 249137)",
+    "etaSeconds": 960,
+    "updatedAt": "2026-10-07T02:35:59.568Z",
+    "workerHeartbeatAt": "2026-10-07T02:35:59.435Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 14,
+    "currentIndex": 15,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
