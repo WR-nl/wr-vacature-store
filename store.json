@@ -4842,13 +4842,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Engineering vacatures Feadship Nederland",
-    "etaSeconds": 3055,
-    "updatedAt": "2026-10-07T02:04:12.243Z",
-    "workerHeartbeatAt": "2026-10-07T02:04:12.068Z",
+    "stage": "searching",
+    "message": "Gesynct: Engineering vacatures Feadship Nederland (bestaande OG 36475, Vac 249124)",
+    "etaSeconds": 3040,
+    "updatedAt": "2026-10-07T02:04:16.479Z",
+    "workerHeartbeatAt": "2026-10-07T02:04:16.159Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 1,
+    "currentIndex": 2,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
