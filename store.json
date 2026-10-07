@@ -4522,10 +4522,11 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "stage": "done",
-    "message": "Klaar — IT services 1/1",
+    "stage": "blocked",
+    "message": "Carerix-API fout: Gedeelde store-schrijven mislukt: GitHub store conflict 409 {\"message\":\"is at ed212a57c504b9bc96699d11907dc269d97e888e but expected 97ecbd7ec4fc2fcebe868f952b1f",
     "etaSeconds": 0,
-    "updatedAt": "2026-10-07T02:00:53.552Z",
-    "workerHeartbeatAt": "2026-10-07T02:00:47.444Z"
+    "updatedAt": "2026-10-07T02:00:56.503Z",
+    "workerHeartbeatAt": "2026-10-07T02:00:53.928Z",
+    "assignmentId": "9b005b5a-588e-453d-8e57-5c702b261b33"
   }
 }
