@@ -5274,13 +5274,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Werken in de IT. Jij doet het bij a.s.r. | a.s.r.",
-    "etaSeconds": 1135,
-    "updatedAt": "2026-10-07T02:33:59.861Z",
-    "workerHeartbeatAt": "2026-10-07T02:33:59.679Z",
+    "stage": "searching",
+    "message": "Gesynct: Werken in de IT. Jij doet het bij a.s.r. | a.s.r. (nieuwe OG 105023, Vac 249136)",
+    "etaSeconds": 1120,
+    "updatedAt": "2026-10-07T02:34:04.016Z",
+    "workerHeartbeatAt": "2026-10-07T02:34:03.873Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 13,
+    "currentIndex": 14,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
