@@ -4315,9 +4315,9 @@
       "roleSummary": "Werken bij ADTS: altijd met plezier aan het werk. Met een hechte groep van ongeveer 10 collega's zorgen we ervoor dat we elke dag met plezier aan het werk ...",
       "scoreNotes": "Eigen careers-site SERP: Vacature Network Engineer (Cisco) - Werken bij ADTS",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:47:59.060Z",
-      "updatedAt": "2026-10-07T02:48:03.161Z"
+      "updatedAt": "2026-10-07T02:48:18.020Z"
     }
   ],
   "carerixLinks": [
@@ -4936,6 +4936,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:45:59.072Z"
+    },
+    {
+      "id": "d0ab17be-fce9-4e3d-b42e-18eebd9dfbc6",
+      "findingId": "d8665448-5116-4d38-b7e9-b11ccdd609cf",
+      "companyId": "3180",
+      "contactId": "379117",
+      "vacancyId": "249140",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:48:18.020Z"
     }
   ],
   "exports": [
