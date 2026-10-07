@@ -5130,13 +5130,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Vacatures van Acknowledge",
-    "etaSeconds": 1775,
-    "updatedAt": "2026-10-07T02:21:44.442Z",
-    "workerHeartbeatAt": "2026-10-07T02:21:44.272Z",
+    "stage": "searching",
+    "message": "Gesynct: Vacatures van Acknowledge (bestaande OG 8225, Vac 249132)",
+    "etaSeconds": 1760,
+    "updatedAt": "2026-10-07T02:21:48.376Z",
+    "workerHeartbeatAt": "2026-10-07T02:21:48.239Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 9,
+    "currentIndex": 10,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
