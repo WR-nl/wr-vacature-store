@@ -4352,6 +4352,23 @@
       "status": "mail_ready",
       "createdAt": "2026-10-07T02:56:40.350Z",
       "updatedAt": "2026-10-07T02:57:00.312Z"
+    },
+    {
+      "id": "007bba95-7042-4476-8cd5-b74213e196b5",
+      "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
+      "jobTitle": "Vacatures | Werken bij UWV in IT",
+      "companyName": "Uwvinit",
+      "sourceUrl": "https://www.werkenbijuwvinit.nl/vacatures",
+      "uriHost": "werkenbijuwvinit.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Waar ben je naar op zoek? · Alle vacatures (24 resultaten) · Monitoring & Event Management Specialist · Testengineer · Applicatie Beheerder (C1 level Dutch required).",
+      "scoreNotes": "Eigen careers-site SERP: Vacatures",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-10-07T03:02:42.914Z",
+      "updatedAt": "2026-10-07T03:02:42.914Z"
     }
   ],
   "carerixLinks": [
