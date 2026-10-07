@@ -4179,9 +4179,9 @@
       "roleSummary": "Homepage Werken bij Acknowledge Onze vacatures. Onze vacatures. Werk ... Je komt als cloud-engineer voor Windows terecht in het automationteam van ...",
       "scoreNotes": "Eigen careers-site SERP: Onze vacatures - Werken bij Acknowledge",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:21:22.732Z",
-      "updatedAt": "2026-10-07T02:21:31.271Z"
+      "updatedAt": "2026-10-07T02:21:45.800Z"
     }
   ],
   "carerixLinks": [
@@ -4712,6 +4712,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:19:42.928Z"
+    },
+    {
+      "id": "32fb4ae6-3d4f-4141-8a07-b1b83b4c67b9",
+      "findingId": "519ae0f2-2427-47eb-abf2-e45caec904f7",
+      "companyId": "8225",
+      "contactId": "379112",
+      "vacancyId": "249132",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:21:45.800Z"
     }
   ],
   "exports": [
