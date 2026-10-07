@@ -5166,13 +5166,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Carrière als Servicedeskmedewerker | Werken bij InWork",
-    "etaSeconds": 1615,
-    "updatedAt": "2026-10-07T02:24:01.555Z",
-    "workerHeartbeatAt": "2026-10-07T02:24:01.368Z",
+    "stage": "searching",
+    "message": "Gesynct: Carrière als Servicedeskmedewerker | Werken bij InWork (bestaande OG 5638, Vac 249133)",
+    "etaSeconds": 1600,
+    "updatedAt": "2026-10-07T02:24:06.144Z",
+    "workerHeartbeatAt": "2026-10-07T02:24:05.977Z",
     "assignmentId": "c7790b3f-9ac9-4b19-8672-66bd44fcbcad",
-    "currentIndex": 10,
+    "currentIndex": 11,
     "targetCount": 20,
     "startedAt": "2026-10-07T02:03:24.668Z"
   }
