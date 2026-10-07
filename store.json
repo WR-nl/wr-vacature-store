@@ -3902,9 +3902,9 @@
       "roleSummary": "Ga naar de homepagina van Werken bij HumanTotalCare · VacaturesFreelance ... Als Cloud Engineer speel je een sleutelrol in het moderniseren, beveiligen ...",
       "scoreNotes": "Eigen careers-site SERP: Cloud Engineer Hengelo",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-10-07T02:01:55.271Z",
-      "updatedAt": "2026-10-07T02:01:59.044Z"
+      "updatedAt": "2026-10-07T02:02:14.110Z"
     }
   ],
   "carerixLinks": [
@@ -4336,6 +4336,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T02:00:49.202Z"
+    },
+    {
+      "id": "2d739a53-dab0-449a-96ac-9a407da98175",
+      "findingId": "9f42a1f2-5b2f-47a9-8784-f64f7f7f86b7",
+      "companyId": "105017",
+      "contactId": "379104",
+      "vacancyId": "249123",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-10-07T02:02:14.110Z"
     }
   ],
   "exports": [
