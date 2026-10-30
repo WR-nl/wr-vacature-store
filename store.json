@@ -3994,7 +3994,7 @@
       "meetsCriteria": true,
       "status": "entering_carerix",
       "createdAt": "2026-10-06T10:24:31.732Z",
-      "updatedAt": "2026-10-30T07:43:57.017Z"
+      "updatedAt": "2026-10-30T07:45:33.985Z"
     },
     {
       "id": "e881c4fd-7ca0-4233-b7fa-a518167c1ee1",
@@ -5529,8 +5529,8 @@
     "stage": "entering",
     "message": "Carerix: Elektromonteur Warmte Installaties | Werken bij Eneco @ Eneco",
     "etaSeconds": 520,
-    "updatedAt": "2026-10-30T07:45:30.872Z",
-    "workerHeartbeatAt": "2026-10-30T07:45:30.668Z",
+    "updatedAt": "2026-10-30T07:45:32.817Z",
+    "workerHeartbeatAt": "2026-10-30T07:45:32.672Z",
     "assignmentId": "e3fca6cc-f448-497b-ab63-05dc5f590e55",
     "currentIndex": 7,
     "targetCount": 10,
