@@ -4600,9 +4600,9 @@
       "roleSummary": "Werken bij een TBI-onderneming betekent werken bij een ... Kan ik je ergens mee helpen met betrekking tot de vacature Servicemonteur Elektrotechniek? + ...",
       "scoreNotes": "Eigen careers-site SERP: Servicemonteur Elektrotechniek",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-03T11:34:38.376Z",
-      "updatedAt": "2026-11-03T11:34:43.439Z"
+      "updatedAt": "2026-11-03T11:35:00.804Z"
     }
   ],
   "carerixLinks": [
@@ -5320,6 +5320,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-03T11:33:06.138Z"
+    },
+    {
+      "id": "85eb866e-770b-4473-92aa-c2d347b028f5",
+      "findingId": "02cbdefb-d6ac-468b-9abb-43d942ded6e4",
+      "companyId": "105180",
+      "contactId": "380034",
+      "vacancyId": "249236",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-03T11:35:00.804Z"
     }
   ],
   "exports": [
