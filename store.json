@@ -4583,9 +4583,9 @@
       "roleSummary": "11 vacatures. Werken bij Veld. Bekijk vacatures. Home · Over ons · Ons team · Vacatures · Contact. Servicemonteur Industrie.",
       "scoreNotes": "Eigen careers-site SERP: Servicemonteur Industrie - Vacature",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-03T11:32:45.331Z",
-      "updatedAt": "2026-11-03T11:32:50.798Z"
+      "updatedAt": "2026-11-03T11:33:06.138Z"
     }
   ],
   "carerixLinks": [
@@ -5292,6 +5292,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-03T11:31:19.361Z"
+    },
+    {
+      "id": "712d36a0-48a0-4c43-9390-ccd28e1d99ff",
+      "findingId": "61a55f85-a789-4ce7-a1c1-7bdef085e445",
+      "companyId": "105179",
+      "contactId": "380033",
+      "vacancyId": "249235",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-03T11:33:06.138Z"
     }
   ],
   "exports": [
