@@ -4566,9 +4566,9 @@
       "roleSummary": "Word Servicemonteur in Emmen en zorg dat meterkasten in Drenthe veilig én klaar zijn voor de energietransitie. Geen dag is hetzelfde: jij helpt klanten thuis met onderhoud en het oplossen van storingen.",
       "scoreNotes": "Eigen careers-site SERP: Vacatures | Werkenbij Enexis",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-03T11:30:58.421Z",
-      "updatedAt": "2026-11-03T11:31:02.777Z"
+      "updatedAt": "2026-11-03T11:31:19.361Z"
     }
   ],
   "carerixLinks": [
@@ -5264,6 +5264,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-03T11:31:08.169Z"
+    },
+    {
+      "id": "d0f65f58-8cbe-4a0e-8a06-afaa141f250a",
+      "findingId": "aa598f9d-df72-43c2-83c4-fa5f24e785db",
+      "companyId": "105178",
+      "contactId": "380031",
+      "vacancyId": "249234",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-03T11:31:19.361Z"
     }
   ],
   "exports": [
