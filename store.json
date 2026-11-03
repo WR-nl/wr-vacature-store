@@ -5639,9 +5639,9 @@
     "enabled": true,
     "busy": false,
     "stage": "done",
-    "message": "Klaar — geen open werk",
+    "message": "Klaar — IT 4.0 1/1 (Vac 249231)",
     "etaSeconds": 0,
-    "updatedAt": "2026-11-03T11:07:03.049Z",
-    "workerHeartbeatAt": "2026-11-03T11:06:58.258Z"
+    "updatedAt": "2026-11-03T11:07:05.369Z",
+    "workerHeartbeatAt": "2026-11-03T11:07:05.133Z"
   }
 }
