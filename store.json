@@ -6026,13 +6026,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Vacature — Servicemonteur W installaties",
-    "etaSeconds": 175,
-    "updatedAt": "2026-11-03T11:42:50.034Z",
-    "workerHeartbeatAt": "2026-11-03T11:42:49.875Z",
+    "stage": "searching",
+    "message": "Gesynct: Vacature — Servicemonteur W installaties (nieuwe OG 105183, Vac 249240)",
+    "etaSeconds": 160,
+    "updatedAt": "2026-11-03T11:42:54.358Z",
+    "workerHeartbeatAt": "2026-11-03T11:42:54.151Z",
     "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
-    "currentIndex": 9,
+    "currentIndex": 10,
     "targetCount": 10,
     "startedAt": "2026-11-03T11:28:24.532Z"
   }
