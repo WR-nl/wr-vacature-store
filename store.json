@@ -5783,13 +5783,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "searching",
-    "message": "Gesynct: Vacature Servicemonteur | Werken bij Hanab (bestaande OG 105016, Vac 249233)",
-    "etaSeconds": 1280,
-    "updatedAt": "2026-11-03T11:31:11.129Z",
-    "workerHeartbeatAt": "2026-11-03T11:31:10.944Z",
+    "stage": "syncing",
+    "message": "Sync/export: Vacatures | Werkenbij Enexis",
+    "etaSeconds": 1295,
+    "updatedAt": "2026-11-03T11:31:17.945Z",
+    "workerHeartbeatAt": "2026-11-03T11:31:17.801Z",
     "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
-    "currentIndex": 3,
+    "currentIndex": 2,
     "targetCount": 10,
     "startedAt": "2026-11-03T11:28:24.532Z"
   }
