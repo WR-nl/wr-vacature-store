@@ -4634,9 +4634,26 @@
       "roleSummary": "Als Servicemonteur E bij Romijnders heb je dagelijks contact met onze grote verscheidenheid aan klanten en voer je vooral service- en onderhoudswerkzaamheden uit. Ook ben je ook regelmatig bezig met aanpassingen en uitbreidingen aan elektronische installaties bij onze zakelijke k",
       "scoreNotes": "Eigen careers-site SERP: Werken bij | Werken bij Romijnders",
       "meetsCriteria": true,
-      "status": "found",
+      "status": "entering_carerix",
       "createdAt": "2026-11-03T11:38:48.576Z",
-      "updatedAt": "2026-11-03T11:38:48.576Z"
+      "updatedAt": "2026-11-03T11:38:50.249Z"
+    },
+    {
+      "id": "932f0358-29ad-4d88-b76e-c4cbeb5842f7",
+      "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
+      "jobTitle": "Vacature Servicemonteur – Locatie Hardenberg",
+      "companyName": "Werken bij Loohuis",
+      "sourceUrl": "https://www.werkenbijloohuis.nl/vacatures/servicemonteur",
+      "uriHost": "werkenbijloohuis.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Ben jij expert in installaties? Zoek je een vacature servicemonteur bij een goed georganiseerd, veelzijdig bedrijf met informele werksfeer? Solliciteer nu!",
+      "scoreNotes": "Eigen careers-site SERP: Vacature Servicemonteur – Locatie Hardenberg",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-11-03T11:38:51.679Z",
+      "updatedAt": "2026-11-03T11:38:51.679Z"
     }
   ],
   "carerixLinks": [
