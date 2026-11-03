@@ -5730,13 +5730,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Word Servicemonteur Elektrotechniek bij VDL in Oirschot. Solliciteer nu!",
-    "etaSeconds": 1455,
-    "updatedAt": "2026-11-03T11:29:11.824Z",
-    "workerHeartbeatAt": "2026-11-03T11:29:11.573Z",
+    "stage": "searching",
+    "message": "Gesynct: Word Servicemonteur Elektrotechniek bij VDL in Oirschot. Solliciteer nu! (bestaande OG 41029, Vac 249232)",
+    "etaSeconds": 1440,
+    "updatedAt": "2026-11-03T11:29:16.767Z",
+    "workerHeartbeatAt": "2026-11-03T11:29:16.536Z",
     "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
-    "currentIndex": 1,
+    "currentIndex": 2,
     "targetCount": 10,
     "startedAt": "2026-11-03T11:28:24.532Z"
   }
