@@ -4459,9 +4459,9 @@
       "roleSummary": "Als Junior Full Stack Developer werk je samen met het gloednieuwe, interne ... Waarom werken bij Laurens? Duizenden ouderen vertrouwen iedere dag op de ...",
       "scoreNotes": "Eigen careers-site SERP: Junior Full Stack Developer",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-03T11:06:35.471Z",
-      "updatedAt": "2026-11-03T11:06:40.323Z"
+      "updatedAt": "2026-11-03T11:07:00.273Z"
     }
   ],
   "carerixLinks": [
@@ -5124,6 +5124,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-10-07T03:03:05.153Z"
+    },
+    {
+      "id": "dd4140b4-aabc-46b2-a8b1-0e07394d360d",
+      "findingId": "f696e8b9-7ce0-4bc8-80bf-5a0324382692",
+      "companyId": "105176",
+      "contactId": "380028",
+      "vacancyId": "249231",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-03T11:07:00.273Z"
     }
   ],
   "exports": [
