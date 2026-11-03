@@ -4617,9 +4617,9 @@
       "roleSummary": "Werken bij Horequip volgens onze eigen collega's. “Als je wilt, kan je hier ver komen”. 4. 5. Word jij onze nieuwe Servicemonteur? Solliciteer nu! Naam*. E- ...",
       "scoreNotes": "Eigen careers-site SERP: Servicemonteur (Landelijk)",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-03T11:36:43.774Z",
-      "updatedAt": "2026-11-03T11:36:49.072Z"
+      "updatedAt": "2026-11-03T11:37:05.540Z"
     }
   ],
   "carerixLinks": [
@@ -5348,6 +5348,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-03T11:35:00.804Z"
+    },
+    {
+      "id": "1aff3378-41b7-48c9-b6cf-de267b02443c",
+      "findingId": "42d690d5-5d95-4a11-a11d-5a9e4285ffac",
+      "companyId": "105181",
+      "contactId": "380035",
+      "vacancyId": "249237",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-03T11:37:05.540Z"
     }
   ],
   "exports": [
