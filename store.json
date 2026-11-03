@@ -5990,13 +5990,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Vacature Servicemonteur – Locatie Hardenberg",
-    "etaSeconds": 335,
-    "updatedAt": "2026-11-03T11:40:51.951Z",
-    "workerHeartbeatAt": "2026-11-03T11:40:51.737Z",
+    "stage": "searching",
+    "message": "Gesynct: Vacature Servicemonteur – Locatie Hardenberg (bestaande OG 100868, Vac 249239)",
+    "etaSeconds": 320,
+    "updatedAt": "2026-11-03T11:40:57.568Z",
+    "workerHeartbeatAt": "2026-11-03T11:40:57.347Z",
     "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
-    "currentIndex": 8,
+    "currentIndex": 9,
     "targetCount": 10,
     "startedAt": "2026-11-03T11:28:24.532Z"
   }
