@@ -5527,10 +5527,9 @@
     "enabled": false,
     "busy": false,
     "stage": "blocked",
-    "message": "Carerix-API fout: Carerix write niet verifieerbaar (OG nee / Vac 8887 / URL ok)",
+    "message": "Afgekapt — Elektra en Techniek geannuleerd",
     "etaSeconds": 0,
-    "updatedAt": "2026-11-03T10:49:29.518Z",
-    "workerHeartbeatAt": "2026-11-03T10:49:17.052Z",
-    "assignmentId": "e3fca6cc-f448-497b-ab63-05dc5f590e55"
+    "updatedAt": "2026-11-03T10:49:36.853Z",
+    "workerHeartbeatAt": "2026-11-03T10:49:17.052Z"
   }
 }
