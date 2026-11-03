@@ -4552,6 +4552,23 @@
       "status": "entering_carerix",
       "createdAt": "2026-11-03T11:30:49.481Z",
       "updatedAt": "2026-11-03T11:30:54.663Z"
+    },
+    {
+      "id": "aa598f9d-df72-43c2-83c4-fa5f24e785db",
+      "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
+      "jobTitle": "Vacatures | Werkenbij Enexis",
+      "companyName": "Enexis",
+      "sourceUrl": "https://werkenbij.enexis.nl/vacatures?discipline=techniek_monteurs-elektra-en-gas",
+      "uriHost": "werkenbij.enexis.nl",
+      "locationText": "Nederland",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Word Servicemonteur in Emmen en zorg dat meterkasten in Drenthe veilig én klaar zijn voor de energietransitie. Geen dag is hetzelfde: jij helpt klanten thuis met onderhoud en het oplossen van storingen.",
+      "scoreNotes": "Eigen careers-site SERP: Vacatures | Werkenbij Enexis",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-11-03T11:30:58.421Z",
+      "updatedAt": "2026-11-03T11:30:58.421Z"
     }
   ],
   "carerixLinks": [
