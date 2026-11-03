@@ -4549,9 +4549,9 @@
       "roleSummary": "Servicemonteur Werktuigbouwkunde. Je houdt werktuigbouwkundige installaties in topconditie, voert onderhoud en reparaties uit en voorkomt storingen voor comfort ...",
       "scoreNotes": "Eigen careers-site SERP: Vacature Servicemonteur",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-03T11:30:49.481Z",
-      "updatedAt": "2026-11-03T11:30:54.663Z"
+      "updatedAt": "2026-11-03T11:31:08.169Z"
     },
     {
       "id": "aa598f9d-df72-43c2-83c4-fa5f24e785db",
@@ -5253,6 +5253,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-03T11:29:13.568Z"
+    },
+    {
+      "id": "49b3934a-35bf-42b9-8389-b592b9ba1ba4",
+      "findingId": "6dc67f24-01af-48b2-8987-26aa02c13c3e",
+      "companyId": "105016",
+      "contactId": "379103",
+      "vacancyId": "249233",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-03T11:31:08.169Z"
     }
   ],
   "exports": [
