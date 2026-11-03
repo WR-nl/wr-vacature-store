@@ -4668,9 +4668,9 @@
       "roleSummary": "Ga naar de homepagina van Werken bij ISS ... Als servicemonteur ben je verantwoordelijk voor het uitvoeren en onderhoud aan installaties en systemen.",
       "scoreNotes": "Eigen careers-site SERP: Servicemonteur W installaties",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-03T11:42:32.695Z",
-      "updatedAt": "2026-11-03T11:42:37.384Z"
+      "updatedAt": "2026-11-03T11:42:51.430Z"
     }
   ],
   "carerixLinks": [
@@ -5432,6 +5432,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-03T11:40:53.735Z"
+    },
+    {
+      "id": "fe8d0b0c-69d8-48ba-901c-e27916c98724",
+      "findingId": "71b4bf74-86a5-43b4-8df8-5d33d063d99a",
+      "companyId": "105183",
+      "contactId": "380038",
+      "vacancyId": "249240",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-03T11:42:51.430Z"
     }
   ],
   "exports": [
