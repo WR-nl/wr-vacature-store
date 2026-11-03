@@ -5811,12 +5811,12 @@
     "enabled": true,
     "busy": true,
     "stage": "searching",
-    "message": "Gesynct: Vacatures | Werkenbij Enexis (nieuwe OG 105178, Vac 249234)",
-    "etaSeconds": 1280,
-    "updatedAt": "2026-11-03T11:32:33.202Z",
-    "workerHeartbeatAt": "2026-11-03T11:32:32.947Z",
+    "message": "Zoeken: Servicemonteur Nederland",
+    "etaSeconds": 1120,
+    "updatedAt": "2026-11-03T11:32:35.642Z",
+    "workerHeartbeatAt": "2026-11-03T11:32:35.506Z",
     "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
-    "currentIndex": 3,
+    "currentIndex": 4,
     "targetCount": 10,
     "startedAt": "2026-11-03T11:28:24.532Z"
   }
