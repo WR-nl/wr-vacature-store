@@ -4532,9 +4532,9 @@
       "roleSummary": "Wil jij werken bij een internationaal, innovatief familiebedrijf? VDL ... Home Vacatures Servicemonteur Elektrotechniek. Servicemonteur Elektrotechniek.",
       "scoreNotes": "Eigen careers-site SERP: Servicemonteur Elektrotechniek",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-03T11:28:54.599Z",
-      "updatedAt": "2026-11-03T11:28:59.219Z"
+      "updatedAt": "2026-11-03T11:29:13.568Z"
     }
   ],
   "carerixLinks": [
@@ -5208,6 +5208,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-03T11:07:00.273Z"
+    },
+    {
+      "id": "828da45d-3be0-4c0d-adc5-b8765b366d87",
+      "findingId": "fd80f650-597f-4731-a0ad-78a0c8631707",
+      "companyId": "41029",
+      "contactId": "379082",
+      "vacancyId": "249232",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-03T11:29:13.568Z"
     }
   ],
   "exports": [
