@@ -4445,6 +4445,23 @@
       "status": "mail_ready",
       "createdAt": "2026-10-07T03:02:42.914Z",
       "updatedAt": "2026-10-07T03:03:06.635Z"
+    },
+    {
+      "id": "f696e8b9-7ce0-4bc8-80bf-5a0324382692",
+      "assignmentId": "7b62d5a6-b61a-4a4d-81fa-62ecad4345e7",
+      "jobTitle": "Junior Full Stack Developer - Werken bij Laurens",
+      "companyName": "Werken bij Laurens",
+      "sourceUrl": "https://werkenbij.laurens.nl/vacature/junior-full-stack-developer/",
+      "uriHost": "werkenbij.laurens.nl",
+      "locationText": "Randstad",
+      "websiteLanguage": "Nederlands",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Als Junior Full Stack Developer werk je samen met het gloednieuwe, interne ... Waarom werken bij Laurens? Duizenden ouderen vertrouwen iedere dag op de ...",
+      "scoreNotes": "Eigen careers-site SERP: Junior Full Stack Developer",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-11-03T11:06:35.471Z",
+      "updatedAt": "2026-11-03T11:06:35.471Z"
     }
   ],
   "carerixLinks": [
