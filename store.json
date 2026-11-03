@@ -5697,12 +5697,11 @@
     "stage": "searching",
     "message": "Internet zoeken (ronde 1): Servicemonteur Nederland",
     "etaSeconds": 1600,
-    "updatedAt": "2026-11-03T11:28:31.166Z",
+    "updatedAt": "2026-11-03T11:28:53.122Z",
     "workerHeartbeatAt": "2026-11-03T11:28:29.059Z",
     "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
     "currentIndex": 1,
     "targetCount": 10,
-    "searchRound": 0,
     "startedAt": "2026-11-03T11:28:24.532Z"
   }
 }
