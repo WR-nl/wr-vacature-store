@@ -4651,9 +4651,9 @@
       "roleSummary": "Ben jij expert in installaties? Zoek je een vacature servicemonteur bij een goed georganiseerd, veelzijdig bedrijf met informele werksfeer? Solliciteer nu!",
       "scoreNotes": "Eigen careers-site SERP: Vacature Servicemonteur – Locatie Hardenberg",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-03T11:38:51.679Z",
-      "updatedAt": "2026-11-03T11:40:41.554Z"
+      "updatedAt": "2026-11-03T11:40:53.735Z"
     }
   ],
   "carerixLinks": [
@@ -5404,6 +5404,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-03T11:39:17.738Z"
+    },
+    {
+      "id": "c62a1d32-5f2f-49b8-9cca-2f3f6d19062e",
+      "findingId": "932f0358-29ad-4d88-b76e-c4cbeb5842f7",
+      "companyId": "100868",
+      "contactId": "380037",
+      "vacancyId": "249239",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-03T11:40:53.735Z"
     }
   ],
   "exports": [
