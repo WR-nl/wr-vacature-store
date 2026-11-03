@@ -4687,7 +4687,7 @@
       "meetsCriteria": true,
       "status": "entering_carerix",
       "createdAt": "2026-11-03T11:44:21.414Z",
-      "updatedAt": "2026-11-03T11:44:23.023Z"
+      "updatedAt": "2026-11-03T11:44:26.419Z"
     },
     {
       "id": "4b097321-e6ed-4640-a423-ac229bbf021d",
@@ -6061,10 +6061,10 @@
     "enabled": true,
     "busy": true,
     "stage": "entering",
-    "message": "Carerix: Servicemonteur Werktuigbouwkunde @ Werken bij Croonwolter&dros",
+    "message": "Carerix: Vacature Servicemonteur | Werken bij De Bergjes @ Debergjes",
     "etaSeconds": 40,
-    "updatedAt": "2026-11-03T11:44:31.065Z",
-    "workerHeartbeatAt": "2026-11-03T11:44:30.880Z",
+    "updatedAt": "2026-11-03T11:44:31.283Z",
+    "workerHeartbeatAt": "2026-11-03T11:44:24.502Z",
     "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
     "currentIndex": 10,
     "targetCount": 10,
