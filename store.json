@@ -14,7 +14,7 @@
       "requireOwnCareersSite": true,
       "targetCount": 10,
       "extraPrompt": "",
-      "status": "active",
+      "status": "completed",
       "criteriaSnapshot": {
         "chips": [
           "own_site",
@@ -54,7 +54,7 @@
         "wizard": "HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen."
       },
       "createdAt": "2026-11-03T11:28:24.532Z",
-      "updatedAt": "2026-11-03T11:28:24.532Z"
+      "updatedAt": "2026-11-03T11:44:48.948Z"
     },
     {
       "id": "7b62d5a6-b61a-4a4d-81fa-62ecad4345e7",
