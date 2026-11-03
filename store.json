@@ -4634,9 +4634,9 @@
       "roleSummary": "Als Servicemonteur E bij Romijnders heb je dagelijks contact met onze grote verscheidenheid aan klanten en voer je vooral service- en onderhoudswerkzaamheden uit. Ook ben je ook regelmatig bezig met aanpassingen en uitbreidingen aan elektronische installaties bij onze zakelijke k",
       "scoreNotes": "Eigen careers-site SERP: Werken bij | Werken bij Romijnders",
       "meetsCriteria": true,
-      "status": "synced",
+      "status": "mail_ready",
       "createdAt": "2026-11-03T11:38:48.576Z",
-      "updatedAt": "2026-11-03T11:39:17.738Z"
+      "updatedAt": "2026-11-03T11:39:19.521Z"
     },
     {
       "id": "932f0358-29ad-4d88-b76e-c4cbeb5842f7",
@@ -5958,16 +5958,24 @@
       "format": "markdown",
       "content": "# Vacature-export — Servicemonteur (Landelijk) - Werken bij Horequip\n\n## Opdracht\n- Titel: Servicemonteur Nederland\n- Regio: Nederland (Nederland)\n- Sector: techniek\n- Functies: Servicemonteur\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Servicemonteur (Landelijk) - Werken bij Horequip\n- Bedrijf: Werken bij Horequip\n- Bron-URL: https://werkenbijhorequip.nl/vacatures/onderhoudsmonteur-landelijk/\n- Host: werkenbijhorequip.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Nederland\n- Websitetaal: Nederlands\n- Omvang: Via internet gevonden — SME/mid-size te valideren\n- Samenvatting: Werken bij Horequip volgens onze eigen collega's. “Als je wilt, kan je hier ver komen”. 4. 5. Word jij onze nieuwe Servicemonteur? Solliciteer nu! Naam*. E- ...\n- Criteria-check: voldoet\n- Score-notities: Eigen careers-site SERP: Servicemonteur (Landelijk)\n\n## Carerix\n- Opdrachtgever ID: 105181\n- Contactpersoon ID: 380035\n- Vacature ID: 249237\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Servicemonteur\"\n  ],\n  \"sector\": \"techniek\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-11-03T11:37:07.196Z_",
       "createdAt": "2026-11-03T11:37:07.196Z"
+    },
+    {
+      "id": "6388d1ae-7da4-4515-8843-6c4965c82d40",
+      "findingId": "41aec854-7ded-4a8c-b9a1-c2d18127f50e",
+      "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
+      "format": "markdown",
+      "content": "# Vacature-export — Werken bij | Werken bij Romijnders\n\n## Opdracht\n- Titel: Servicemonteur Nederland\n- Regio: Nederland (Nederland)\n- Sector: techniek\n- Functies: Servicemonteur\n- Size: klein-middelgroot\n- Taalvoorkeur: Nederlands\n- Eigen careers-site verplicht: ja\n- Extra prompt: (geen)\n\n## Gevonden vacature\n- Functie: Werken bij | Werken bij Romijnders\n- Bedrijf: Werken bij Romijnders\n- Bron-URL: https://www.werkenbijromijnders.nl/vacatures/\n- Host: werkenbijromijnders.nl\n- Domein-match OG: hergebruik bestaande opdrachtgever als dit domein al in Carerix staat\n- Locatie: Nederland\n- Websitetaal: Nederlands\n- Omvang: Via internet gevonden — SME/mid-size te valideren\n- Samenvatting: Als Servicemonteur E bij Romijnders heb je dagelijks contact met onze grote verscheidenheid aan klanten en voer je vooral service- en onderhoudswerkzaamheden uit. Ook ben je ook regelmatig bezig met aanpassingen en uitbreidingen aan elektronische installaties bij onze zakelijke k\n- Criteria-check: voldoet\n- Score-notities: Eigen careers-site SERP: Werken bij | Werken bij Romijnders\n\n## Carerix\n- Opdrachtgever ID: 105182\n- Contactpersoon ID: 380036\n- Vacature ID: 249238\n- Groep 8885 OG: ja\n- Groep 8886 CP: ja\n- Groep 8887 Vac: ja\n\n## Module-regels (snapshot)\n```json\n{\n  \"chips\": [\n    \"own_site\",\n    \"admin_role\",\n    \"intl_bank\",\n    \"sme\",\n    \"region\",\n    \"language\",\n    \"domain_og\",\n    \"wizard\",\n    \"groups\"\n  ],\n  \"region\": \"Nederland\",\n  \"country\": \"Nederland\",\n  \"functionTypes\": [\n    \"Servicemonteur\"\n  ],\n  \"sector\": \"techniek\",\n  \"companySize\": \"klein-middelgroot\",\n  \"languagePreference\": \"Nederlands\",\n  \"requireOwnCareersSite\": true,\n  \"extraPrompt\": \"\",\n  \"carerixGroups\": {\n    \"company\": {\n      \"id\": 8885,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"contact\": {\n      \"id\": 8886,\n      \"label\": \"Cursor Marketing\"\n    },\n    \"vacancy\": {\n      \"id\": 8887,\n      \"label\": \"Cursor Marketing\"\n    }\n  },\n  \"wizard\": \"HARD: eerst opdrachtgever zoeken op bedrijf-domein (lokaal /api/companies/by-domain + Carerix wizard ‘bestaande opdrachtgever’). Bij match: bestaande OG hergebruiken, geen nieuwe OG. Alleen bij geen match nieuwe OG invoeren. Daarna contact (naam, email verplicht, telefoon indien bekend, taal = website) en vacature. **Cursor Marketing verplicht** op OG 8885 / Contact 8886 / Vacature 8887 — altijd aanvinken en na Bewaren verifiëren (ook bij hergebruik). Niet vragen om toestemming om in Carerix te runnen.\"\n}\n```\n\n_Gegenereerd: 2026-11-03T11:39:19.521Z_",
+      "createdAt": "2026-11-03T11:39:19.521Z"
     }
   ],
   "agentStatus": {
     "enabled": true,
     "busy": true,
     "stage": "syncing",
-    "message": "Sync/export: Werken bij | Werken bij Romijnders",
+    "message": "Sync/export: Vacature Servicemonteur – Locatie Hardenberg",
     "etaSeconds": 495,
-    "updatedAt": "2026-11-03T11:39:16.061Z",
-    "workerHeartbeatAt": "2026-11-03T11:39:15.905Z",
+    "updatedAt": "2026-11-03T11:39:18.690Z",
+    "workerHeartbeatAt": "2026-11-03T11:39:18.488Z",
     "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
     "currentIndex": 7,
     "targetCount": 10,
