@@ -4702,9 +4702,9 @@
       "roleSummary": "Wil jij aan de slag als Servicemonteur Werktuigbouwkunde in Rotterdam, Amersfoort, Amsterdam en Utrecht bij Croonwolter&dros? Solliciteer in 3 minuten.",
       "scoreNotes": "Eigen careers-site SERP: Servicemonteur Werktuigbouwkunde | Werken bij Croonwolter&dros",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-03T11:44:27.909Z",
-      "updatedAt": "2026-11-03T11:44:32.634Z"
+      "updatedAt": "2026-11-03T11:44:45.824Z"
     }
   ],
   "carerixLinks": [
@@ -5477,6 +5477,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-03T11:42:51.430Z"
+    },
+    {
+      "id": "c44f4cfa-e8c5-4267-8524-bdbffa75be37",
+      "findingId": "4b097321-e6ed-4640-a423-ac229bbf021d",
+      "companyId": "105180",
+      "contactId": "380034",
+      "vacancyId": "249241",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-03T11:44:45.824Z"
     }
   ],
   "exports": [
