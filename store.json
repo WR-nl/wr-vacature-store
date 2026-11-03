@@ -5846,13 +5846,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Servicemonteur Industrie",
-    "etaSeconds": 975,
-    "updatedAt": "2026-11-03T11:33:04.406Z",
-    "workerHeartbeatAt": "2026-11-03T11:33:04.230Z",
+    "stage": "searching",
+    "message": "Gesynct: Servicemonteur Industrie (nieuwe OG 105179, Vac 249235)",
+    "etaSeconds": 960,
+    "updatedAt": "2026-11-03T11:33:09.480Z",
+    "workerHeartbeatAt": "2026-11-03T11:33:09.318Z",
     "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
-    "currentIndex": 4,
+    "currentIndex": 5,
     "targetCount": 10,
     "startedAt": "2026-11-03T11:28:24.532Z"
   }
