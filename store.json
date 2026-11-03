@@ -5882,13 +5882,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Servicemonteur Elektrotechniek",
-    "etaSeconds": 815,
-    "updatedAt": "2026-11-03T11:34:58.886Z",
-    "workerHeartbeatAt": "2026-11-03T11:34:58.729Z",
+    "stage": "searching",
+    "message": "Gesynct: Servicemonteur Elektrotechniek (nieuwe OG 105180, Vac 249236)",
+    "etaSeconds": 800,
+    "updatedAt": "2026-11-03T11:35:04.338Z",
+    "workerHeartbeatAt": "2026-11-03T11:35:04.165Z",
     "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
-    "currentIndex": 5,
+    "currentIndex": 6,
     "targetCount": 10,
     "startedAt": "2026-11-03T11:28:24.532Z"
   }
