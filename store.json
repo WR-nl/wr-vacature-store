@@ -4634,9 +4634,9 @@
       "roleSummary": "Als Servicemonteur E bij Romijnders heb je dagelijks contact met onze grote verscheidenheid aan klanten en voer je vooral service- en onderhoudswerkzaamheden uit. Ook ben je ook regelmatig bezig met aanpassingen en uitbreidingen aan elektronische installaties bij onze zakelijke k",
       "scoreNotes": "Eigen careers-site SERP: Werken bij | Werken bij Romijnders",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-03T11:38:48.576Z",
-      "updatedAt": "2026-11-03T11:38:58.421Z"
+      "updatedAt": "2026-11-03T11:39:17.738Z"
     },
     {
       "id": "932f0358-29ad-4d88-b76e-c4cbeb5842f7",
@@ -5393,6 +5393,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-03T11:37:05.540Z"
+    },
+    {
+      "id": "a90fd184-070b-4d0e-8b69-291a026d7886",
+      "findingId": "41aec854-7ded-4a8c-b9a1-c2d18127f50e",
+      "companyId": "105182",
+      "contactId": "380036",
+      "vacancyId": "249238",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-03T11:39:17.738Z"
     }
   ],
   "exports": [
