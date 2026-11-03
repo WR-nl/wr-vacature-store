@@ -6078,15 +6078,11 @@
   ],
   "agentStatus": {
     "enabled": true,
-    "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Servicemonteur Werktuigbouwkunde",
-    "etaSeconds": 15,
-    "updatedAt": "2026-11-03T11:44:44.201Z",
-    "workerHeartbeatAt": "2026-11-03T11:44:44.016Z",
-    "assignmentId": "c8e8067c-f755-4963-bdfc-94489293d5b7",
-    "currentIndex": 10,
-    "targetCount": 10,
-    "startedAt": "2026-11-03T11:28:24.532Z"
+    "busy": false,
+    "stage": "done",
+    "message": "Klaar — Servicemonteur Nederland 10/10 (Vac 249241)",
+    "etaSeconds": 0,
+    "updatedAt": "2026-11-03T11:44:50.481Z",
+    "workerHeartbeatAt": "2026-11-03T11:44:50.300Z"
   }
 }
