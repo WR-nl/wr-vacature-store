@@ -6814,13 +6814,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Technicien en installations sanitaires et chauffage (h/f) | Emplois chez Gentgen",
-    "etaSeconds": 1135,
-    "updatedAt": "2026-11-06T06:31:53.672Z",
-    "workerHeartbeatAt": "2026-11-06T06:31:53.498Z",
+    "stage": "searching",
+    "message": "Gesynct: Technicien en installations sanitaires et chauffage (h/f) | Emplois chez Gentgen (nieuwe OG 105224, Vac 249330)",
+    "etaSeconds": 1120,
+    "updatedAt": "2026-11-06T06:31:58.335Z",
+    "workerHeartbeatAt": "2026-11-06T06:31:58.169Z",
     "assignmentId": "8d714af0-9a0c-4892-99a8-b4ec0c0041a2",
-    "currentIndex": 3,
+    "currentIndex": 4,
     "targetCount": 10,
     "startedAt": "2026-11-06T06:22:53.602Z"
   }
