@@ -6975,13 +6975,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Monteur de cuisines (m/f/d) – Emplois | HEINEN",
-    "etaSeconds": 495,
-    "updatedAt": "2026-11-06T07:03:32.096Z",
-    "workerHeartbeatAt": "2026-11-06T07:03:31.923Z",
+    "stage": "searching",
+    "message": "Gesynct: Monteur de cuisines (m/f/d) – Emplois | HEINEN (nieuwe OG 105229, Vac 249334)",
+    "etaSeconds": 480,
+    "updatedAt": "2026-11-06T07:03:37.200Z",
+    "workerHeartbeatAt": "2026-11-06T07:03:36.986Z",
     "assignmentId": "8d714af0-9a0c-4892-99a8-b4ec0c0041a2",
-    "currentIndex": 7,
+    "currentIndex": 8,
     "targetCount": 10,
     "startedAt": "2026-11-06T06:22:53.602Z"
   }
