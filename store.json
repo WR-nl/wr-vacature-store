@@ -5226,9 +5226,9 @@
       "roleSummary": "Nous avons trouvé 5 offres d'emploi pour vous · Technicien batiment · Electromécanicien · Technicien batiment · Responsable Maintenance & Technique.",
       "scoreNotes": "Eigen careers-site SERP: 5 offres d'emploi - Technicien luxembourg - Start People",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T06:33:36.352Z",
-      "updatedAt": "2026-11-06T06:33:41.277Z"
+      "updatedAt": "2026-11-06T06:33:53.204Z"
     }
   ],
   "carerixLinks": [
@@ -6144,6 +6144,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T06:31:55.235Z"
+    },
+    {
+      "id": "414b9bfc-0a73-471f-a4d4-dcb65a4d35f3",
+      "findingId": "96bedd43-d292-4435-aeb3-ebcdac2101ee",
+      "companyId": "105225",
+      "contactId": "380187",
+      "vacancyId": "249331",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T06:33:53.204Z"
     }
   ],
   "exports": [
