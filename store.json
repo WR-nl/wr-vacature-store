@@ -5263,6 +5263,23 @@
       "status": "rejected",
       "createdAt": "2026-11-06T06:40:04.353Z",
       "updatedAt": "2026-11-06T06:59:32.956Z"
+    },
+    {
+      "id": "02ddbee3-d9f9-49d3-b346-2df93db3d133",
+      "assignmentId": "8d714af0-9a0c-4892-99a8-b4ec0c0041a2",
+      "jobTitle": "Search Job Opportunities | Veolia",
+      "companyName": "Veolia",
+      "sourceUrl": "https://jobs.veolia.com/en/location/luxembourg-jobs/2702/2960313/2",
+      "uriHost": "jobs.veolia.com",
+      "locationText": "Luxemburg-stad",
+      "websiteLanguage": "Engels",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "14 result[s] Jobs in Luxembourg · Technicien de maintenance (F/H/X) · Frigoriste (F/H/X) · Chargé d'affaires (F/H/X) · Monteur HVAC (F/H/X) - Livange · Technicien de ...",
+      "scoreNotes": "Eigen careers-site SERP: 14 result[s] Jobs in Luxembourg - Veolia",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-11-06T07:01:13.563Z",
+      "updatedAt": "2026-11-06T07:01:13.563Z"
     }
   ],
   "carerixLinks": [
