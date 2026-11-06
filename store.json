@@ -6203,11 +6203,10 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "stage": "blocked",
-    "message": "Carerix-API fout: Gedeelde store-schrijven mislukt: GitHub store conflict 409 {\"message\":\"is at f3fc886664fa811710f275b1feac8cabf0424601 but expected a17547158ea82fc0abc2088e0f05",
+    "stage": "done",
+    "message": "Klaar — geen open werk",
     "etaSeconds": 0,
-    "updatedAt": "2026-11-06T04:58:03.936Z",
-    "workerHeartbeatAt": "2026-11-06T04:58:00.599Z",
-    "assignmentId": "ef4562ec-6e4d-47b0-b333-ad41fc7eb751"
+    "updatedAt": "2026-11-06T04:58:18.383Z",
+    "workerHeartbeatAt": "2026-11-06T04:58:00.599Z"
   }
 }
