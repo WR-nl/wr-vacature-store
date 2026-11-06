@@ -6598,12 +6598,11 @@
     "stage": "searching",
     "message": "Internet zoeken (ronde 4): IT",
     "etaSeconds": 320,
-    "updatedAt": "2026-11-06T05:30:05.949Z",
+    "updatedAt": "2026-11-06T05:30:08.468Z",
     "workerHeartbeatAt": "2026-11-06T05:29:57.625Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
     "currentIndex": 9,
     "targetCount": 10,
-    "startedAt": "2026-11-06T04:59:26.012Z",
-    "searchRound": 3
+    "startedAt": "2026-11-06T04:59:26.012Z"
   }
 }
