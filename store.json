@@ -6396,13 +6396,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Engineering Jobs - Paccar",
-    "etaSeconds": 1295,
-    "updatedAt": "2026-11-06T05:06:33.902Z",
-    "workerHeartbeatAt": "2026-11-06T05:06:33.751Z",
+    "stage": "entering",
+    "message": "Carerix: CACEIS - Ingénieur Application / Développement JAVA Services Financiers H/F @ Caceis",
+    "etaSeconds": 1160,
+    "updatedAt": "2026-11-06T05:06:35.867Z",
+    "workerHeartbeatAt": "2026-11-06T05:06:35.717Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
-    "currentIndex": 2,
+    "currentIndex": 3,
     "targetCount": 10,
     "startedAt": "2026-11-06T04:59:26.012Z"
   }
