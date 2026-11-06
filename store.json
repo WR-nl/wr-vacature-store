@@ -6559,13 +6559,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: PragmaGeeks — Talent pragmatique. Précision geek.",
-    "etaSeconds": 495,
-    "updatedAt": "2026-11-06T05:19:58.703Z",
-    "workerHeartbeatAt": "2026-11-06T05:19:58.337Z",
+    "stage": "searching",
+    "message": "Gesynct: PragmaGeeks — Talent pragmatique. Précision geek. (nieuwe OG 105220, Vac 249325)",
+    "etaSeconds": 480,
+    "updatedAt": "2026-11-06T05:20:03.531Z",
+    "workerHeartbeatAt": "2026-11-06T05:20:03.322Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
-    "currentIndex": 7,
+    "currentIndex": 8,
     "targetCount": 10,
     "startedAt": "2026-11-06T04:59:26.012Z"
   }
