@@ -4965,6 +4965,23 @@
       "status": "mail_ready",
       "createdAt": "2026-11-06T05:05:04.508Z",
       "updatedAt": "2026-11-06T05:05:24.013Z"
+    },
+    {
+      "id": "c1e5d111-6d1e-42f6-b31b-fe75f8946fe9",
+      "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
+      "jobTitle": "Jobs | Jobs LSC360",
+      "companyName": "Jobs LSC360",
+      "sourceUrl": "https://jobs.lsc360.lu/en/jobs",
+      "uriHost": "jobs.lsc360.lu",
+      "locationText": "Luxemburg",
+      "websiteLanguage": "Engels",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "LSC360 is the result of the merger of seven companies, bringing together complementary expertise in engineering, spatial planning, environmental services, and infrastructure. With nearly 50 years of experience, LSC360 offers an integrated and innovative approach to addressing the",
+      "scoreNotes": "Eigen careers-site SERP: Jobs | Jobs LSC360",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-11-06T05:08:40.461Z",
+      "updatedAt": "2026-11-06T05:08:40.461Z"
     }
   ],
   "carerixLinks": [
