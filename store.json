@@ -5328,9 +5328,9 @@
       "roleSummary": "Within our team, you will be responsible for the assembly and maintenance of industrial ovens. Your missions. As a Service Technician, you will ...",
       "scoreNotes": "Eigen careers-site SERP: Assembly Technician (m/f)",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T07:08:24.987Z",
-      "updatedAt": "2026-11-06T07:08:29.736Z"
+      "updatedAt": "2026-11-06T07:08:39.836Z"
     }
   ],
   "carerixLinks": [
@@ -6301,6 +6301,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T07:05:22.486Z"
+    },
+    {
+      "id": "8d32eee2-55bc-4ca1-be4a-7d537c96292e",
+      "findingId": "4ccdd543-67cf-4abc-a6fe-c240bb007464",
+      "companyId": "105231",
+      "contactId": "380192",
+      "vacancyId": "249336",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T07:08:39.836Z"
     }
   ],
   "exports": [
