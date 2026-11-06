@@ -5209,9 +5209,9 @@
       "roleSummary": "Postuler maintenant. Vos tâches: Installation, maintenance et réparation des systèmes sanitaires, de chauffage et de climatisation; Montage de systèmes de ...",
       "scoreNotes": "Eigen careers-site SERP: Technicien en installations sanitaires et chauffage (h/f)",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T06:31:38.589Z",
-      "updatedAt": "2026-11-06T06:31:43.510Z"
+      "updatedAt": "2026-11-06T06:31:55.235Z"
     }
   ],
   "carerixLinks": [
@@ -6116,6 +6116,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T06:29:56.367Z"
+    },
+    {
+      "id": "001ec7a6-4aa9-420e-a1da-1ed5a5401aaf",
+      "findingId": "c9138bb3-49b5-483e-85b4-b7299ecd7929",
+      "companyId": "105224",
+      "contactId": "380186",
+      "vacancyId": "249330",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T06:31:55.235Z"
     }
   ],
   "exports": [
