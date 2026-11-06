@@ -6886,13 +6886,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: SME - Computer Systems Engineer/Architect",
-    "etaSeconds": 815,
-    "updatedAt": "2026-11-06T06:38:32.029Z",
-    "workerHeartbeatAt": "2026-11-06T06:38:31.865Z",
+    "stage": "searching",
+    "message": "Gesynct: SME - Computer Systems Engineer/Architect (bestaande OG 105226, Vac 249332)",
+    "etaSeconds": 800,
+    "updatedAt": "2026-11-06T06:38:37.118Z",
+    "workerHeartbeatAt": "2026-11-06T06:38:36.937Z",
     "assignmentId": "8d714af0-9a0c-4892-99a8-b4ec0c0041a2",
-    "currentIndex": 5,
+    "currentIndex": 6,
     "targetCount": 10,
     "startedAt": "2026-11-06T06:22:53.602Z"
   }
