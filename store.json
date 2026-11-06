@@ -7011,13 +7011,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: TECHNICIEN DE MAINTENANCE (H/F/D) - Hein Group",
-    "etaSeconds": 335,
-    "updatedAt": "2026-11-06T07:05:20.743Z",
-    "workerHeartbeatAt": "2026-11-06T07:05:20.586Z",
+    "stage": "searching",
+    "message": "Gesynct: TECHNICIEN DE MAINTENANCE (H/F/D) - Hein Group (nieuwe OG 105230, Vac 249335)",
+    "etaSeconds": 320,
+    "updatedAt": "2026-11-06T07:05:25.477Z",
+    "workerHeartbeatAt": "2026-11-06T07:05:25.265Z",
     "assignmentId": "8d714af0-9a0c-4892-99a8-b4ec0c0041a2",
-    "currentIndex": 8,
+    "currentIndex": 9,
     "targetCount": 10,
     "startedAt": "2026-11-06T06:22:53.602Z"
   }
