@@ -6615,7 +6615,7 @@
     "stage": "blocked",
     "message": "Carerix-API fout: Carerix write niet verifieerbaar (OG nee / Vac 8887 / URL ok)",
     "etaSeconds": 0,
-    "updatedAt": "2026-11-06T06:17:38.327Z",
+    "updatedAt": "2026-11-06T06:17:41.538Z",
     "workerHeartbeatAt": "2026-11-06T06:17:30.236Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272"
   }
