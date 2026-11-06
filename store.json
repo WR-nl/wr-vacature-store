@@ -6707,14 +6707,14 @@
     "enabled": true,
     "busy": true,
     "stage": "searching",
-    "message": "Internet zoeken (ronde 1): Luxemburg Loodgieter",
+    "message": "Zoeken vervolg (ronde 2/12): Luxemburg Loodgieter",
     "etaSeconds": 1600,
-    "updatedAt": "2026-11-06T06:22:59.134Z",
-    "workerHeartbeatAt": "2026-11-06T06:22:57.402Z",
+    "updatedAt": "2026-11-06T06:23:14.624Z",
+    "workerHeartbeatAt": "2026-11-06T06:23:14.393Z",
     "assignmentId": "8d714af0-9a0c-4892-99a8-b4ec0c0041a2",
     "currentIndex": 1,
     "targetCount": 10,
-    "searchRound": 0,
+    "searchRound": 1,
     "startedAt": "2026-11-06T06:22:53.602Z"
   }
 }
