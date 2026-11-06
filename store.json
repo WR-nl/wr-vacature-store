@@ -6939,13 +6939,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Search Job Opportunities | Veolia",
-    "etaSeconds": 655,
-    "updatedAt": "2026-11-06T07:01:41.793Z",
-    "workerHeartbeatAt": "2026-11-06T07:01:41.647Z",
+    "stage": "searching",
+    "message": "Gesynct: Search Job Opportunities | Veolia (nieuwe OG 105228, Vac 249333)",
+    "etaSeconds": 640,
+    "updatedAt": "2026-11-06T07:01:46.657Z",
+    "workerHeartbeatAt": "2026-11-06T07:01:46.392Z",
     "assignmentId": "8d714af0-9a0c-4892-99a8-b4ec0c0041a2",
-    "currentIndex": 6,
+    "currentIndex": 7,
     "targetCount": 10,
     "startedAt": "2026-11-06T06:22:53.602Z"
   }
