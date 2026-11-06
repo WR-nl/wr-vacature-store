@@ -4928,9 +4928,9 @@
       "roleSummary": "Desktop IT Engineer / Field Services Technician. SS&C Technologies. Tokyo, JaponCDI. Competitive. il y a 9 mois. Postuler Sauvegarder. SS&C Technologies. Senior ...",
       "scoreNotes": "Eigen careers-site SERP: Desktop Support Engineer offres chez Ss&c technologies",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T04:59:50.593Z",
-      "updatedAt": "2026-11-06T05:01:20.048Z"
+      "updatedAt": "2026-11-06T05:01:27.971Z"
     }
   ],
   "carerixLinks": [
@@ -5725,6 +5725,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T04:57:56.343Z"
+    },
+    {
+      "id": "ed6bb9f6-60c9-4804-a58a-07f2aa48371b",
+      "findingId": "9d2c44a7-9f2f-4c67-9882-d06b6e77b562",
+      "companyId": "105007",
+      "contactId": "379060",
+      "vacancyId": "249320",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T05:01:27.971Z"
     }
   ],
   "exports": [
