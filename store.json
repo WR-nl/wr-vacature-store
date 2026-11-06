@@ -5016,6 +5016,23 @@
       "status": "mail_ready",
       "createdAt": "2026-11-06T05:12:32.773Z",
       "updatedAt": "2026-11-06T05:12:48.641Z"
+    },
+    {
+      "id": "83991876-198f-49f6-8801-a22a7df2abe3",
+      "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
+      "jobTitle": "PragmaGeeks — Talent pragmatique. Précision geek.",
+      "companyName": "PragmaGeeks",
+      "sourceUrl": "https://pragmageeks.com/fr/recrutement/",
+      "uriHost": "pragmageeks.com",
+      "locationText": "Luxemburg",
+      "websiteLanguage": "Engels",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Nous recrutons avec soin — pas pour remplir des quotas. Quand un poste s ... Infrastructure Engineer (Proxmox + K8s). Senior / 3y+ experiencePoste ...",
+      "scoreNotes": "Eigen careers-site SERP: On recrute des ingénieurs qui font leur travail avec soin.",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-11-06T05:19:43.990Z",
+      "updatedAt": "2026-11-06T05:19:43.990Z"
     }
   ],
   "carerixLinks": [
