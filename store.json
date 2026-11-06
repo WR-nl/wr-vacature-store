@@ -5050,6 +5050,23 @@
       "status": "mail_ready",
       "createdAt": "2026-11-06T05:21:51.394Z",
       "updatedAt": "2026-11-06T05:23:42.797Z"
+    },
+    {
+      "id": "7d06ead1-78c4-4f87-8544-4ececbda4172",
+      "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
+      "jobTitle": "SQLI offre d&#039;emploi | Job Ingénieur Test Automatisé (PlayWright / Robot Framework) H/F - Casablanca / Rabat - Rabat, Maroc",
+      "companyName": "Sqli",
+      "sourceUrl": "https://www.sqli.com/fr-fr/carriere/nos-offres-demploi/ingenieur-test-automatise-playwright-robot-framework-hf-casablanca",
+      "uriHost": "sqli.com",
+      "locationText": "Luxemburg",
+      "websiteLanguage": "Frans",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Afin de renforcer nos équipes (2200 personnes, réparties dans 12 pays), nous recrutons des collaborateurs passionnés et qui partagent nos valeurs : Creative ...",
+      "scoreNotes": "Eigen careers-site SERP: Ingénieur Test Automatisé (PlayWright / Robot Framework) ...",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-11-06T05:30:10.156Z",
+      "updatedAt": "2026-11-06T05:30:10.156Z"
     }
   ],
   "carerixLinks": [
