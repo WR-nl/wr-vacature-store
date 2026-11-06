@@ -6452,13 +6452,14 @@
     "enabled": true,
     "busy": true,
     "stage": "searching",
-    "message": "Internet zoeken (ronde 1): IT",
+    "message": "Zoeken vervolg (ronde 2/12): IT",
     "etaSeconds": 960,
-    "updatedAt": "2026-11-06T05:10:18.539Z",
-    "workerHeartbeatAt": "2026-11-06T05:10:14.033Z",
+    "updatedAt": "2026-11-06T05:10:38.026Z",
+    "workerHeartbeatAt": "2026-11-06T05:10:37.863Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
     "currentIndex": 5,
     "targetCount": 10,
-    "startedAt": "2026-11-06T04:59:26.012Z"
+    "startedAt": "2026-11-06T04:59:26.012Z",
+    "searchRound": 1
   }
 }
