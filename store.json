@@ -4996,9 +4996,9 @@
       "roleSummary": "Engineers Govt Jobs 2026: 🛠️ Looking for Government Engineer Jobs in various departments? This page is updated daily with the latest Engineer vacancies across India, including SSC, Banks, PSUs, Courts, and State Govt Departments. Apply Now!",
       "scoreNotes": "Eigen careers-site SERP: Engineers Govt Jobs 2026 – 6327 Posts (05-11-2026) - Apply ...",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T05:12:23.283Z",
-      "updatedAt": "2026-11-06T05:12:27.956Z"
+      "updatedAt": "2026-11-06T05:12:40.619Z"
     },
     {
       "id": "daf08265-0122-4999-af18-60c78f2c1eb5",
@@ -5854,6 +5854,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T05:08:56.314Z"
+    },
+    {
+      "id": "4e058fd0-2f69-4d68-bb8e-d2f96feb881d",
+      "findingId": "044cb178-893e-4d18-a9b2-624c7973b34c",
+      "companyId": "105219",
+      "contactId": "380180",
+      "vacancyId": "249324",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T05:12:40.619Z"
     }
   ],
   "exports": [
