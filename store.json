@@ -5047,9 +5047,9 @@
       "roleSummary": "Vous êtes titulaire d'un diplôme d'ingénieur ou d'un BAC+3 au minimum idéalement en génie climatique ... Postuler à ce poste. Ne remplissez pas ce champ. Nom *.",
       "scoreNotes": "Eigen careers-site SERP: Chargé d'affaires - Ingénieur Maintenance HVAC (F/H/D)",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T05:21:51.394Z",
-      "updatedAt": "2026-11-06T05:23:20.417Z"
+      "updatedAt": "2026-11-06T05:23:41.376Z"
     }
   ],
   "carerixLinks": [
@@ -5921,6 +5921,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T05:20:00.480Z"
+    },
+    {
+      "id": "85345565-642e-4a35-b1f8-840bb9f96bcb",
+      "findingId": "b99b683f-586d-44db-b2ef-c87da576f604",
+      "companyId": "105221",
+      "contactId": "380182",
+      "vacancyId": "249326",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T05:23:41.376Z"
     }
   ],
   "exports": [
