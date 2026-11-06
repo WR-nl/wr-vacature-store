@@ -4807,9 +4807,9 @@
       "roleSummary": "Home Over ons Teams Verhalen Vacatures Flexpool Woonzorg Zorg Thuis Werken & leren Woonzorg Zorg Thuis Contact",
       "scoreNotes": "Eigen careers-site SERP: Medewerker Financiële Administratie - Werken Bij",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T04:57:38.896Z",
-      "updatedAt": "2026-11-06T04:57:43.243Z"
+      "updatedAt": "2026-11-06T04:57:56.343Z"
     }
   ],
   "carerixLinks": [
@@ -5593,6 +5593,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-03T11:44:45.824Z"
+    },
+    {
+      "id": "3860c94c-7bac-4ab8-8106-5bc3b0573482",
+      "findingId": "4c1356ab-8fbe-45db-b615-850c64d06df4",
+      "companyId": "105216",
+      "contactId": "380177",
+      "vacancyId": "249319",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T04:57:56.343Z"
     }
   ],
   "exports": [
