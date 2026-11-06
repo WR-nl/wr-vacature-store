@@ -5311,9 +5311,9 @@
       "roleSummary": "Postuler maintenant. Vers le formulaire. Vous avez d'autres questions ? +352 26 66 2-1 ✉️ candidature@heingroup.lu. Société Hein. À propos · Offres d' ...",
       "scoreNotes": "Eigen careers-site SERP: TECHNICIEN DE MAINTENANCE (H/F/D)",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T07:05:07.264Z",
-      "updatedAt": "2026-11-06T07:05:12.360Z"
+      "updatedAt": "2026-11-06T07:05:22.486Z"
     }
   ],
   "carerixLinks": [
@@ -6273,6 +6273,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T07:03:33.982Z"
+    },
+    {
+      "id": "7069eec6-71b7-4879-88d2-5f181c778045",
+      "findingId": "3dfdf0f0-124d-4f7e-aeb1-2b3d70c3d82f",
+      "companyId": "105230",
+      "contactId": "380191",
+      "vacancyId": "249335",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T07:05:22.486Z"
     }
   ],
   "exports": [
