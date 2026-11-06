@@ -4945,9 +4945,9 @@
       "roleSummary": "Nous recrutons un Ingénieur Application H/F dans le cadre d'un CDD à pourvoir du 1er Décembre 2026 au 30 Juillet 2027. Votre équipe. Au sein du département ...",
       "scoreNotes": "Eigen careers-site SERP: Ingénieur Application / Développement JAVA Services ...",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T05:04:55.711Z",
-      "updatedAt": "2026-11-06T05:06:37.283Z"
+      "updatedAt": "2026-11-06T05:06:46.791Z"
     },
     {
       "id": "aed346ce-fa4b-4ff6-9dd3-6e9f193a52f4",
@@ -5781,6 +5781,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T05:05:22.405Z"
+    },
+    {
+      "id": "96212764-b708-4e41-85dc-68b528317213",
+      "findingId": "d4dcbfbd-8315-4fbf-b4a0-39aa35ab6559",
+      "companyId": "105009",
+      "contactId": "379062",
+      "vacancyId": "249322",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T05:06:46.791Z"
     }
   ],
   "exports": [
