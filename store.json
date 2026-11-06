@@ -5066,7 +5066,7 @@
       "meetsCriteria": true,
       "status": "entering_carerix",
       "createdAt": "2026-11-06T05:30:10.156Z",
-      "updatedAt": "2026-11-06T05:58:33.276Z"
+      "updatedAt": "2026-11-06T06:00:20.405Z"
     }
   ],
   "carerixLinks": [
@@ -6615,8 +6615,8 @@
     "stage": "entering",
     "message": "Carerix: SQLI offre d&#039;emploi | Job Ingénieur Test Automatisé (PlayWright / Robot Framework) H/F - Casablanca / Rabat - Rabat, Maroc @ Sqli",
     "etaSeconds": 200,
-    "updatedAt": "2026-11-06T06:00:17.128Z",
-    "workerHeartbeatAt": "2026-11-06T06:00:16.851Z",
+    "updatedAt": "2026-11-06T06:00:19.154Z",
+    "workerHeartbeatAt": "2026-11-06T06:00:18.994Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
     "currentIndex": 9,
     "targetCount": 10,
