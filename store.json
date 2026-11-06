@@ -5294,9 +5294,9 @@
       "roleSummary": "Montage de cuisines haut de gamme – nous recherchons un(e) monteur/monteuse de cuisines, les équipes complètes sont également bienvenues. Postuler maintenant.",
       "scoreNotes": "Eigen careers-site SERP: Monteur de cuisines (m/f/d) – Emplois | HEINEN",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T07:03:17.856Z",
-      "updatedAt": "2026-11-06T07:03:22.427Z"
+      "updatedAt": "2026-11-06T07:03:33.982Z"
     }
   ],
   "carerixLinks": [
@@ -6245,6 +6245,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T07:01:43.374Z"
+    },
+    {
+      "id": "9a3b5553-6544-4d34-ae4a-e88cbef14dac",
+      "findingId": "1a3d5a82-f559-4e0d-be76-0452fb876e76",
+      "companyId": "105229",
+      "contactId": "380190",
+      "vacancyId": "249334",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T07:03:33.982Z"
     }
   ],
   "exports": [
