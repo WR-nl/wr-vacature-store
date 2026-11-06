@@ -5030,9 +5030,9 @@
       "roleSummary": "Nous recrutons avec soin — pas pour remplir des quotas. Quand un poste s ... Infrastructure Engineer (Proxmox + K8s). Senior / 3y+ experiencePoste ...",
       "scoreNotes": "Eigen careers-site SERP: On recrute des ingénieurs qui font leur travail avec soin.",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T05:19:43.990Z",
-      "updatedAt": "2026-11-06T05:19:48.999Z"
+      "updatedAt": "2026-11-06T05:20:00.480Z"
     }
   ],
   "carerixLinks": [
@@ -5893,6 +5893,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T05:12:46.814Z"
+    },
+    {
+      "id": "b338b580-c3b7-4055-a6d1-317471948705",
+      "findingId": "83991876-198f-49f6-8801-a22a7df2abe3",
+      "companyId": "105220",
+      "contactId": "380181",
+      "vacancyId": "249325",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T05:20:00.480Z"
     }
   ],
   "exports": [
