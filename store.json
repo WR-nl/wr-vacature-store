@@ -6742,13 +6742,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Technician",
-    "etaSeconds": 1455,
-    "updatedAt": "2026-11-06T06:27:53.718Z",
-    "workerHeartbeatAt": "2026-11-06T06:27:53.560Z",
+    "stage": "searching",
+    "message": "Gesynct: Technician (nieuwe OG 105222, Vac 249328)",
+    "etaSeconds": 1440,
+    "updatedAt": "2026-11-06T06:27:58.521Z",
+    "workerHeartbeatAt": "2026-11-06T06:27:58.332Z",
     "assignmentId": "8d714af0-9a0c-4892-99a8-b4ec0c0041a2",
-    "currentIndex": 1,
+    "currentIndex": 2,
     "targetCount": 10,
     "startedAt": "2026-11-06T06:22:53.602Z"
   }
