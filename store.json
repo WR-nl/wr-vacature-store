@@ -6343,13 +6343,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: System Maintenance",
-    "etaSeconds": 1455,
-    "updatedAt": "2026-11-06T05:01:26.534Z",
-    "workerHeartbeatAt": "2026-11-06T05:01:26.294Z",
+    "stage": "searching",
+    "message": "Gesynct: System Maintenance (bestaande OG 105007, Vac 249320)",
+    "etaSeconds": 1440,
+    "updatedAt": "2026-11-06T05:01:30.870Z",
+    "workerHeartbeatAt": "2026-11-06T05:01:30.674Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
-    "currentIndex": 1,
+    "currentIndex": 2,
     "targetCount": 10,
     "startedAt": "2026-11-06T04:59:26.012Z"
   }
