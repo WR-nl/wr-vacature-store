@@ -4962,9 +4962,9 @@
       "roleSummary": "Engineering When you work as an engineer at PACCAR, you are at the core of everything we build and at the heart of what makes us leaders in this industry. PACCAR's highly skilled global network of engineers are not only leaders in their field; they are innovative, curious and are",
       "scoreNotes": "Eigen careers-site SERP: Engineering Jobs - Paccar",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T05:05:04.508Z",
-      "updatedAt": "2026-11-06T05:05:09.619Z"
+      "updatedAt": "2026-11-06T05:05:22.405Z"
     }
   ],
   "carerixLinks": [
@@ -5770,6 +5770,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T05:01:27.971Z"
+    },
+    {
+      "id": "a7161d62-3189-417a-a78e-bfb79983f6d3",
+      "findingId": "aed346ce-fa4b-4ff6-9dd3-6e9f193a52f4",
+      "companyId": "105217",
+      "contactId": "380178",
+      "vacancyId": "249321",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T05:05:22.405Z"
     }
   ],
   "exports": [
