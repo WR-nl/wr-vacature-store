@@ -6526,12 +6526,11 @@
     "stage": "searching",
     "message": "Zoeken vervolg (ronde 5/12): IT",
     "etaSeconds": 640,
-    "updatedAt": "2026-11-06T05:19:36.490Z",
+    "updatedAt": "2026-11-06T05:19:42.411Z",
     "workerHeartbeatAt": "2026-11-06T05:19:36.297Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
     "currentIndex": 7,
     "targetCount": 10,
-    "startedAt": "2026-11-06T04:59:26.012Z",
-    "searchRound": 4
+    "startedAt": "2026-11-06T04:59:26.012Z"
   }
 }
