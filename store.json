@@ -6203,10 +6203,11 @@
   "agentStatus": {
     "enabled": true,
     "busy": false,
-    "stage": "done",
-    "message": "Klaar — Nederland 1/1",
+    "stage": "blocked",
+    "message": "Carerix-API fout: Gedeelde store-schrijven mislukt: GitHub store conflict 409 {\"message\":\"is at f3fc886664fa811710f275b1feac8cabf0424601 but expected a17547158ea82fc0abc2088e0f05",
     "etaSeconds": 0,
-    "updatedAt": "2026-11-06T04:58:01.051Z",
-    "workerHeartbeatAt": "2026-11-06T04:58:00.599Z"
+    "updatedAt": "2026-11-06T04:58:03.936Z",
+    "workerHeartbeatAt": "2026-11-06T04:58:00.599Z",
+    "assignmentId": "ef4562ec-6e4d-47b0-b333-ad41fc7eb751"
   }
 }
