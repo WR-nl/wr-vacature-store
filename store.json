@@ -6595,13 +6595,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Chargé d’affaires - Ingénieur Maintenance HVAC (F/H/D) - A +P Kieffer Omnitec",
-    "etaSeconds": 335,
-    "updatedAt": "2026-11-06T05:24:55.457Z",
-    "workerHeartbeatAt": "2026-11-06T05:24:55.209Z",
+    "stage": "searching",
+    "message": "Zoeken: IT",
+    "etaSeconds": 320,
+    "updatedAt": "2026-11-06T05:24:57.335Z",
+    "workerHeartbeatAt": "2026-11-06T05:24:57.179Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
-    "currentIndex": 8,
+    "currentIndex": 9,
     "targetCount": 10,
     "startedAt": "2026-11-06T04:59:26.012Z"
   }
