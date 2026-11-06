@@ -5175,9 +5175,9 @@
       "roleSummary": "This role is responsible for safely operating, troubleshooting, maintaining, and optimizing a wide range of pilot, laboratory, and manufacturing-scale equipment ...",
       "scoreNotes": "Eigen careers-site SERP: Technician Job Details",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T06:27:36.613Z",
-      "updatedAt": "2026-11-06T06:27:41.956Z"
+      "updatedAt": "2026-11-06T06:27:55.481Z"
     }
   ],
   "carerixLinks": [
@@ -6060,6 +6060,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T05:23:41.376Z"
+    },
+    {
+      "id": "bad451ab-4c65-4d53-9bd2-ce46ee2d110e",
+      "findingId": "475beb38-4fd5-477c-afc5-ab65b04b3b33",
+      "companyId": "105222",
+      "contactId": "380184",
+      "vacancyId": "249328",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T06:27:55.481Z"
     }
   ],
   "exports": [
