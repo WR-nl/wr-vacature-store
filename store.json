@@ -6596,13 +6596,14 @@
     "enabled": true,
     "busy": true,
     "stage": "searching",
-    "message": "Internet zoeken (ronde 1): IT",
+    "message": "Zoeken vervolg (ronde 2/12): IT",
     "etaSeconds": 320,
-    "updatedAt": "2026-11-06T05:25:05.834Z",
-    "workerHeartbeatAt": "2026-11-06T05:24:57.179Z",
+    "updatedAt": "2026-11-06T05:25:23.865Z",
+    "workerHeartbeatAt": "2026-11-06T05:25:23.672Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
     "currentIndex": 9,
     "targetCount": 10,
-    "startedAt": "2026-11-06T04:59:26.012Z"
+    "startedAt": "2026-11-06T04:59:26.012Z",
+    "searchRound": 1
   }
 }
