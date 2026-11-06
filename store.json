@@ -5192,9 +5192,9 @@
       "roleSummary": "Join us. As part of our drive for excellence, we are constantly on the lookout for motivated new talent to join our team and move forward with us!",
       "scoreNotes": "Eigen careers-site SERP: Mechanical and Electrical Installation Technician (M/F)",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T06:29:35.618Z",
-      "updatedAt": "2026-11-06T06:29:40.419Z"
+      "updatedAt": "2026-11-06T06:29:56.367Z"
     }
   ],
   "carerixLinks": [
@@ -6088,6 +6088,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T06:27:55.481Z"
+    },
+    {
+      "id": "7a406689-4610-4ec9-b318-3c65cc4cba40",
+      "findingId": "20585f14-f41e-4d2a-91d7-cca4519cc6ea",
+      "companyId": "105223",
+      "contactId": "380185",
+      "vacancyId": "249329",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T06:29:56.367Z"
     }
   ],
   "exports": [
