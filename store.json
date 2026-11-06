@@ -5212,6 +5212,23 @@
       "status": "mail_ready",
       "createdAt": "2026-11-06T06:31:38.589Z",
       "updatedAt": "2026-11-06T06:31:56.869Z"
+    },
+    {
+      "id": "96bedd43-d292-4435-aeb3-ebcdac2101ee",
+      "assignmentId": "8d714af0-9a0c-4892-99a8-b4ec0c0041a2",
+      "jobTitle": "Technicien luxembourg | 5 offres d&#x27;emploi | Start People",
+      "companyName": "Startpeople",
+      "sourceUrl": "https://www.startpeople.be/fr/joblist/offres-d-emploi-technicien-luxembourg",
+      "uriHost": "startpeople.be",
+      "locationText": "Luxemburg-stad",
+      "websiteLanguage": "Frans",
+      "companySizeNote": "Via internet gevonden — SME/mid-size te valideren",
+      "roleSummary": "Nous avons trouvé 5 offres d'emploi pour vous · Technicien batiment · Electromécanicien · Technicien batiment · Responsable Maintenance & Technique.",
+      "scoreNotes": "Eigen careers-site SERP: 5 offres d'emploi - Technicien luxembourg - Start People",
+      "meetsCriteria": true,
+      "status": "found",
+      "createdAt": "2026-11-06T06:33:36.352Z",
+      "updatedAt": "2026-11-06T06:33:36.352Z"
     }
   ],
   "carerixLinks": [
