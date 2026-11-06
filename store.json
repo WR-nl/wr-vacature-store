@@ -4979,9 +4979,9 @@
       "roleSummary": "LSC360 is the result of the merger of seven companies, bringing together complementary expertise in engineering, spatial planning, environmental services, and infrastructure. With nearly 50 years of experience, LSC360 offers an integrated and innovative approach to addressing the",
       "scoreNotes": "Eigen careers-site SERP: Jobs | Jobs LSC360",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T05:08:40.461Z",
-      "updatedAt": "2026-11-06T05:08:44.682Z"
+      "updatedAt": "2026-11-06T05:08:56.314Z"
     }
   ],
   "carerixLinks": [
@@ -5809,6 +5809,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T05:06:46.791Z"
+    },
+    {
+      "id": "6734053c-8959-49fb-bedb-0fcf3537068d",
+      "findingId": "c1e5d111-6d1e-42f6-b31b-fe75f8946fe9",
+      "companyId": "105218",
+      "contactId": "380179",
+      "vacancyId": "249323",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T05:08:56.314Z"
     }
   ],
   "exports": [
