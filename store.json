@@ -6310,12 +6310,11 @@
     "stage": "searching",
     "message": "Internet zoeken (ronde 1): IT",
     "etaSeconds": 1600,
-    "updatedAt": "2026-11-06T04:59:31.632Z",
+    "updatedAt": "2026-11-06T04:59:49.053Z",
     "workerHeartbeatAt": "2026-11-06T04:59:30.011Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
     "currentIndex": 1,
     "targetCount": 10,
-    "searchRound": 0,
     "startedAt": "2026-11-06T04:59:26.012Z"
   }
 }
