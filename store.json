@@ -5243,9 +5243,9 @@
       "roleSummary": "We are seeking an experienced Systems Engineer to provide comprehensive planning, design, development, and technical support for a major ...",
       "scoreNotes": "Eigen careers-site SERP: SME - Computer Systems Engineer/Architect",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T06:37:05.719Z",
-      "updatedAt": "2026-11-06T06:38:24.128Z"
+      "updatedAt": "2026-11-06T06:38:33.624Z"
     }
   ],
   "carerixLinks": [
@@ -6172,6 +6172,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T06:33:53.204Z"
+    },
+    {
+      "id": "48baf522-b188-42d7-a45d-d3598fbfef84",
+      "findingId": "83d39239-f25b-4ef6-bc0a-e7ae199acf62",
+      "companyId": "105226",
+      "contactId": "380188",
+      "vacancyId": "249332",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T06:38:33.624Z"
     }
   ],
   "exports": [
