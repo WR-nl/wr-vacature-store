@@ -6346,12 +6346,11 @@
     "stage": "searching",
     "message": "Internet zoeken (ronde 2): IT",
     "etaSeconds": 1440,
-    "updatedAt": "2026-11-06T05:04:34.326Z",
+    "updatedAt": "2026-11-06T05:04:54.365Z",
     "workerHeartbeatAt": "2026-11-06T05:04:30.154Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
     "currentIndex": 2,
     "targetCount": 10,
-    "startedAt": "2026-11-06T04:59:26.012Z",
-    "searchRound": 1
+    "startedAt": "2026-11-06T04:59:26.012Z"
   }
 }
