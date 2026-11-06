@@ -5277,9 +5277,9 @@
       "roleSummary": "14 result[s] Jobs in Luxembourg · Technicien de maintenance (F/H/X) · Frigoriste (F/H/X) · Chargé d'affaires (F/H/X) · Monteur HVAC (F/H/X) - Livange · Technicien de ...",
       "scoreNotes": "Eigen careers-site SERP: 14 result[s] Jobs in Luxembourg - Veolia",
       "meetsCriteria": true,
-      "status": "entering_carerix",
+      "status": "synced",
       "createdAt": "2026-11-06T07:01:13.563Z",
-      "updatedAt": "2026-11-06T07:01:18.158Z"
+      "updatedAt": "2026-11-06T07:01:43.374Z"
     }
   ],
   "carerixLinks": [
@@ -6217,6 +6217,17 @@
       "groupContact8886": true,
       "groupVacancy8887": true,
       "syncedAt": "2026-11-06T06:38:33.624Z"
+    },
+    {
+      "id": "2fc68ec4-4ac9-4f97-9388-359dc596eb3c",
+      "findingId": "02ddbee3-d9f9-49d3-b346-2df93db3d133",
+      "companyId": "105228",
+      "contactId": "380189",
+      "vacancyId": "249333",
+      "groupCompany8885": true,
+      "groupContact8886": true,
+      "groupVacancy8887": true,
+      "syncedAt": "2026-11-06T07:01:43.374Z"
     }
   ],
   "exports": [
