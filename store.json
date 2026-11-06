@@ -6170,12 +6170,11 @@
     "stage": "searching",
     "message": "Internet zoeken (ronde 1): Nederland",
     "etaSeconds": 160,
-    "updatedAt": "2026-11-06T04:57:24.690Z",
+    "updatedAt": "2026-11-06T04:57:37.506Z",
     "workerHeartbeatAt": "2026-11-06T04:57:23.117Z",
     "assignmentId": "ef4562ec-6e4d-47b0-b333-ad41fc7eb751",
     "currentIndex": 1,
     "targetCount": 1,
-    "searchRound": 0,
     "startedAt": "2026-11-06T04:57:19.210Z"
   }
 }
