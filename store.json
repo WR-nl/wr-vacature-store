@@ -6504,13 +6504,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Engineers Govt Jobs 2026 – 6675 Vacancies Apply Online (06-11-2026)",
-    "etaSeconds": 815,
-    "updatedAt": "2026-11-06T05:12:36.329Z",
-    "workerHeartbeatAt": "2026-11-06T05:12:36.122Z",
+    "stage": "searching",
+    "message": "Gesynct: Engineers Govt Jobs 2026 – 6675 Vacancies Apply Online (06-11-2026) (nieuwe OG 105219, Vac 249324)",
+    "etaSeconds": 800,
+    "updatedAt": "2026-11-06T05:12:43.650Z",
+    "workerHeartbeatAt": "2026-11-06T05:12:43.465Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
-    "currentIndex": 5,
+    "currentIndex": 6,
     "targetCount": 10,
     "startedAt": "2026-11-06T04:59:26.012Z"
   }
