@@ -6451,13 +6451,13 @@
   "agentStatus": {
     "enabled": true,
     "busy": true,
-    "stage": "syncing",
-    "message": "Sync/export: Jobs | Jobs LSC360",
-    "etaSeconds": 975,
-    "updatedAt": "2026-11-06T05:08:54.630Z",
-    "workerHeartbeatAt": "2026-11-06T05:08:54.449Z",
+    "stage": "searching",
+    "message": "Gesynct: Jobs | Jobs LSC360 (nieuwe OG 105218, Vac 249323)",
+    "etaSeconds": 960,
+    "updatedAt": "2026-11-06T05:08:59.224Z",
+    "workerHeartbeatAt": "2026-11-06T05:08:59.051Z",
     "assignmentId": "a1772e92-4aee-4e52-99fa-6ac95b914272",
-    "currentIndex": 4,
+    "currentIndex": 5,
     "targetCount": 10,
     "startedAt": "2026-11-06T04:59:26.012Z"
   }
